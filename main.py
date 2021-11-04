@@ -10,6 +10,7 @@ import nltk
 import pycountry
 import re
 import string
+import time
 
 from wordcloud import WordCloud, STOPWORDS
 from PIL import Image
@@ -18,19 +19,24 @@ from langdetect import detect
 from nltk.stem import SnowballStemmer
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import CountVectorizer
+#choose API version
+vers=2
 
 # set creds
-result = pd.read_csv('C:/Users/morit/Documents/School/MSc - Research Project (Semester 3)/creds.csv')
+if vers==1.1:
+    result = pd.read_csv('C:/Users/morit/Documents/School/MSc - Research Project (Semester 3)/creds1.1.csv')
+else:
+    result = pd.read_csv('C:/Users/morit/Documents/School/MSc - Research Project (Semester 3)/creds.csv')
 print(result)
 CONSUMER_KEY=result.loc[0]['value']
 CONSUMER_SECRET=result.loc[1]['value']
-Bearer_Token=result.loc[2]['value']
+BEARER_TOKEN=result.loc[2]['value']
 ACCESS_TOKEN=result.loc[3]['value']
 ACCESS_TOKEN_SECRET=result.loc[4]['value']
-print(CONSUMER_KEY)
-print(CONSUMER_SECRET)
-print(ACCESS_TOKEN)
-print(ACCESS_TOKEN_SECRET)
+# print(CONSUMER_KEY)
+# print(CONSUMER_SECRET)
+# print(ACCESS_TOKEN)
+# print(ACCESS_TOKEN_SECRET)
 
 
 # Utility function to clean tweet text by removing links, special characters
@@ -46,18 +52,27 @@ try:
     auth.set_access_token(ACCESS_TOKEN,ACCESS_TOKEN_SECRET)
     # Create API object
     api = tweepy.API(auth)
+    print("Authentication successfull")
     print(api.verify_credentials().name)
+    # client = tweepy.Client(BEARER_TOKEN, wait_on_rate_limit=True)
 except:
     print("Error: Authentication Failed")
     
 
 #Get data
-keyword = "lockdown2london"
+tweets_array = []
+keyword = "Tweepy"
 noOfTweets = int(5)
-tweets = tweepy.Cursor(api.search_tweets(q=keyword, count=noOfTweets))
+date_since="2021-10-20"
 
-for tweet in tweets:
- print(tweet.text)
+
+# #attempt with tweepy 4.3.0
+for tweet in tweepy.Cursor(api.search_tweets, q=keyword, lang="en").items(noOfTweets):
+    tweets_array.append(tweet.text)
+
+for tweet in tweets_array:
+ print(tweet)
+
 
 
  # creating object of TwitterClient Class
@@ -67,3 +82,33 @@ for tweet in tweets:
 
 # call twitter api to fetch tweets
 # fetched_tweets = self.api.search(q = query, count = count)
+
+
+# for status in tweepy.Cursor(api.search_tweets, q=keyword,
+#                             count=100).items(10):
+#     print(status.text)
+
+# for page in tweepy.Cursor(api.get_followers, screen_name="TwitterDev",
+#                           count=200).pages(5):
+#     print(len(page))
+
+#attempt with old tweepy 3.10.0
+# tweets = tweepy.Cursor(api.search, q=keyword, lang="en",
+#                            tweet_mode='extended').items(noOfTweets)
+
+#tweets = list(tweepy.Cursor(api.search_tweets(q=keyword)).items(noOfTweets))
+
+
+# for response in tweepy.Paginator(client.search_all_tweets, 
+#                                  query = 'COVID hoax -is:retweet lang:en',
+#                                  user_fields = ['username', 'public_metrics', 'description', 'location'],
+#                                  tweet_fields = ['created_at', 'geo', 'public_metrics', 'text'],
+#                                  expansions = 'author_id',
+#                                  start_time = '2021-01-20T00:00:00Z',
+#                                  end_time = '2021-01-21T00:00:00Z',
+#                               max_results=5):
+#     time.sleep(1)
+#     tweets.append(response)
+
+# print(tweets)
+# print(tweets_array)
