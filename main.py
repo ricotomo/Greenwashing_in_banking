@@ -11,6 +11,7 @@ import pycountry
 import re
 import string
 import time
+import csv 
 
 from wordcloud import WordCloud, STOPWORDS
 from PIL import Image
@@ -66,13 +67,69 @@ noOfTweets = int(5)
 date_since="2021-10-20"
 
 
-# #attempt with tweepy 4.3.0
+# attempt with tweepy 4.3.0
 for tweet in tweepy.Cursor(api.search_tweets, q=keyword, lang="en").items(noOfTweets):
     tweets_array.append(tweet.text)
 
 for tweet in tweets_array:
  print(tweet)
 
+## using Client object
+## https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
+try:
+    client = tweepy.Client(bearer_token=BEARER_TOKEN)
+    print("client successfully created")
+except:
+    print("client connection failed")
+
+# Searching for Tweets from the last 7 days 
+#client.search_recent_tweets
+
+query_client = 'covid'
+
+tweets = client.search_recent_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at'], max_results=10)
+
+for tweet in tweets.data:
+    print(tweet.text)
+    if len(tweet.context_annotations) > 0:
+        print(tweet.context_annotations)
+
+#Searching for Tweets from the full-archive of public Tweets 
+# Client.search_all_tweets(query, *, end_time, expansions, max_results, media_fields, next_token, place_fields, poll_fields, since_id, start_time, tweet_fields, until_id, user_fields)
+
+# tweets = client.search_all_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at'], max_results=10)
+
+# for tweet in tweets.data:
+#     print(tweet.text)
+#     if len(tweet.context_annotations) > 0:
+#         print(tweet.context_annotations)
+
+#with timeframe
+
+# # Replace with time period of your choice
+# start_time = '2020-01-01T00:00:00Z'
+
+# # Replace with time period of your choice
+# end_time = '2020-08-01T00:00:00Z'
+
+# tweets = client.search_all_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at'],
+#                                   start_time=start_time,
+#                                   end_time=end_time, max_results=10)
+
+# for tweet in tweets.data:
+#     print(tweet.text)
+#     print(tweet.created_at)
+
+#Writing Tweets to a text file 
+
+# Name and path of the file where you want the Tweets written to
+file_name = 'tweets.txt'
+
+with open(file_name, 'a+') as filehandle:
+    for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client,
+                                  tweet_fields=['text'], max_results=10).flatten(
+            limit=100):
+        filehandle.write('%s\n' % tweet.id)
 
 
  # creating object of TwitterClient Class
