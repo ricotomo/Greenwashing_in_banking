@@ -123,14 +123,21 @@ for tweet in tweets.data:
 #Writing Tweets to a text file 
 
 # Name and path of the file where you want the Tweets written to
-file_name = 'tweets.txt'
+# file_name = 'tweets.txt'
 
-with open(file_name, 'a+') as filehandle:
-    for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client,
-                                  tweet_fields=['text'], max_results=10).flatten(
-            limit=100):
-        filehandle.write('%s\n' % tweet.id)
+# with open(file_name, 'a+') as filehandle:
+#     for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client,
+#                                   tweet_fields=['text'], max_results=10).flatten(
+#             limit=100):
+#         filehandle.write('%s\n' % [tweet.created_at, tweet.text.encode('utf-8')])
 
+# Open/create a file to append data to
+csvFile = open('result.csv', 'a')
+csvWriter = csv.writer(csvFile)
+
+for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text'], max_results=10).flatten(limit=100):
+    csvWriter.writerow([tweet.created_at, tweet.text.encode('utf-8')])
+csvFile.close()
 
  # creating object of TwitterClient Class
     # api = TwitterClient()
