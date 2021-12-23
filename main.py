@@ -45,27 +45,46 @@ ACCESS_TOKEN_SECRET=result.loc[4]['value']
 def clean_tweet(self, tweet):       
     return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweet).split())
 
-#max query size is 1,024 characters
+
 #this function splits long query into multiple smaller ones
+#If you have Essential or Elevated access, your query can be 512 characters long.
+# If you have Academic Research access, your query can be 1024 characters lon
 def split_query(query):
+    access_lvl="elevated"
+    other_rules = " -is:retweet"
+    if access_lvl == "academic":
+        rule_len = (1024 - len(other_rules))
+    else:
+        rule_len =( 512 - len(other_rules))
+
     sized_queries=[]
     chunks = re.split('(OR)', query)  # Splitting from 'OR'
-    # print(chunks)
+    print(chunks)
     curr_q=""
-    for chunk in chunks:
-        # print(curr_q)
-        # print(len(curr_q))
-        if ((len(curr_q) + len(chunk)) < 1012):
+    for index, chunk in enumerate(chunks):
+        print(curr_q)
+        print(len(curr_q))
+        if ((len(curr_q) + len(chunk)) < rule_len):
             curr_q= curr_q + chunk
+        elif index == (len(chunks)-1):
+            #entered if we reach the end of the list
+            if curr_q[-1] == 'R' and curr_q[-2] == 'O':
+                print("entered OR removal")
+                curr_q = curr_q[:len(curr_q) - 2]
+            sized_queries.append(curr_q+ other_rules)
         else:
-            # print("entered else")
-            # print(sized_queries)
-            sized_queries.append(curr_q+" -is:retweet")
+            #checks if there is an OR before we add our additional rules. If there is we need to remove it or get and error
+            if curr_q[-1] == 'R' and curr_q[-2] == 'O':
+                print("entered OR removal")
+                curr_q = curr_q[:len(curr_q) - 2]
+            sized_queries.append(curr_q + other_rules)
+            #makes sure we dont start with an OR
             if chunk == "OR":
                 curr_q=""
             else:
                 curr_q=chunk
-        sized_queries.append(curr_q+" -is:retweet")
+        
+        
     return (sized_queries)
 
 # Authenticate to Twitter
@@ -98,7 +117,10 @@ for index, row in df_accounts.iterrows():
     curr_account=row['Username']
     #iterate through keywords
     for index, row in df_keywords.iterrows():
-        query=query+(curr_account + " " + row['word'] + " OR ")
+        if index == len(df_keywords)-1:
+            query=query+(curr_account + " " + row['word'])
+        else:
+            query=query+(curr_account + " " + row['word'] + " OR ")
 
 
 queries=split_query(query)
@@ -132,20 +154,20 @@ except:
 query_client = queries[0]
 print(query_client)
 
-tweets = client.search_recent_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at', 'text'], max_results=10)
+# tweets = client.search_recent_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at', 'text'], max_results=10)
 
-for tweet in tweets.data:
-    print(tweet.text)
-    if len(tweet.context_annotations) > 0:
-        print(tweet.context_annotations)
+# for tweet in tweets.data:
+#     print(tweet.text)
+#     if len(tweet.context_annotations) > 0:
+#         print(tweet.context_annotations)
 
-# Open/create a file to append data to
-# csvFile = open('result.csv', 'a')
-# csvWriter = csv.writer(csvFile)
+#Open/create a file to append data to
+csvFile = open('result.csv', 'a')
+csvWriter = csv.writer(csvFile)
 
-# for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=10).flatten(limit=100):
-#     csvWriter.writerow([tweet.id, tweet.created_at, tweet.text.encode('utf-8')])
-# csvFile.close()
+for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=10).flatten(limit=100):
+    csvWriter.writerow([tweet.id, tweet.created_at, tweet.text.encode('utf-8')])
+csvFile.close()
 
 #Searching for Tweets from the full-archive of public Tweets 
 # Client.search_all_tweets(query, *, end_time, expansions, max_results, media_fields, next_token, place_fields, poll_fields, since_id, start_time, tweet_fields, until_id, user_fields)
