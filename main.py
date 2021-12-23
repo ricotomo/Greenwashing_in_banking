@@ -43,7 +43,30 @@ ACCESS_TOKEN_SECRET=result.loc[4]['value']
 # Utility function to clean tweet text by removing links, special characters
 # using simple regex statements.
 def clean_tweet(self, tweet):       
-        return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweet).split())
+    return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweet).split())
+
+#max query size is 1,024 characters
+#this function splits long query into multiple smaller ones
+def split_query(query):
+    sized_queries=[]
+    chunks = re.split('(OR)', query)  # Splitting from 'OR'
+    # print(chunks)
+    curr_q=""
+    for chunk in chunks:
+        # print(curr_q)
+        # print(len(curr_q))
+        if ((len(curr_q) + len(chunk)) < 1012):
+            curr_q= curr_q + chunk
+        else:
+            # print("entered else")
+            # print(sized_queries)
+            sized_queries.append(curr_q+" -is:retweet")
+            if chunk == "OR":
+                curr_q=""
+            else:
+                curr_q=chunk
+        sized_queries.append(curr_q+" -is:retweet")
+    return (sized_queries)
 
 # Authenticate to Twitter
 try:
@@ -59,20 +82,41 @@ try:
 except:
     print("Error: Authentication Failed")
     
+#Build query from company accounts and ESG keywords
+#https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 
-#Get data
-tweets_array = []
-keyword = "Tweepy"
-noOfTweets = int(5)
-date_since="2021-10-20"
+df_keywords = pd.read_csv ('keywords.csv')
+df_accounts = pd.read_csv ('accounts.csv')
+print("dataframe:")
+print(df_keywords.head())
+print(df_accounts.head())
+
+query=str("")
+
+#iterate over accounts
+for index, row in df_accounts.iterrows():
+    curr_account=row['Username']
+    #iterate through keywords
+    for index, row in df_keywords.iterrows():
+        query=query+(curr_account + " " + row['word'] + " OR ")
 
 
-# attempt with tweepy 4.3.0
-for tweet in tweepy.Cursor(api.search_tweets, q=keyword, lang="en").items(noOfTweets):
-    tweets_array.append(tweet.text)
+queries=split_query(query)
 
-for tweet in tweets_array:
- print(tweet)
+
+# #Get data
+# tweets_array = []
+# keyword = "Tweepy"
+# noOfTweets = int(5)
+# date_since="2021-10-20"
+
+
+# # attempt with tweepy 4.3.0
+# for tweet in tweepy.Cursor(api.search_tweets, q=query, lang="en").items(noOfTweets):
+#     tweets_array.append(tweet.text)
+
+# for tweet in tweets_array:
+#  print(tweet)
 
 ## using Client object
 ## https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
@@ -82,17 +126,26 @@ try:
 except:
     print("client connection failed")
 
-# Searching for Tweets from the last 7 days 
-#client.search_recent_tweets
+# # Searching for Tweets from the last 7 days 
+# #client.search_recent_tweets
 
-query_client = 'covid'
+query_client = queries[0]
+print(query_client)
 
-tweets = client.search_recent_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at'], max_results=10)
+tweets = client.search_recent_tweets(query=query_client, tweet_fields=['context_annotations', 'created_at', 'text'], max_results=10)
 
 for tweet in tweets.data:
     print(tweet.text)
     if len(tweet.context_annotations) > 0:
         print(tweet.context_annotations)
+
+# Open/create a file to append data to
+# csvFile = open('result.csv', 'a')
+# csvWriter = csv.writer(csvFile)
+
+# for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=10).flatten(limit=100):
+#     csvWriter.writerow([tweet.id, tweet.created_at, tweet.text.encode('utf-8')])
+# csvFile.close()
 
 #Searching for Tweets from the full-archive of public Tweets 
 # Client.search_all_tweets(query, *, end_time, expansions, max_results, media_fields, next_token, place_fields, poll_fields, since_id, start_time, tweet_fields, until_id, user_fields)
@@ -131,13 +184,7 @@ for tweet in tweets.data:
 #             limit=100):
 #         filehandle.write('%s\n' % [tweet.created_at, tweet.text.encode('utf-8')])
 
-# Open/create a file to append data to
-csvFile = open('result.csv', 'a')
-csvWriter = csv.writer(csvFile)
 
-for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text'], max_results=10).flatten(limit=100):
-    csvWriter.writerow([tweet.created_at, tweet.text.encode('utf-8')])
-csvFile.close()
 
  # creating object of TwitterClient Class
     # api = TwitterClient()
