@@ -1,5 +1,6 @@
 import tweepy
 import pandas as pd
+import numpy as np
 
 #choose API version
 vers=2
@@ -20,7 +21,7 @@ ACCESS_TOKEN_SECRET=result.loc[4]['value']
 # print(ACCESS_TOKEN)
 # print(ACCESS_TOKEN_SECRET)
 
-def connect_api():
+def connect_api(verbose):
     # Authenticate to Twitter
     try:
         # create OAuthHandler object
@@ -29,7 +30,8 @@ def connect_api():
         auth.set_access_token(ACCESS_TOKEN,ACCESS_TOKEN_SECRET)
         # Create API object
         api = tweepy.API(auth)
-        print("Authentication successfull")
+        if verbose: 
+            print("Authentication successfull")
         print(api.verify_credentials().name)
         # client = tweepy.Client(BEARER_TOKEN, wait_on_rate_limit=True)
     except:
@@ -39,11 +41,28 @@ def connect_api():
 
 ## using Client object
 ## https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
-def connect_client():
+def connect_client(verbose):
     try:
         client = tweepy.Client(bearer_token=BEARER_TOKEN)
-        print("client successfully created")
+        if verbose: 
+            print("client successfully created")
         return client
     except:
         print("client connection failed")
         return None
+
+def get_data(client, query_client, FI):
+    #data = np.array([['test'], ['test']])
+    data = pd.DataFrame(columns=['id', 'text', 'created_at', 'company'])
+    pd.set_option("display.max_rows", None, "display.max_columns", None) 
+    for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=100).flatten(limit=100):
+        data1 = [{'id':tweet.id, 'text':tweet.text.encode('utf-8'), 'created_at':tweet.created_at, 'company':str(FI)}]
+        returned_tweet = pd.DataFrame.from_dict(data1, orient='columns')
+        # print("...............................................")
+        # print(returned_tweet)
+        data = data.append(returned_tweet, ignore_index=True)
+        # print("the data dataframe with tweets in get_data() is: ")
+        # print(returned_tweet)
+    # print("complete data is")
+    # print(data)
+    return data
