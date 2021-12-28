@@ -10,7 +10,7 @@ if vers==1.1:
     result = pd.read_csv('C:/Users/morit/Documents/School/MSc - Research Project (Semester 3)/creds1.1.csv')
 else:
     result = pd.read_csv('C:/Users/morit/Documents/School/MSc - Research Project (Semester 3)/creds.csv')
-print(result)
+#print(result)
 CONSUMER_KEY=result.loc[0]['value']
 CONSUMER_SECRET=result.loc[1]['value']
 BEARER_TOKEN=result.loc[2]['value']

@@ -16,8 +16,9 @@ import csv
 #import my modules
 import query_constucter
 import twitter_client
+import tweet_cleaner
 
-from wordcloud import WordCloud, STOPWORDS
+from wordcloud import WordCloud, STOPWORDS , ImageColorGenerator
 from PIL import Image
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from langdetect import detect
@@ -59,7 +60,7 @@ try:
     for query in queries:
         data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset)
         tweets_df = tweets_df.append(data)
-        print(tweets_df)
+        #print(tweets_df)
 except:
     tweets_df = pd.DataFrame(columns=['id', 'created_at', 'text', 'company'])
     for query in queries:
@@ -76,6 +77,23 @@ tweets_df = tweets_df.reset_index(drop = True)
 #write dataframe to csv
 tweets_df.to_csv("results1.csv")
 
+##tweet cleaning steps
+
+#make sure all tweet texts are of type string so we can work with them
+tweets_df['text'] = tweets_df['text'].astype(str)
+#remove usernames
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.remove_usernames(x))
+#remove punctuation
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.remove_punct(x))
+#tokenize
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.tokenization(x.lower()))
+#remove stopwords
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.remove_stopwords(x))
+print(tweets_df.head(10))
+#stemming
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.stemming(x))
+#lemmantization
+tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.lemmatizer(x))
 
 #inform user code is done executing
 print("The code has finished executing ")
