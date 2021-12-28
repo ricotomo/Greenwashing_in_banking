@@ -39,29 +39,44 @@ for index, query in enumerate(queries_by_FI):
 # #Get data
 client = twitter_client.connect_client(verbose)
 
+#if we want to erase the csv data and start from scratch set to true
+reset=False
+
+
 # # Searching for Tweets from the last 7 days 
 # #client.search_recent_tweets
-tweets_df = pd.DataFrame(columns=['id', 'created_at', 'text', 'company'])
-for query in queries:
-    # print("this is the query")
-    # print(query[1])
-    data=twitter_client.get_data(client, query[1], query[0])
-    #print("data from get data()")
-    tweets_df = tweets_df.append(data)
-    print(tweets_df)
 
+most_recent_date = None
+
+try:
+    if reset:
+        tweets_df = pd.DataFrame(columns=['id', 'created_at', 'text', 'company'])
+    else:
+        tweets_df = pd.read_csv("results1.csv", index_col=0) 
+        tweets_df['created_at'] = pd.to_datetime(tweets_df['created_at'])
+        most_recent_date = tweets_df['created_at'].max()
+
+    for query in queries:
+        data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset)
+        tweets_df = tweets_df.append(data)
+        print(tweets_df)
+except:
+    tweets_df = pd.DataFrame(columns=['id', 'created_at', 'text', 'company'])
+    for query in queries:
+        data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset)
+        tweets_df = tweets_df.append(data)
+        #print(tweets_df)
+
+#get rid of duplicate tweets, get rid of NaNs and reset index of dataframe
 tweets_df = tweets_df.drop_duplicates('id', keep='last')
 tweets_df = tweets_df[tweets_df['text'].notna()]
 tweets_df = tweets_df.reset_index(drop = True)
 
+
 #write dataframe to csv
 tweets_df.to_csv("results1.csv")
 
-# #Open/create a file to append data to
-# csvFile = open('result.csv', 'a')
-# csvWriter = csv.writer(csvFile)
-# for query_client in queries:
-#     for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=100).flatten(limit=100):
-#         print(tweet.text)
-#         csvWriter.writerow([tweet.id, tweet.created_at, tweet.text.encode('utf-8')])
-# csvFile.close()
+
+#inform user code is done executing
+print("The code has finished executing ")
+

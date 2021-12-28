@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import csv 
+import numpy as np
 
 def build_query(verbose):
     #Build query from company accounts and ESG keywords

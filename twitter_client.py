@@ -51,18 +51,26 @@ def connect_client(verbose):
         print("client connection failed")
         return None
 
-def get_data(client, query_client, FI):
+def get_data(client, query_client, FI, date=None, reset=False):
     #data = np.array([['test'], ['test']])
     data = pd.DataFrame(columns=['id', 'text', 'created_at', 'company'])
     pd.set_option("display.max_rows", None, "display.max_columns", None) 
-    for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=100).flatten(limit=100):
-        data1 = [{'id':tweet.id, 'text':tweet.text.encode('utf-8'), 'created_at':tweet.created_at, 'company':str(FI)}]
-        returned_tweet = pd.DataFrame.from_dict(data1, orient='columns')
-        # print("...............................................")
-        # print(returned_tweet)
-        data = data.append(returned_tweet, ignore_index=True)
-        # print("the data dataframe with tweets in get_data() is: ")
-        # print(returned_tweet)
-    # print("complete data is")
-    # print(data)
+    
+    # Use the start_time parameter to only get data past most recent pull
+    if (date != None and reset==False):
+        for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], start_time=date, max_results=100).flatten(limit=100):
+            data1 = [{'id':tweet.id, 'text':tweet.text.encode('utf-8'), 'created_at':tweet.created_at, 'company':str(FI)}]
+            returned_tweet = pd.DataFrame.from_dict(data1, orient='columns')
+            data = data.append(returned_tweet, ignore_index=True)
+    else:
+        for tweet in tweepy.Paginator(client.search_recent_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], max_results=100).flatten(limit=100):
+            data1 = [{'id':tweet.id, 'text':tweet.text.encode('utf-8'), 'created_at':tweet.created_at, 'company':str(FI)}]
+            returned_tweet = pd.DataFrame.from_dict(data1, orient='columns')
+            # print("...............................................")
+            # print(returned_tweet)
+            data = data.append(returned_tweet, ignore_index=True)
+            # print("the data dataframe with tweets in get_data() is: ")
+            # print(returned_tweet)
+        # print("complete data is")
+        # print(data)
     return data
