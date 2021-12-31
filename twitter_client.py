@@ -55,6 +55,11 @@ def get_data(client, query_client, FI, date=None, reset=False):
     #data = np.array([['test'], ['test']])
     data = pd.DataFrame(columns=['id', 'text', 'created_at', 'company'])
     pd.set_option("display.max_rows", None, "display.max_columns", None) 
+    query_client = query_client.replace("'" ,'"') 
+    print(type(query_client))
+    print("query is : ")
+
+    print(query_client)
     
     # Use the start_time parameter to only get data past most recent pull
     if (date != None and reset==False):

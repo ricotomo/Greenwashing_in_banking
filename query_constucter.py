@@ -7,8 +7,9 @@ def build_query(verbose):
     #Build query from company accounts and ESG keywords
     #https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 
-    df_keywords = pd.read_csv ('keywords.csv')
-    df_accounts = pd.read_csv ('accounts.csv')
+    df_keywords = pd.read_csv('keywords.csv', sep=',', encoding='utf-8', quoting=csv.QUOTE_ALL, quotechar='"')
+    df_keywords['word'] = df_keywords['word'].replace("'" ,'"')
+    df_accounts = pd.read_csv('accounts.csv')
     if verbose:
         print("dataframe of build_query():")
         print(df_keywords.head())
@@ -34,7 +35,7 @@ def build_query(verbose):
 
 def split_query(query, verbose):
     access_lvl="elevated"
-    other_rules = '-"credit score" lang:en -is:retweet'
+    other_rules = "-'credit score' lang:en -is:retweet"
     if access_lvl == "academic":
         rule_len = (1024 - len(other_rules))
     else:
@@ -70,6 +71,8 @@ def split_query(query, verbose):
                 curr_q=""
             else:
                 curr_q=chunk
-        
+    
+    for x in sized_queries:
+        x.replace("'" ,'"') 
         
     return (sized_queries)
