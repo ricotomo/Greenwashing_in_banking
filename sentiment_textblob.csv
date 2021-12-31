@@ -1,541 +1,410 @@
 ,id,created_at,text,company,textblob_polarity,textblob_sentiment
 0,1474695279416946691,2021-12-25 10:55:27+00:00,wish alarm might impact credit rating,HSBC,0.0,Neutral
-1,1474397455471026180,2021-12-24 15:12:01+00:00,oh gosh going negative impact credit score,HSBC,-0.3,Negative
-2,1476231549595049987,2021-12-29 16:40:03+00:00,help cashpoint bethnal green road gave managed get last stuckcouldve branch closed going away wale tomorrowanybody else similar problem cashpoint amp new note,HSBC,-0.03272727272727274,Negative
-3,1475537284577562635,2021-12-27 18:41:17+00:00,tree least given investment industry damage destroy environment climatecrisis greenwashing,HSBC,-0.25,Negative
-4,1474418689516748801,2021-12-24 16:36:23+00:00,planting tree v channeling trillion coal oil gas since rapidly accelerating climate crisis please get priority straight greenwashing,HSBC,0.2,Positive
-5,1475701970954596353,2021-12-28 05:35:41+00:00,rt climate change doesnt border working customer transition netzero find,HSBC,0.0,Neutral
-6,1474855432606781440,2021-12-25 21:31:51+00:00,rt tree capture carbon make home nature reduce flooding planting,HSBC,0.0,Neutral
-7,1476412395031605252,2021-12-30 04:38:40+00:00,wait climatecrisis climateaction,HSBC,0.0,Neutral
-8,1475642921818935301,2021-12-28 01:41:03+00:00,rt beginning climatecrisis get much worse tellthetruth listen scientist dem,HSBC,-0.4,Negative
-9,1476206584254582785,2021-12-29 15:00:50+00:00,announced successful test token digital wallet settlement two cbdcs cloud environment experiment consisted transaction cbdcs ebonds forex,HSBC,0.375,Positive
-10,1475701649578602497,2021-12-28 05:34:25+00:00,rt year reforestation initiative mexico partnership planted tree across,HSBC,0.0,Neutral
-11,1475324138873143302,2021-12-27 04:34:19+00:00,rt glowing star new digital currency tech giant thursday announced successful test digital wallet,HSBC,0.17727272727272728,Positive
-12,1475194295162490886,2021-12-26 19:58:22+00:00,rt entrepreneur tjin lee combine business social impact build better future partner content,HSBC,0.17777777777777778,Positive
-13,1474816030673358852,2021-12-25 18:55:17+00:00,rt businesswoman social impact entrepreneur tjin lee finding right balance thrive partner content,HSBC,0.1595238095238095,Positive
-14,1474331852903448583,2021-12-24 10:51:20+00:00,rt way look business investment philanthropic activity changing along talk impact,HSBC,0.0,Neutral
-15,1476678757763239936,2021-12-30 22:17:05+00:00,fund shift sustainable future sdis rt,HSBC,0.0,Neutral
-16,1476597396486434817,2021-12-30 16:53:47+00:00,face tear joy face tear joy face tear joy face tear joy dont fool anyone green washing crap,HSBC,0.3666666666666667,Positive
-17,1476479420466548737,2021-12-30 09:05:00+00:00,zeropollution future need innovation need greenfinance expert worked devise lowcarbon riskreward investment assessment page,HSBC,0.0,Neutral
-18,1476077775664599050,2021-12-29 06:29:00+00:00,information fund backhand index pointing right eydk etkiyatırımıdanışmakurulu etkiyatırımı etkiyatırımıtürkiye impactinvestingadvisoryboard impinv impactinvestingturkey hsbcturkey,HSBC,0.2857142857142857,Positive
-19,1476496861737340930,2021-12-30 10:14:18+00:00,rt uae climate solution partnership helping scaleup high impact naturebasedsolutions capture carbon dioxide,HSBC,0.16,Positive
-20,1476337080846458886,2021-12-29 23:39:23+00:00,course need fit need there one stand eco mob worthless nothing giving government advice scam u better stop using phrase going start communist revolution dumbass,HSBC,0.033333333333333326,Positive
-21,1476328496163078145,2021-12-29 23:05:16+00:00,financed u billion fossil fuel since paris climate agreement signed dont fall greenwash read,HSBC,0.0,Neutral
-22,1476247769375547398,2021-12-29 17:44:30+00:00,rt one bright spot cop prioritization nature mean business amp investor part,HSBC,0.19375000000000003,Positive
-23,1476208012167548933,2021-12-29 15:06:31+00:00,rt launch new index series aim give investor greater oversight portfolio esg biodiversity credenti,HSBC,0.3181818181818182,Positive
-24,1476193797046509572,2021-12-29 14:10:02+00:00,one bright spot cop prioritization nature mean business amp investor part climate solution partnership amp list key barrier must tackle scale naturebasedsolutions,HSBC,0.12916666666666668,Positive
-25,1475919497047556099,2021-12-28 20:00:04+00:00,new program supplier set least three sustainability goal working towards degree celsius target get access financing,HSBC,-0.08181818181818182,Negative
-26,1475850471386591239,2021-12-28 15:25:47+00:00,dr chow put local insight key successful esg engagement lot india transition access healthcare inclusive growth assetmanagement asia,HSBC,0.25,Positive
-27,1475800271779414018,2021-12-28 12:06:18+00:00,published inaugural scorecard evaluating top eu amp u asset manager climate policy time examining coal commitment amp still laggard today,HSBC,0.5,Positive
-28,1475270564126150658,2021-12-27 01:01:26+00:00,,HSBC,0.0,Neutral
-29,1475238081338896384,2021-12-26 22:52:21+00:00,rt policy director say role advising sensetime accused complicity grave human ri,HSBC,0.0,Neutral
-30,1474562990015868935,2021-12-25 02:09:47+00:00,rt company surveyed plan invest esg boost growth coming year think going green increase bus,HSBC,-0.2,Negative
-31,1474341252363546624,2021-12-24 11:28:41+00:00,rt find leading business looking internationalisation prioritising sustainability supply chain investment b,HSBC,0.0,Neutral
-32,1475944592075898888,2021-12-28 21:39:47+00:00,rt new paper w greenspan amp j sterman hsbc us,HSBC,0.13636363636363635,Positive
-33,1476490998184357890,2021-12-30 09:51:00+00:00,rt year weve helpingbritainrecover briefcase weve side business recover adapt grow globe showing america contin,Lloyds Banking Group,0.0,Neutral
-34,1476487425912410118,2021-12-30 09:36:48+00:00,rt choice value value strong performance esg indicator make business sense,Lloyds Banking Group,0.4333333333333333,Positive
-35,1476158791896997888,2021-12-29 11:50:56+00:00,rt approach redevelopment residential property one major challenge decade im proud,Lloyds Banking Group,0.43125,Positive
-36,1476147483550040068,2021-12-29 11:06:00+00:00,choice value value strong performance esg indicator make business sense company begin integrating social amp sustainable principle operation might help,Lloyds Banking Group,0.2333333333333333,Positive
-37,1476137573735178247,2021-12-29 10:26:37+00:00,approach redevelopment residential property one major challenge decade im proud commissioning research greenhomes also offering incentive personal amp commercial homeowner,Lloyds Banking Group,0.215625,Positive
-38,1476117826062761991,2021-12-29 09:08:09+00:00,rt year seen huge spike registration electric vehicle battery january november car registration,Lloyds Banking Group,0.4000000000000001,Positive
-39,1474379836202393602,2021-12-24 14:02:00+00:00,much quieter corporate volunteering side year due covid however big thank chris lee neil came spent morning sorting donation volunteer paul great work csr community volunteer,Lloyds Banking Group,0.12916666666666668,Positive
-40,1476487360699420673,2021-12-30 09:36:33+00:00,rt vital thinking esg limited ecofriendly good governance amp inclusive recruitment,Lloyds Banking Group,0.24285714285714285,Positive
-41,1476235094440488962,2021-12-29 16:54:08+00:00,vital thinking esg limited ecofriendly good governance amp inclusive recruitment important interesting piece highlight business address element esg,Lloyds Banking Group,0.32571428571428573,Positive
-42,1476625745187332098,2021-12-30 18:46:26+00:00,rt six week fa published strategy aim professional sustainable woman team amp six day,Barclays,0.1,Positive
-43,1476625463099469825,2021-12-30 18:45:19+00:00,six week fa published strategy aim professional sustainable woman team amp six day announced first title sponsor went liquidation,Barclays,0.175,Positive
-44,1475067839451127814,2021-12-26 11:35:53+00:00,rt european bank cash climate chaos tell stop ht,Barclays,0.0,Neutral
-45,1474279984327974925,2021-12-24 07:25:13+00:00,rt making list checking twice time stop rolling climate change dice,Barclays,0.0,Neutral
-46,1475790128995913729,2021-12-28 11:26:00+00:00,paid internship opportunity megaphone eagle csr programme could help gain paid internship csr department global organisation past qmul participant secured permanent role find right arrow,Barclays,0.011904761904761899,Positive
-47,1476488500187111424,2021-12-30 09:41:04+00:00,milly impact sub high voltage high voltage,Standard Chartered,0.16,Positive
-48,1475359661243056129,2021-12-27 06:55:28+00:00,rt bank commiting ecocide balochistan funding cpec china pakistan economic cooridor project,Standard Chartered,0.2,Positive
-49,1475183807032696844,2021-12-26 19:16:41+00:00,bank commiting ecocide balochistan funding cpec china pakistan economic cooridor project hazardous ecosystem indeginous community,Standard Chartered,0.4,Positive
-50,1476134109969883141,2021-12-29 10:12:51+00:00,many r still away getting safe water drink however supana village changed access safe drinking water facility blessed community welcomed joining inauguration ceremony amp enrolling membership card,Standard Chartered,0.5,Positive
-51,1476112249777491968,2021-12-29 08:45:59+00:00,rt cop greenwash alert fossil fuel industry amp bank caused among biggest climate villain,Standard Chartered,0.0,Neutral
-52,1475800274837151751,2021-12-28 12:06:19+00:00,year uk hosted cop shone light city london coal exposure revealed huge backing highly polluting fossil fuel new policy failed fully halt,Standard Chartered,0.11927272727272728,Positive
-53,1475729379212898305,2021-12-28 07:24:36+00:00,rt government health city transportation energy backed powerful data engine plane,Standard Chartered,0.3,Positive
-54,1475622524381798409,2021-12-28 00:20:00+00:00,government health city transportation energy backed powerful data engine planet bloomberg green focused solution center sponsored amp learn,Standard Chartered,-9.25185853854297e-18,Negative
-55,1475426756530221057,2021-12-27 11:22:05+00:00,इस प न क एकएक ब द हम र ल ए अनम ल ह श रद द व म पमह र ष ट र एक स रक ष त प यजल स व ध क प र वध न न csr गत व ध य क तहत क य ह water staysafe,Standard Chartered,0.0,Neutral
-56,1476500837476220932,2021-12-30 10:30:06+00:00,naturebased solution mitigate climate change effect agricultural sector market imperfection persist,Standard Chartered,0.0,Neutral
-57,1476213953067991040,2021-12-29 15:30:07+00:00,backdrop enormous change uk banking environment able translate strategy delivery see,Santander,0.25,Positive
-58,1475816706308247553,2021-12-28 13:11:36+00:00,rt confetti ball together inspired action towards building confidence w,Santander,0.1,Positive
-59,1475815298410364928,2021-12-28 13:06:01+00:00,confetti ball together inspired action towards building confidence number numberconfidenceweek blue heart big thanks everyone made possible read impact report backhand index pointing right,Santander,0.09761904761904762,Positive
-60,1476514420650295296,2021-12-30 11:24:04+00:00,rt primeros resultados del doctorado industrial de publicados en el numero de,Santander,0.0,Neutral
-61,1476497199802503169,2021-12-30 10:15:39+00:00,primeros resultados del doctorado industrial de publicados en el numero de agricultura ciencia alimentos conservation,Santander,0.0,Neutral
-62,1476144477714722816,2021-12-29 10:54:03+00:00,hate green mess everything,Santander,-0.39166666666666666,Negative
-63,1476117377473523713,2021-12-29 09:06:22+00:00,look nice hopefully mission winnow team name mean wont hideous green thing car also dual color idea wasnt bad execution shift sudden wouldnt mind burgundy back transition smoother,Santander,-0.1020833333333333,Negative
-64,1475929145968320515,2021-12-28 20:38:24+00:00,mgreenfluo red love,Santander,0.25,Positive
-65,1475255211006562314,2021-12-27 00:00:25+00:00,chart demonstrates people around world choose invest sustainableinvestment product dont chart global investor study rise sustainable investor find chart esg,Schroders,0.0,Neutral
-66,1476656960351080448,2021-12-30 20:50:28+00:00,risk mitigation dept scared raising hand mediumlight skin tone,JP Morgan Chase,0.0,Neutral
-67,1476641966750265359,2021-12-30 19:50:54+00:00,rt following impact covid pandemic fed purchased billion monthly bond help boost economy cond,JP Morgan Chase,0.0,Neutral
-68,1476600756278988800,2021-12-30 17:07:08+00:00,wondering great indian economy amp wedding season impact gold demand versus whether see precious metal trading conviction next year gold,JP Morgan Chase,0.43333333333333335,Positive
-69,1475576608303960066,2021-12-27 21:17:32+00:00,market love omicron expect omicron impact growth outlook significant way rather likely accelerate end pandemic via,JP Morgan Chase,0.2916666666666667,Positive
-70,1475504293948141574,2021-12-27 16:30:11+00:00,rt letting people get sick omicron,JP Morgan Chase,-0.7142857142857143,Negative
-71,1475503854594641922,2021-12-27 16:28:27+00:00,letting people get sick omicron also thinking long term effect people get infected ie post covid conditionlongcovid increase number dalys associated covid amp impact healthcareeconomy,JP Morgan Chase,-0.3821428571428572,Negative
-72,1475479081584058376,2021-12-27 14:50:00+00:00,clifford chance conseille et dans le cadre de loffre de rachat et de la nouvelle émission dobligations de la républiquegabonaise,JP Morgan Chase,0.0,Neutral
-73,1475477246060105730,2021-12-27 14:42:43+00:00,public consistently supported additional mitigation prioritizing public health,JP Morgan Chase,0.08333333333333333,Positive
-74,1475472607273275398,2021-12-27 14:24:17+00:00,inaccurate amp inaccurate virus change risk mitigation strategy change amp prediction ending proven inaccurate,JP Morgan Chase,0.0,Neutral
-75,1475472293866450944,2021-12-27 14:23:02+00:00,dont know internet store info dont care scream said would vaccine way normal,JP Morgan Chase,0.15,Positive
-76,1475472063678885895,2021-12-27 14:22:07+00:00,update article amp see covid took yall advice jpmorgan didnt actuary didnt think would jpmorgan return normal insight,JP Morgan Chase,0.15,Positive
-77,1475462065854767104,2021-12-27 13:42:23+00:00,economy health saving life biden admin focus since day one wh gross mishandling pandemic criminal testsno early treatment mask mitigation rate skyrocket control firezients impeachbiden,JP Morgan Chase,-0.10000000000000002,Negative
-78,1475092455406063621,2021-12-26 13:13:41+00:00,environment real frugal avatar splurge de always need send home address real merch u use would ratio real virtual,JP Morgan Chase,0.20000000000000004,Positive
-79,1475092026492428291,2021-12-26 13:11:59+00:00,environment shift waste world metaverse avatar walk closet filled fast fashion human foot satisfied one pair metaverse save planet curving plastic polyester pollution,JP Morgan Chase,0.18,Positive
-80,1475044620266520577,2021-12-26 10:03:37+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,JP Morgan Chase,0.0,Neutral
-81,1474292239408926728,2021-12-24 08:13:55+00:00,exip ecosystem provides decentralised browsing hosting service dns server unique tlds amp premium domain nfts fire ido completed astronauttokenkommunitas gem stone launched rocket decentralized decentralzed,JP Morgan Chase,0.375,Positive
-82,1475808391683575813,2021-12-28 12:38:34+00:00,know small business entrepreneur ready build legacy circular economy direct time build profitable lasting green business good world,JP Morgan Chase,0.09166666666666666,Positive
-83,1475759063778607104,2021-12-28 09:22:33+00:00,dyk le waste cycle back economy circulareconomy reduce amount waste ending dump right support circular economy entrepreneur hold key turn tragedy triumphgtgt,JP Morgan Chase,-0.022857142857142864,Negative
-84,1475670212095594497,2021-12-28 03:29:29+00:00,,JP Morgan Chase,0.0,Neutral
-85,1475603030594707456,2021-12-27 23:02:32+00:00,never knew major bank like chase contributes much co atmosphere warren urge crackdown wall street climate change read web tap,JP Morgan Chase,0.13125,Positive
-86,1475563128721231872,2021-12-27 20:23:59+00:00,problem amc hasnt gone back level market dropping others making new ath back break even dip there still amc bear green may took short position break pennant,JP Morgan Chase,-0.012727272727272731,Negative
-87,1475549901417328640,2021-12-27 19:31:25+00:00,think said none thing another leaving tell come desert got sick water front property sure love,JP Morgan Chase,0.09523809523809523,Positive
-88,1475424657348116483,2021-12-27 11:13:45+00:00,rt want use sustainable finance drill arctic investor like must,JP Morgan Chase,0.0,Neutral
-89,1475063554709417984,2021-12-26 11:18:51+00:00,rt week shib green colour robinhood beaming face smiling eye wen shib paw print paw print,JP Morgan Chase,-0.2,Negative
-90,1474872406359650310,2021-12-25 22:39:18+00:00,rt tara houska explains pressuring financial sector powerful fight fossilfuels clim,JP Morgan Chase,0.15,Positive
-91,1474311373865816067,2021-12-24 09:29:57+00:00,shib green,JP Morgan Chase,-0.2,Negative
-92,1474262636191703057,2021-12-24 06:16:17+00:00,rt happened thisweekincrypto market see green time holiday christmas tree actively exploring nfts,JP Morgan Chase,-0.16666666666666669,Negative
-93,1476641873943056389,2021-12-30 19:50:32+00:00,rt business developing new method integrate esg operation,JP Morgan Chase,0.13636363636363635,Positive
-94,1476134656030425094,2021-12-29 10:15:01+00:00,jamie dimon said dedicated addressing climate sustainability around world yet made fee helping fossilfuel company green bond sale greenwashing climatechange fossilfuels capitalatrisk,JP Morgan Chase,-0.2,Negative
-95,1476069737557856258,2021-12-29 05:57:04+00:00,sustainability trend may rise fall esg investing stay insightful article tara smyth regional head middle east north africa amp turkey esg investing featured national news read,JP Morgan Chase,0.0,Neutral
-96,1475748402604429317,2021-12-28 08:40:11+00:00,rt last month esgi hosted roundtable discussing impact cop insight,JP Morgan Chase,0.0,Neutral
-97,1475496699044917248,2021-12-27 16:00:01+00:00,last month esgi hosted roundtable discussing impact cop insight,JP Morgan Chase,0.0,Neutral
-98,1475902454877376517,2021-12-28 18:52:20+00:00,rt career path climate science rapidly widening including learned seeking expert california,JP Morgan Chase,0.0,Neutral
-99,1475522982655107072,2021-12-27 17:44:27+00:00,jp morgan chase helping finance climate catastrophe year,JP Morgan Chase,0.0,Neutral
-100,1475300897148182530,2021-12-27 03:01:58+00:00,career path climate science rapidly widening including learned seeking expert california whiplash snowpack found kapnickhall,JP Morgan Chase,0.0,Neutral
-101,1474359405248397315,2021-12-24 12:40:49+00:00,rt usa quelle allocation en après de record quelle stratégie sur le gafam tech quelle approche sur smal,JP Morgan Chase,0.0,Neutral
-102,1474320281317654563,2021-12-24 10:05:21+00:00,usa quelle allocation en après de record quelle stratégie sur le gafam tech quelle approche sur smallcaps esg gestion active stockpicking gestion alternative longshort table ronde,JP Morgan Chase,-0.13333333333333333,Negative
-103,1476724058234531842,2021-12-31 01:17:06+00:00,tn market value mn user digital asset universe large ignore digital asset ecosystem much nfts valiirtech,Bank of America,0.10357142857142856,Positive
-104,1476472841939918848,2021-12-30 08:38:51+00:00,stop promoting greediest crook one worst climatecrisis disproportionately impact bipoc community,Bank of America,-1.0,Negative
-105,1476184032589213697,2021-12-29 13:31:14+00:00,rt hispanicheritagemonth applaud colleague maria bravo financial solution advisor,Bank of America,0.0,Neutral
-106,1475860631605579782,2021-12-28 16:06:09+00:00,teacher make significant impact role model child grant support expands effort improve educational outcome student color minnesota,Bank of America,0.3125,Positive
-107,1475611094756507653,2021-12-27 23:34:35+00:00,sorry one biggest funder climatecrisis like youre really sorry wait time,Bank of America,-0.5,Negative
-108,1475611086800007168,2021-12-27 23:34:33+00:00,rt enriching amp inspiring explore life american champion inside amp outside ring muhammadalipbs hope,Bank of America,0.16666666666666666,Positive
-109,1475258128518332417,2021-12-27 00:12:01+00:00,friend accepting application student leader summer internship program must current high school junior senior apply,Bank of America,0.08,Positive
-110,1474486803545538561,2021-12-24 21:07:03+00:00,teacher make significant impact role model child grant support expands effort improve educational outcome student color minnesota,Bank of America,0.3125,Positive
-111,1474363441376907267,2021-12-24 12:56:51+00:00,rt covid continues devastating impact many part world must continue step global health eve,Bank of America,-0.16666666666666666,Negative
-112,1474360774562828290,2021-12-24 12:46:15+00:00,yesterday kid st banking experience financial center joy knowing team made true amp memorable impact life counted tooth fairy amp piggy bank money saved year,Bank of America,0.31,Positive
-113,1474235333139001344,2021-12-24 04:27:48+00:00,rt whistler cassatt american painter france feature painting made,Bank of America,0.0,Neutral
-114,1476721218745032704,2021-12-31 01:05:49+00:00,always something way finish lunch salad grilled lemon pepper chicken brown rice steamed broccoli green tea still hold credit union sounding real nice right,Bank of America,0.09642857142857139,Positive
-115,1476715973734404098,2021-12-31 00:44:58+00:00,fix roof puerta real mission viejo ca atm water leak onto check try deposit top cut person service ridiculous,Bank of America,0.12222222222222222,Positive
-116,1476597983378649093,2021-12-30 16:56:07+00:00,rt police car light thank green planet win get like share post please l,Bank of America,0.3333333333333333,Positive
-117,1476513580539432964,2021-12-30 11:20:44+00:00,happy new year eve advance wondering idea make money here picture idea art future global warming solar energy water well make lot money people dome house,Bank of America,0.2340909090909091,Positive
-118,1476111997418754058,2021-12-29 08:44:59+00:00,congrats friend receiving k neighborhood builder grant year grant support programming expansion building diverse tech ecosystem innovationliveshere inclusionliveshere,Bank of America,0.0,Neutral
-119,1476025987049484290,2021-12-29 03:03:13+00:00,rt please include climate target clear commitment end support company project th,Bank of America,0.10000000000000002,Positive
-120,1475957318684602371,2021-12-28 22:30:21+00:00,damn thought draymond green whole time,Bank of America,0.0,Neutral
-121,1475931849813749763,2021-12-28 20:49:09+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Bank of America,0.05555555555555556,Positive
-122,1475909303085064192,2021-12-28 19:19:33+00:00,rt please include climate target clear commitment end support company pro,Bank of America,0.10000000000000002,Positive
-123,1475653007912181771,2021-12-28 02:21:08+00:00,rt getting bit winter week captain america winter soldier miss feature,Bank of America,0.0,Neutral
-124,1475652861115699200,2021-12-28 02:20:33+00:00,getting bit winter week captain america winter soldier miss feature screen green thursday december pm,Bank of America,-0.2,Negative
-125,1475242601368281089,2021-12-26 23:10:19+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Bank of America,0.05000000000000001,Positive
-126,1475095362394275846,2021-12-26 13:25:14+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Bank of America,0.05555555555555556,Positive
-127,1474555944348655622,2021-12-25 01:41:47+00:00,rt inspired build sustainable future season made difference speak wi,Bank of America,0.0,Neutral
-128,1474540499914526722,2021-12-25 00:40:25+00:00,rt unreport cop climatechange dominated headline prabodha acharya cso amish shah indi,Bank of America,0.0,Neutral
-129,1474475875357937666,2021-12-24 20:23:37+00:00,rt societal issue awakened movement among employee global head esg said final beyond,Bank of America,0.0,Neutral
-130,1476286336185212935,2021-12-29 20:17:45+00:00,rt philanthropy news award million nativeamerican community grant include millio,Bank of America,0.0,Neutral
-131,1476282231840808960,2021-12-29 20:01:26+00:00,philanthropy news award million nativeamerican community grant include million nonprofit institution providing critical service read via,Bank of America,0.0,Neutral
-132,1475451512814018572,2021-12-27 13:00:27+00:00,forget nature deciduous tree deciduous tree speaking head managing director sounding balancing environmental transition net zero watch full dfnyc recap,Bank of America,0.175,Positive
-133,1475274197534339074,2021-12-27 01:15:52+00:00,career path building digital prison create money research pay play social impact investing human capital finance amp freedom v tyranny u,Bank of America,0.011111111111111112,Positive
-134,1475128961332125702,2021-12-26 15:38:45+00:00,rt great conversation growing twist turn led current work sustainability,Bank of America,0.4,Positive
-135,1474713081670471682,2021-12-25 12:06:12+00:00,likely complicit disillusionment citizenry nefarious reason may certainly embody value mental defect human nature invariable,Bank of America,0.028571428571428567,Positive
-136,1475895279169769476,2021-12-28 18:23:50+00:00,rt support hire hero usa empowers thousand veteran military spouse secure meaningful employmen,Wells Fargo,0.2,Positive
-137,1475865887173492743,2021-12-28 16:27:02+00:00,support hire hero usa empowers thousand veteran military spouse secure meaningful employment year donate end year gift matched double impact give,Wells Fargo,0.16,Positive
-138,1475847110222352386,2021-12-28 15:12:25+00:00,wait poor people basically shellfish money ecosystem get trickle em filter send right back chain,Wells Fargo,-0.038095238095238106,Negative
-139,1474696975559938051,2021-12-25 11:02:12+00:00,rt faith philadelphia small business brings hope nd street corridor lucky experience impact thi,Wells Fargo,0.04166666666666666,Positive
-140,1474463027244138499,2021-12-24 19:32:34+00:00,rt close holiday season matching every donation habitat dollarfordollar,Wells Fargo,0.0,Neutral
-141,1474212717284057091,2021-12-24 02:57:56+00:00,close holiday season matching every donation habitat dollarfordollar visit make x impact family need shelter stability,Wells Fargo,0.0,Neutral
-142,1476215438216503309,2021-12-29 15:36:01+00:00,register launch presented hear economist ted abernathy ted discus regional growth amp share comparison peer metro register rclaunch growth development economy,Wells Fargo,0.0,Neutral
-143,1476725507811127299,2021-12-31 01:22:51+00:00,leary howell water boy,Wells Fargo,0.0,Neutral
-144,1476675607635365889,2021-12-30 22:04:34+00:00,rt country climate emergency marshallfire nye fjbiden,Wells Fargo,0.0,Neutral
-145,1476673350965542921,2021-12-30 21:55:36+00:00,country climate emergency marshallfire nye fjbiden,Wells Fargo,0.0,Neutral
-146,1476516635599118339,2021-12-30 11:32:52+00:00,crip camp felt bullied bunch walker sat wheelchair room without food water prove point little sleep picking twitter war youll ignore like email run,Wells Fargo,-0.1875,Negative
-147,1476261049925967874,2021-12-29 18:37:16+00:00,divest well fargo fund climate change,Wells Fargo,0.0,Neutral
-148,1475988698927808513,2021-12-29 00:35:03+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-149,1475931944370143233,2021-12-28 20:49:31+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Wells Fargo,0.05555555555555556,Positive
-150,1475909285250945024,2021-12-28 19:19:29+00:00,rt please include climate target clear commitment end support company projec,Wells Fargo,0.10000000000000002,Positive
-151,1475909166459928592,2021-12-28 19:19:01+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Wells Fargo,0.05000000000000001,Positive
-152,1475689656855384065,2021-12-28 04:46:45+00:00,rt bank amp want something funding corporation destroy,Wells Fargo,-0.2,Negative
-153,1475480679408406541,2021-12-27 14:56:21+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-154,1475302348629188610,2021-12-27 03:07:44+00:00,customer tired money used invest destruction plant join signingon letter bank ceo demand bank stop funding climate chaos,Wells Fargo,-0.4,Negative
-155,1475287374041018371,2021-12-27 02:08:14+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-156,1475180084336250880,2021-12-26 19:01:54+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-157,1475095430383947776,2021-12-26 13:25:31+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Wells Fargo,0.05555555555555556,Positive
-158,1474865622064549889,2021-12-25 22:12:20+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-159,1474438270213922836,2021-12-24 17:54:12+00:00,rt bank amp want something funding corporation,Wells Fargo,0.0,Neutral
-160,1474239435231399938,2021-12-24 04:44:06+00:00,rt bank amp want something funding corporation destroyi,Wells Fargo,0.0,Neutral
-161,1474237450600042500,2021-12-24 04:36:12+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
-162,1475597508567044096,2021-12-27 22:40:35+00:00,rt payment ecosystem becomes increasingly competitive shift customer expectation proliferation new payment p,Citigroup,0.13636363636363635,Positive
-163,1475044219999903745,2021-12-26 10:02:01+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Citigroup,0.0,Neutral
-164,1475043898334535686,2021-12-26 10:00:45+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Citigroup,0.0,Neutral
-165,1474383375918145545,2021-12-24 14:16:04+00:00,rt television metaverse amp money global insight joined discus metaverse open user,Citigroup,0.0,Neutral
-166,1476604060858044426,2021-12-30 17:20:16+00:00,rt thanks amp foundation trained youth algeria digital employability soft techni,Citigroup,0.10000000000000002,Positive
-167,1476598792380166146,2021-12-30 16:59:20+00:00,thanks amp foundation trained youth algeria digital employability soft technical amp entrepreneurship skill piloted training green sector like waste management building rehabilitation aquaculture amp solar energy,Citigroup,-0.016666666666666663,Negative
-168,1475574446069014530,2021-12-27 21:08:57+00:00,rt energy catalyst bringing together private public sector leader invest innovation accelerate,Citigroup,0.0,Neutral
-169,1476214543990894600,2021-12-29 15:32:28+00:00,esg investing financial market climate transition new comment,Citigroup,0.06818181818181818,Positive
-170,1476025572190867459,2021-12-29 03:01:34+00:00,rt please include climate target clear commitment end support company project eng,Citigroup,0.10000000000000002,Positive
-171,1475982815606894592,2021-12-29 00:11:40+00:00,rt know amp among biggest funders prohibited fossil fuel project police car light,Citigroup,0.4,Positive
-172,1475981896001724419,2021-12-29 00:08:01+00:00,know amp among biggest funders prohibited fossil fuel project police car light world would rather use money fight climate change fund go towards climate positive project watmos,Citigroup,0.31363636363636366,Positive
-173,1475934975421816837,2021-12-28 21:01:34+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-174,1475934898619834369,2021-12-28 21:01:16+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-175,1475934847222829064,2021-12-28 21:01:03+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-176,1475934778536955905,2021-12-28 21:00:47+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-177,1475934613407248386,2021-12-28 21:00:08+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-178,1475934521820434434,2021-12-28 20:59:46+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-179,1475934499993231361,2021-12-28 20:59:40+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-180,1475934377146204166,2021-12-28 20:59:11+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
-181,1475931890339041283,2021-12-28 20:49:18+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Citigroup,0.05555555555555556,Positive
-182,1475928493481512960,2021-12-28 20:35:48+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-183,1475928452125630467,2021-12-28 20:35:39+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-184,1475926173435805702,2021-12-28 20:26:35+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-185,1475925742068371462,2021-12-28 20:24:52+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-186,1475925676033286144,2021-12-28 20:24:37+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-187,1475925641757396997,2021-12-28 20:24:29+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-188,1475925571804839939,2021-12-28 20:24:12+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
-189,1475922045514960903,2021-12-28 20:10:11+00:00,something good world today completely divest fossil fuel funnel money renewable energy project,Citigroup,0.39999999999999997,Positive
-190,1475909325512081408,2021-12-28 19:19:38+00:00,rt please include climate target clear commitment end support company project,Citigroup,0.10000000000000002,Positive
-191,1475680508382261250,2021-12-28 04:10:24+00:00,nyc huge climate pollution footprint bigger country wall street bank headquartered nyc much much larger polluter get control stopthemoneypipeline cc,Citigroup,0.13333333333333336,Positive
-192,1475502905495064580,2021-12-27 16:24:40+00:00,rt inspired much currently deploying robust modular collection model amp forming,Citigroup,0.0,Neutral
-193,1475502748426723332,2021-12-27 16:24:03+00:00,inspired much currently deploying robust modular collection model amp forming social inclusive partnership drive impact across underserved community especially woman amp youth incentivizing waste recycling advancing sustainability,Citigroup,-0.04166666666666667,Negative
-194,1475499867342581761,2021-12-27 16:12:36+00:00,rt usadf grantee promotes environmental sustainability also empowers unemployed woman amp yo,Citigroup,0.0,Neutral
-195,1475481669855547404,2021-12-27 15:00:17+00:00,usadf grantee promotes environmental sustainability also empowers unemployed woman amp youth nigeria grant purchase bailers recycling program increased revenue contributing reduction pollution,Citigroup,0.0,Neutral
-196,1475451471646838785,2021-12-27 13:00:18+00:00,private bank david bailin see healthyish economy sick government situation hope form corporate action climate social issue livingbeyondborders podcast listen,Citigroup,-0.1161904761904762,Negative
-197,1475095391641157638,2021-12-26 13:25:21+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Citigroup,0.05555555555555556,Positive
-198,1475090909142433800,2021-12-26 13:07:33+00:00,rt cancer drug natural inspired nature rely heavily ingredient nature produce medicine,Citigroup,-0.05,Negative
-199,1475089040173150212,2021-12-26 13:00:07+00:00,cancer drug natural inspired nature rely heavily ingredient nature produce medicine treatment variety different disease harlin singh livingbeyondborders podcast listen,Citigroup,-0.03333333333333333,Negative
-200,1474897759513813001,2021-12-26 00:20:02+00:00,bizav face grave risk without sustainability effort,Citigroup,0.0,Neutral
-201,1474780937661657098,2021-12-25 16:35:50+00:00,demand join moderator donald j gonzales estrada hinojosa amp co inc panelist chris jumper jennifer chang gardner smith leader forum panel,Citigroup,0.0,Neutral
-202,1474442556863832073,2021-12-24 18:11:14+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Citigroup,0.05000000000000001,Positive
-203,1474272136495648770,2021-12-24 06:54:02+00:00,dear emi loan purchase amount neither buy anything anywhere trying get concern thinking thinking face impact privatization banking sector,HDFC Bank,0.0,Neutral
-204,1476569608479862787,2021-12-30 15:03:22+00:00,smile medicine wonderful sister bihar taught biggest learning year bow lady hdfcbank sustainabledevelopment csr,HDFC Bank,0.65,Positive
-205,1476424462597722112,2021-12-30 05:26:37+00:00,lodge complaint month back csr said resolve day till time update side also tried contact costumer care selecting account option saying takniki kharabi ki wajah se hum abi help nhi kr,HDFC Bank,-0.15,Negative
-206,1476048186640715776,2021-12-29 04:31:26+00:00,rt glad mr ritesh sinha head project csr ltd one panelist joyous occasion th,HDFC Bank,0.5,Positive
-207,1475432003977711617,2021-12-27 11:42:56+00:00,dharuhera branchcustomers cannot go branch water logged gutter water pathetic condition jagdishan please change branch location make accessible public conviently,HDFC Bank,-0.20833333333333334,Negative
-208,1475398132263313409,2021-12-27 09:28:20+00:00,india become poor investing money share stock buying motor medical life insurance indian invest corpus hospital education necessary infrastructure india citizen get free health education drinking water toilet,HDFC Bank,-0.006666666666666666,Negative
-209,1474451742142218245,2021-12-24 18:47:43+00:00,rt committing billion direct investment capital help narrow opportunity gap positively impact life,Goldman Sachs,0.04242424242424242,Positive
-210,1474395137920753669,2021-12-24 15:02:48+00:00,rt repeating name name corporate donation joe manchins pac surged fought biden agenda donor included,Goldman Sachs,0.0,Neutral
-211,1474395009478651905,2021-12-24 15:02:17+00:00,repeating name name corporate donation joe manchins pac surged fought biden agenda donor included want climateaction axp g lmt unh vz wfc,Goldman Sachs,0.0,Neutral
-212,1475152944689524738,2021-12-26 17:14:03+00:00,think wharton mba would put energy socialimpact real estate windfall following financial crisis make sense gambling kid future next big short would,Goldman Sachs,0.028571428571428574,Positive
-213,1476290855782825984,2021-12-29 20:35:42+00:00,snpw alertgt newsupdates soon icymi,Goldman Sachs,0.0,Neutral
-214,1476285660055101447,2021-12-29 20:15:04+00:00,rt corporate partner recognized inaugural green growth list honoring world lead,Goldman Sachs,-0.1,Negative
-215,1476241924122161161,2021-12-29 17:21:16+00:00,rt tcfd report accelerating transition outline work client help drive climate transition gssustainabili,Goldman Sachs,0.0,Neutral
-216,1475524851783798788,2021-12-27 17:51:53+00:00,im consumer california climate change time part solution time fully divest fossil fuel invest clean energy economy planet counting,Goldman Sachs,0.3666666666666667,Positive
-217,1475518509065068554,2021-12-27 17:26:41+00:00,rt download newly released tcfd report accelerating transition outline work client help drive clim,Goldman Sachs,0.13636363636363635,Positive
-218,1475121355649605635,2021-12-26 15:08:32+00:00,rt community sent climate love green heart company plan reduce carbon footprint,Goldman Sachs,0.15,Positive
-219,1475121221234831367,2021-12-26 15:08:00+00:00,community sent climate love green heart company plan reduce carbon footprint fossilfuel client fifth amp slash emission key customer group aiming make business climate neutral,Goldman Sachs,0.09999999999999999,Positive
-220,1474841216671965189,2021-12-25 20:35:21+00:00,racist promotes one race another promote business based merit gender racial leadership money green matter made,Goldman Sachs,-0.2,Negative
-221,1474757174039654401,2021-12-25 15:01:24+00:00,rt former governor explains private sector play critical role green transition,Goldman Sachs,-0.05,Negative
-222,1474510727029436420,2021-12-24 22:42:07+00:00,corporate partner recognized inaugural green growth list honoring world leading corporation going green seedling see full list,Goldman Sachs,-0.012500000000000011,Negative
-223,1474399818982334484,2021-12-24 15:21:24+00:00,rt tcfd report accelerating transition outline work client help drive climate transition,Goldman Sachs,0.0,Neutral
-224,1474293487470366735,2021-12-24 08:18:53+00:00,invert everything write themself sound right client always come last exploit global network powered serfdom immorality shared purpose destroying sustainable economic growth financial freedom,Goldman Sachs,0.09795918367346938,Positive
-225,1474281256409972736,2021-12-24 07:30:17+00:00,rt corporate donation joe manchins pac surged fought biden agenda climateaction donor included,Goldman Sachs,0.0,Neutral
-226,1476631482936479746,2021-12-30 19:09:14+00:00,rt katie koch share diversity form lead differentiated retu,Goldman Sachs,0.0,Neutral
-227,1476629661048180770,2021-12-30 19:02:00+00:00,katie koch share diversity form lead differentiated return using thinking develop etf gsfp amp gtek identify winner climate transition spot tech company reshaping world,Goldman Sachs,0.0,Neutral
-228,1476093683275636739,2021-12-29 07:32:13+00:00,rt vaccine quercetinsaveslives covidtreatment sarscov covid omicron,Goldman Sachs,0.0,Neutral
-229,1476093627583639552,2021-12-29 07:31:59+00:00,vaccine quercetinsaveslives covidtreatment sarscov covid omicron,Goldman Sachs,0.0,Neutral
-230,1475824564336836608,2021-12-28 13:42:50+00:00,goldman sachs help keep merry holiday cc philanthropy companyculture givingback thankyougoldmansachs attitudeofgratitude,Goldman Sachs,0.0,Neutral
-231,1476611314701283334,2021-12-30 17:49:06+00:00,issue reputation risk argument canadian bank operate oligopolistic environment play rule make difficult business individual particular risk category banking get financing etc,Royal Bank of Canada,-0.11111111111111112,Negative
-232,1476347193191665666,2021-12-30 00:19:34+00:00,financial risk mitigation includes political opinion,Royal Bank of Canada,0.0,Neutral
-233,1476339027682811906,2021-12-29 23:47:07+00:00,called risk mitigation whole revenue based fundraising mention organization paid many settlement libel blame wanting business,Royal Bank of Canada,0.35,Positive
-234,1476326953309421574,2021-12-29 22:59:09+00:00,bank still gang disassociate calculating pr impact anything crime family perception another laughing bank,Royal Bank of Canada,0.0,Neutral
-235,1476299211784130561,2021-12-29 21:08:55+00:00,unrelated concern service disaster covid resource make anything possible amp little electronic delivery perfect environment financial product,Royal Bank of Canada,0.203125,Positive
-236,1476299034163916801,2021-12-29 21:08:12+00:00,rt average briton expected live nine month le result pandemic according,Royal Bank of Canada,-0.03787878787878788,Negative
-237,1476297165656014858,2021-12-29 21:00:47+00:00,average briton expected live nine month le result pandemic according,Royal Bank of Canada,-0.03787878787878788,Negative
-238,1476260280120352772,2021-12-29 18:34:13+00:00,ha ha grifter get stymied like speak blocking pipeline donation environmental protection large rare ecosystem still trying create news gather donation,Royal Bank of Canada,0.2571428571428571,Positive
-239,1476666355503939601,2021-12-30 21:27:48+00:00,like bigot good know good know support hit problem conservative send word liberalsprogressives thanks green light maybe could write letter kenny asking start kind thing ab,Royal Bank of Canada,0.39999999999999997,Positive
-240,1476401065377484804,2021-12-30 03:53:38+00:00,rt thank due diligence taking firm stand lowest low canad,Royal Bank of Canada,-0.10833333333333334,Negative
-241,1476306976799969281,2021-12-29 21:39:46+00:00,american green back,Royal Bank of Canada,-0.06666666666666667,Negative
-242,1476266523970846721,2021-12-29 18:59:01+00:00,sure sky actually green,Royal Bank of Canada,0.15,Positive
-243,1476258385234251782,2021-12-29 18:26:41+00:00,thank due diligence taking firm stand lowest low canada always knew grifting isnt reputable sustainable business model anyway lol,Royal Bank of Canada,0.195,Positive
-244,1476734385361543174,2021-12-31 01:58:08+00:00,swear life true nature nazi murder imperfect people murder greed nazi thief primarily lady destruction excellent book,Royal Bank of Canada,0.5833333333333334,Positive
-245,1476664039572922369,2021-12-30 21:18:36+00:00,rt take note get lawyer defeated shell predicts avalanche climate case roger cox e,Royal Bank of Canada,0.0,Neutral
-246,1476616593861840896,2021-12-30 18:10:04+00:00,take note get lawyer defeated shell predicts avalanche climate case roger cox expects bank financial regulator targeted next climateaction law legal,Royal Bank of Canada,0.06666666666666667,Positive
-247,1476614489818771468,2021-12-30 18:01:43+00:00,rd canadian city park report focusing park help create equitable resilient city recover covid address another crisis climate change,Royal Bank of Canada,0.0,Neutral
-248,1476607131344261123,2021-12-30 17:32:28+00:00,oh seriously one committed racist attack ezra told hear video heard guy said nature business main source revenue donation medium anybody wa high profile lw rw,Royal Bank of Canada,-0.002222222222222218,Negative
-249,1476427315030593541,2021-12-30 05:37:57+00:00,rt dont thinking face climate champion wont state position cgl amp sitec shes,Royal Bank of Canada,0.0,Neutral
-250,1476408576876888067,2021-12-30 04:23:29+00:00,could anything wrbc wanting part trudeau convict minister climate change offering,Royal Bank of Canada,0.0,Neutral
-251,1476380949646491652,2021-12-30 02:33:42+00:00,listen recording nowhere say bc rw politics said bc nature business amp medium course ezra spun guy say said bc conservative theatre amp grifting,Royal Bank of Canada,0.0,Neutral
-252,1476375126962843651,2021-12-30 02:10:34+00:00,im sure u government investigate someone claim discrimination right political climate woke dnd left always love using race card get wayidentity politics freeaking toxic,Royal Bank of Canada,0.2571428571428571,Positive
-253,1476332844494508037,2021-12-29 23:22:33+00:00,begin divesting product perpetuate human caused climate change,Royal Bank of Canada,0.0,Neutral
-254,1476321952633552898,2021-12-29 22:39:16+00:00,dont thinking face climate champion wont state position cgl amp sitec shes cc shed persuade fellow councillor divest million cdn frm nxt municipal ballot box ballot newspaper arrow,Royal Bank of Canada,0.0,Neutral
-255,1476320682040446977,2021-12-29 22:34:13+00:00,allowed manage risk nature one business go beyond balance sheet risk may result litigation crime loss reputation relevant lender,Royal Bank of Canada,0.4,Positive
-256,1476289540621062144,2021-12-29 20:30:29+00:00,nature business mean fear loosing clientele associated doubt validity actual recorded phone call,Royal Bank of Canada,-0.15625,Negative
-257,1476270203847720966,2021-12-29 19:13:39+00:00,called esg esg,Royal Bank of Canada,0.0,Neutral
-258,1476242425244966912,2021-12-29 17:23:16+00:00,ask diversity equity amp inclusion department diversity opinion allowed political bias shouldnt good esg score,Royal Bank of Canada,0.35,Positive
-259,1476227976102617092,2021-12-29 16:25:51+00:00,called esg score,Royal Bank of Canada,0.0,Neutral
-260,1475882391529009164,2021-12-28 17:32:37+00:00,climate change killing u,Royal Bank of Canada,0.0,Neutral
-261,1475599824351236096,2021-12-27 22:49:48+00:00,biggest bank funding climate destruction canada join demanding drop fossil fuel fossilbanksnothanks quitrbc,Royal Bank of Canada,0.0,Neutral
-262,1475555850395734016,2021-12-27 19:55:03+00:00,canada biggest bank banking climate chaos dumping billion fossil fuel company including coal indigenous right violating tar sand pipeline like line tell time take climate chaos seriously,Royal Bank of Canada,-0.023809523809523808,Negative
-263,1474612385121910785,2021-12-25 05:26:04+00:00,play outsized role funding climate chaos hold accountable demand better behaviour,Royal Bank of Canada,0.5,Positive
-264,1474567213940047873,2021-12-25 02:26:34+00:00,ti season wrote carol climate action musical score im home holiday dropped summerland branch amp sang w sister part week action defundcoastalgaslink solidarity w musical note tune wish merry christmas musical note,Royal Bank of Canada,0.04,Positive
-265,1474508679990988807,2021-12-24 22:33:59+00:00,rt stop funding climate destruction violence coast coast around world know time,Royal Bank of Canada,0.0,Neutral
-266,1474508575162699776,2021-12-24 22:33:34+00:00,rt funding climate destruction indigenous right violation bankrolling coastal gaslink call financie,Royal Bank of Canada,0.2857142857142857,Positive
-267,1474508446670200832,2021-12-24 22:33:03+00:00,rt violating right wet suwet en hereditary chief amp bankrolling extreme violence,Royal Bank of Canada,0.020238095238095232,Positive
-268,1474508412113272833,2021-12-24 22:32:55+00:00,rt covid may thrown wrench plan inperson action still support wetsuweten land amp water,Royal Bank of Canada,0.1,Positive
-269,1474508371713736704,2021-12-24 22:32:45+00:00,rt support wetsuweten land amp water defender go tag tweet,Royal Bank of Canada,0.0,Neutral
-270,1474492054717747205,2021-12-24 21:27:55+00:00,rt another sticky situation vancouver climate activist glue canada worst fossil fuel financ,Royal Bank of Canada,-1.0,Negative
-271,1474483075258093570,2021-12-24 20:52:14+00:00,rt stop flow money stop flow fracked gas know buck behind,Royal Bank of Canada,-0.4,Negative
-272,1474483019201142784,2021-12-24 20:52:01+00:00,rt stop flow money stop flow fracked gas know buck behind,Royal Bank of Canada,-0.4,Negative
-273,1474465305208315904,2021-12-24 19:41:37+00:00,rt today people take street downtown winnipeg treaty calling stop funding climate de,Royal Bank of Canada,0.0,Neutral
-274,1474464982465011715,2021-12-24 19:40:20+00:00,rt solidarity action vancouver royal bank canada led cad billion deal finance pipeline la,Royal Bank of Canada,0.1,Positive
-275,1474448999507759114,2021-12-24 18:36:50+00:00,rt stand time defundcoastalgaslink fund climate chaos destruction,Royal Bank of Canada,0.0,Neutral
-276,1474447636191195146,2021-12-24 18:31:25+00:00,stop flow money stop flow fracked gas know buck behind threat sacred water wetsuwetenstrong end denial delay face shared climate reality defundcoastalgaslink,Royal Bank of Canada,-0.4,Negative
-277,1475940032334553090,2021-12-28 21:21:40+00:00,rt moment rene farrell never forget two heart latest ep baggy green queen fezzy chatted,Commonwealth Bank,0.15,Positive
-278,1475937468968955905,2021-12-28 21:11:28+00:00,moment rene farrell never forget two heart latest ep baggy green queen fezzy chatted gamechanging hattrick helped u win back ash listen scooppodcast,Commonwealth Bank,0.275,Positive
-279,1475607179528859648,2021-12-27 23:19:01+00:00,rt week episode baggy green queen former swing bowler rene farrell chat matchwin,Commonwealth Bank,-0.1,Negative
-280,1475607104169787393,2021-12-27 23:18:43+00:00,week episode baggy green queen former swing bowler rene farrell chat matchwinning spell ash test included thrilling hattrick listen scooppodcast,Commonwealth Bank,0.016666666666666663,Positive
-281,1476686464402472962,2021-12-30 22:47:43+00:00,love ya green heart green heart green heart green heart green heart green heart green heart green heart green heart green heart make heart green every time disappointment happy new year,Toronto-Dominion Bank,-0.09090909090909088,Negative
-282,1476620524428173314,2021-12-30 18:25:41+00:00,rt tdbank care community predatory bank raking overdraftfees like price goug,Toronto-Dominion Bank,0.0,Neutral
-283,1476609262365384708,2021-12-30 17:40:56+00:00,tdbank care community predatory bank raking overdraftfees like price gouger water drought kept fams even bank reversing charge bc covid violence poor,Toronto-Dominion Bank,-0.4,Negative
-284,1476387604731887616,2021-12-30 03:00:09+00:00,rt called help desk dec aprx hour asked short amc csr,Toronto-Dominion Bank,0.0,Neutral
-285,1476379636925931526,2021-12-30 02:28:29+00:00,rt called help desk dec aprx hour asked short amc,Toronto-Dominion Bank,0.0,Neutral
-286,1476373675834322950,2021-12-30 02:04:48+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-287,1476373629604667393,2021-12-30 02:04:37+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-288,1476373295561912320,2021-12-30 02:03:18+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-289,1476372974483693569,2021-12-30 02:02:01+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-290,1476372892699209728,2021-12-30 02:01:41+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-291,1476372854354685954,2021-12-30 02:01:32+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-292,1476372819474894857,2021-12-30 02:01:24+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-293,1476330281208590348,2021-12-29 23:12:22+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-294,1476330256051146756,2021-12-29 23:12:16+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-295,1476330224765878272,2021-12-29 23:12:09+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-296,1476329805100498946,2021-12-29 23:10:29+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
-297,1476286294246535174,2021-12-29 20:17:35+00:00,feeling comfy green couch experience today boy guy make difficult remain customer,Toronto-Dominion Bank,-0.35,Negative
-298,1474203817700999172,2021-12-24 02:22:34+00:00,dear csr know activate applepay better yet tell truth four call four fails six hour hold plus convos equal stilldoesntwork aapl td,Toronto-Dominion Bank,0.0,Neutral
-299,1475164510801432576,2021-12-26 18:00:01+00:00,youth summit mother earth included challenge planned youth youth gave participant chance spend time nature check submission project made possible amp,Toronto-Dominion Bank,0.0,Neutral
-300,1476406153244336130,2021-12-30 04:13:51+00:00,waiting virtue signaling company talk million mask ruining environment amp opposition guess applies straw bag amp cutlery,Morgan Stanley,0.0,Neutral
-301,1476353427286503426,2021-12-30 00:44:21+00:00,take acre power home imagine impact small city never work,Morgan Stanley,-0.25,Negative
-302,1475719574133919744,2021-12-28 06:45:38+00:00,factoring impact tax investment decision help keep hardearned money future hard earned money,Morgan Stanley,-0.14583333333333334,Negative
-303,1475581331476205570,2021-12-27 21:36:19+00:00,rt anthony frasier founded discovered blackowned audio platform multicultural,Morgan Stanley,0.0,Neutral
-304,1475473432842317827,2021-12-27 14:27:34+00:00,promoted morgan stanley know investment lay never environment power money jp morgan attempted corner market including antiquity belong people,Morgan Stanley,0.0,Neutral
-305,1475046905117921284,2021-12-26 10:12:41+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Morgan Stanley,0.0,Neutral
-306,1474645220994084864,2021-12-25 07:36:32+00:00,rt factoring impact tax investment decision help keep hardearned money n,Morgan Stanley,0.0,Neutral
-307,1474492741090381824,2021-12-24 21:30:38+00:00,bad human relationship would correlated impaired coverage data point reduces survival rate produce imbalanced environment,Morgan Stanley,-0.3499999999999999,Negative
-308,1474414552603365382,2021-12-24 16:19:57+00:00,wondering many thousand tree cut put solar field toxic substance tree good environment remove pollutant cleanse air solar panel full toxic material young people easily misled,Morgan Stanley,0.41666666666666663,Positive
-309,1476703164892160007,2021-12-30 23:54:04+00:00,green energy honesty pretty much myth geothermal nuclear genuinely best bet many people irrationally freaked nuclear energy,Morgan Stanley,0.35,Positive
-310,1476672771556098051,2021-12-30 21:53:18+00:00,arent showing data little actually produce compared amount green area field use,Morgan Stanley,-0.12916666666666668,Negative
-311,1476583862016819203,2021-12-30 16:00:00+00:00,los activos gestionados en fondosinversion esg llegarán los tr en frente los tr que hay en la actualidad según cálculos de los analistas de,Morgan Stanley,0.0,Neutral
-312,1476504308309008384,2021-12-30 10:43:53+00:00,rt china owns supply chain called renewable energy vast reserve metal,Morgan Stanley,0.0,Neutral
-313,1476442801202155520,2021-12-30 06:39:29+00:00,going address issue landfill containing toxic solar panel expire bidens green new deal obviously isnt soo important applies face rolling eye follow money,Morgan Stanley,0.08409090909090909,Positive
-314,1476399163654946823,2021-12-30 03:46:05+00:00,mite renewables ie sanchez midstream since one always pushing best bitcoin aka facebook transaction,Morgan Stanley,1.0,Positive
-315,1476365768208101376,2021-12-30 01:33:23+00:00,anyone research failure germany trying go green,Morgan Stanley,-0.25833333333333336,Negative
-316,1476344032519409665,2021-12-30 00:07:01+00:00,met ad covid seemed cause shortage labor panel amp material feel process still taken long hope time go thing happen quickly others amp people go green,Morgan Stanley,0.027777777777777773,Positive
-317,1476107062564175873,2021-12-29 08:25:23+00:00,free guy program change world might save u climate change would enrich livesbut wordmatrix fight itbut word also realizing imbalance would threaten matrix real shit,Morgan Stanley,0.04999999999999999,Positive
-318,1476088323382730754,2021-12-29 07:10:55+00:00,yup thats message time regain place trinitythe word god reason climate change need access greater information space god milky way milky way yoshi happened time purpose red heart,Morgan Stanley,0.25,Positive
-319,1475957495046696960,2021-12-28 22:31:03+00:00,like saying actually embodies baby jesus valuable word bookand came term word didnt become flesh like water sweat droplet fire fire make sense,Morgan Stanley,0.0,Neutral
-320,1475819942100410370,2021-12-28 13:24:28+00:00,rt cnbcs diana olick speaks unilever ceo alan jope united nation climate change conference glasgow c,Morgan Stanley,0.0,Neutral
-321,1475562597751660545,2021-12-27 20:21:52+00:00,rt old saying fight fed becomes ultraaccommodative problem andrew slimmo,Morgan Stanley,0.1,Positive
-322,1475561587637379081,2021-12-27 20:17:51+00:00,old saying fight fed becomes ultraaccommodative problem andrew slimmon say next year battle human behavior optimistic fed throw little cold water return,Morgan Stanley,-0.1375,Negative
-323,1475539302134296576,2021-12-27 18:49:18+00:00,rolling floor laughing clown face fuck still think ppl believe climate change cow manure,Morgan Stanley,-0.26666666666666666,Negative
-324,1475532130033844239,2021-12-27 18:20:48+00:00,china owns supply chain called renewable energy vast reserve metal used make solar panel battery amp wind turbine also refine metal use coal power u never able compete china,Morgan Stanley,-0.125,Negative
-325,1475524886307086339,2021-12-27 17:52:01+00:00,im consumer california climate change time part solution time fully divest fossil fuel invest clean energy economy planet counting,Morgan Stanley,0.3666666666666667,Positive
-326,1475308123963510789,2021-12-27 03:30:41+00:00,esg biggest money grab history artificial industry cause catastrophic consequence,Morgan Stanley,-0.6,Negative
-327,1475290769384620037,2021-12-27 02:21:43+00:00,guy didnt collaborate apparently developed simultaneously somehow got connected today movie think collective subconscious information space milky way may climate change zeitgeist year old free guy smiling face sunglass milky way,Morgan Stanley,0.15000000000000002,Positive
-328,1475167793280655360,2021-12-26 18:13:03+00:00,arguing renewables solar panel wind turbine amp battery made metal neither renewed recycled nuclearrenewables inadequate airplane cargo ship military us,Morgan Stanley,-0.1,Negative
-329,1474960979716886529,2021-12-26 04:31:15+00:00,reading different thread solar drawback v others nobody renewables france going build plant new nuclear reactor design also pursuing renewables hedge case ever time uranium difficult obtain,Morgan Stanley,-0.12121212121212122,Negative
-330,1474946321278771200,2021-12-26 03:33:00+00:00,france get nuclear renewables target year youre arguing renewables energy generation may picked poor example,Morgan Stanley,-0.4,Negative
-331,1474922026687029251,2021-12-26 01:56:28+00:00,mean god information space become flesh even wordbut word cannot fleshthey different data pointsmakes sense milk milk glass milk water water sweat droplet right ok button seedling seedling seedling two heart two heart two heart thumb smiling face heart sunrise mountain,Morgan Stanley,0.11830357142857142,Positive
-332,1474689312562106369,2021-12-25 10:31:45+00:00,dont know started address youbut must climate change leader big organizationand may humble tell write tweet wonder making much sense littleness coming zany face ok button seedling smiling face heart sunrise mountain christmas tree,Morgan Stanley,0.125,Positive
-333,1474546572528656389,2021-12-25 01:04:33+00:00,rt company actually profit solving world problem instead creating argues former unilever ceo,Morgan Stanley,0.0,Neutral
-334,1474460035614973952,2021-12-24 19:20:41+00:00,seen shift charge card platinum gold green flexibility break large purchase monthly payment credit card offer apr bonus period sign allows,Morgan Stanley,0.007142857142857131,Positive
-335,1476734727453167624,2021-12-31 01:59:30+00:00,wind turbine destroy nature kill wildlife renewable,Morgan Stanley,-0.2,Negative
-336,1476690611251998721,2021-12-30 23:04:11+00:00,yea close close like love hate word let u hateful thing appeases u lovebut hate reasonable right tell u human natureoriginal sinand yet littleness child god,Morgan Stanley,-0.1023809523809524,Negative
-337,1476678385086525452,2021-12-30 22:15:37+00:00,know word prepares matrix free guy le likely growits scheme human natureif human nature free guy like jesus wouldnt triedits nlp game program matrix ok button seedling sunrise mountain red heart smiling face sunglass,Morgan Stanley,0.1125,Positive
-338,1476629591024275462,2021-12-30 19:01:43+00:00,subsidy solar wind waste destroy nature renewable,Morgan Stanley,-0.2,Negative
-339,1475104636327669769,2021-12-26 14:02:06+00:00,many found refuge nature pandemic imagine young person feel unsafe unwelcome great outdoors due disability took big step forward change need help maintaining,Morgan Stanley,0.255,Positive
-340,1476330761317986304,2021-12-29 23:14:17+00:00,surprise surprise simple name correct form emailed follow simple direction spell correctly instead correcting mistake threaten penalize mortgage negatively impact credit score wow man facepalming man facepalming,US Bancorp,-0.049999999999999996,Negative
-341,1476284246675308550,2021-12-29 20:09:27+00:00,epicfail here idea testing site update nonproduction environment,US Bancorp,0.0,Neutral
-342,1476635063408373773,2021-12-30 19:23:28+00:00,green back,US Bancorp,-0.1,Negative
-343,1475931978671136768,2021-12-28 20:49:39+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,US Bancorp,0.05555555555555556,Positive
-344,1475095469529444355,2021-12-26 13:25:40+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,US Bancorp,0.05555555555555556,Positive
-345,1474676184843800578,2021-12-25 09:39:35+00:00,rt thanks volunteer including friend marking clearing path nature walk pl,US Bancorp,0.2,Positive
-346,1474527434586214400,2021-12-24 23:48:30+00:00,getting fossil fuel book would key easing climate anxiety climatecrisis bad christmas spirit,Westpac,-0.3499999999999999,Negative
-347,1476562127481671684,2021-12-30 14:33:39+00:00,rt make little brighter someone need sparkle thanks generous match gift united wa,Scotiabank,0.0062500000000000056,Positive
-348,1476553830418501635,2021-12-30 14:00:40+00:00,make little brighter someone need sparkle thanks generous match gift united way chance reach even people need give midnight dec double impact,Scotiabank,0.00416666666666667,Positive
-349,1475556629013741581,2021-12-27 19:58:09+00:00,rt celebrating newest champion coach administrator created safe fun environment,Scotiabank,0.4,Positive
-350,1475549705887174659,2021-12-27 19:30:38+00:00,celebrating newest champion coach administrator created safe fun environment athlete autism spectrum learn love game clapping hand ourgameisback,Scotiabank,0.225,Positive
-351,1474395956883951622,2021-12-24 15:06:03+00:00,rt think something right listen frustration impact idea decision entrepren,Scotiabank,0.2857142857142857,Positive
-352,1474394974158573569,2021-12-24 15:02:09+00:00,think something right listen frustration impact idea decision entrepreneur céline tell host startupwomenpodcast tune,Scotiabank,0.2857142857142857,Positive
-353,1474380347303411741,2021-12-24 14:04:02+00:00,rt make little brighter someone need sparkle thanks generous match gift united wa,Scotiabank,0.0062500000000000056,Positive
-354,1474379628710084637,2021-12-24 14:01:10+00:00,make little brighter someone need sparkle thanks generous match gift united way holiday season reach even people need give midnight dec double impact wrapped gift,Scotiabank,0.00416666666666667,Positive
-355,1475539564844527622,2021-12-27 18:50:21+00:00,rt invested oil company renewables corrected earlier year price valuation,Charles Schwab,0.0,Neutral
-356,1475539555323457536,2021-12-27 18:50:18+00:00,rt issuing rating renewable energy stock fsr bldp evgo lev ptra ay,Charles Schwab,0.0,Neutral
-357,1474829302265008132,2021-12-25 19:48:01+00:00,market go climate control movement blocked die,Charles Schwab,0.0,Neutral
-358,1475894592797134862,2021-12-28 18:21:06+00:00,arriving soon look forward safely gathering friend supporter annual hart heart luncheon celebrate impact literacy program appreciate supporting effort learn,PNC Financial Services,0.375,Positive
-359,1475511626295955456,2021-12-27 16:59:20+00:00,rt impact influence latin musician rock pop beyond monumental hear fan,PNC Financial Services,0.0,Neutral
-360,1475511543286484995,2021-12-27 16:59:00+00:00,impact influence latin musician rock pop beyond monumental hear fan memorable concert experience artist like story powered,PNC Financial Services,0.5,Positive
-361,1475120914362732547,2021-12-26 15:06:47+00:00,strip mask dont care dont bomb time im pasting place includes commassigns really irks there still confirmation step symbol cause ambiguity argument doesnt hold water,PNC Financial Services,0.2,Positive
-362,1475576030056300552,2021-12-27 21:15:15+00:00,rt check auckland food manufacturer loft food worked u achieve toitū carbonzero certification backhand index pointing,Australia and New Zealand Banking Group,0.0,Neutral
-363,1475574996307263489,2021-12-27 21:11:08+00:00,check auckland food manufacturer loft food worked u achieve toitū carbonzero certification backhand index pointing carbonzero climateaction carbonemissions,Australia and New Zealand Banking Group,0.0,Neutral
-364,1476083328759435267,2021-12-29 06:51:04+00:00,dude covered ice pack right foot bucket iced water drive right,Australia and New Zealand Banking Group,0.2857142857142857,Positive
-365,1476605755243450383,2021-12-30 17:27:00+00:00,next people region need job oppressed long held back need break stigma yes studied effect fracking yeah hurt environment,National Australia Bank,-0.016666666666666666,Negative
-366,1476575985986248709,2021-12-30 15:28:43+00:00,clearly u havent studied effect ramming cgl pipeline thru sensitive wetland ecosystem fracking lng environment global emission dont care fn employment ie yr ignorance nonfn show,National Australia Bank,0.06666666666666667,Positive
-367,1475571017766424577,2021-12-27 20:55:20+00:00,rt tlookup auspol qldpol clima,National Australia Bank,0.0,Neutral
-368,1475566327318204416,2021-12-27 20:36:41+00:00,tlookup auspol qldpol climatecrisis fundourfuturenotgas nonewcoal stopecocide crime humanity,National Australia Bank,0.0,Neutral
-369,1476315831965560834,2021-12-29 22:14:57+00:00,rt climatecrisis dontlookup auspol qldpol demand climateaction sdg,National Australia Bank,0.0,Neutral
-370,1476313874919936005,2021-12-29 22:07:11+00:00,climatecrisis dontlookup auspol qldpol demand climateaction sdg fundourfuturenotgas nonewcoal,National Australia Bank,0.0,Neutral
-371,1476292653104832512,2021-12-29 20:42:51+00:00,rt doomsday glacier antarctica could collapse soon new research rolling stone dontlookup auspol qldpol climatecr,National Australia Bank,0.13636363636363635,Positive
-372,1476290877228126209,2021-12-29 20:35:47+00:00,doomsday glacier antarctica could collapse soon new research rolling stone dontlookup auspol qldpol climatecrisis fundourfuturenotgas nonewcoal stopecocide tellthetruth postdoom,National Australia Bank,0.13636363636363635,Positive
-373,1476288587855400965,2021-12-29 20:26:42+00:00,rt dontlookup auspol qldpol climatecrisis fundourfuturenotgas,National Australia Bank,0.0,Neutral
-374,1476283155300503557,2021-12-29 20:05:06+00:00,dontlookup auspol qldpol climatecrisis fundourfuturenotgas stopecocide stop stealing child future,National Australia Bank,0.0,Neutral
-375,1475226167523217411,2021-12-26 22:05:01+00:00,rt people showing solidarity wetsuweten land water protector stop massive fracked gas pipeline canad,National Australia Bank,0.0,Neutral
-376,1475224963544227846,2021-12-26 22:00:14+00:00,people showing solidarity wetsuweten land water protector stop massive fracked gas pipeline canada project bankrolled last year,National Australia Bank,0.0,Neutral
-377,1474362584417456130,2021-12-24 12:53:27+00:00,rt new hope expansion new acland coal mine fly face netzero scenario cl,National Australia Bank,0.3575757575757576,Positive
-378,1476124296695234560,2021-12-29 09:33:52+00:00,bank new york mellon verge agreeing provide ten million funding climatewrecking carmichael coal mine tell fund world largest new coal mine,The Bank of New York Mellon,0.0909090909090909,Positive
-379,1476216705223299072,2021-12-29 15:41:03+00:00,hoping within esg space sdg greatly help build sustainable effort,The Bank of New York Mellon,0.8,Positive
-380,1475920840839647239,2021-12-28 20:05:24+00:00,rt kevin lynch former clerk vice chair penned attached cdnpoli clim,Bank of Montreal,0.0,Neutral
-381,1475919150392487944,2021-12-28 19:58:41+00:00,kevin lynch former clerk vice chair penned attached cdnpoli climatechange cleanenergy,Bank of Montreal,0.0,Neutral
-382,1476307078260170757,2021-12-29 21:40:10+00:00,csr hour wait timehow long u think customer gonna stay high time improvement made competition real,Bank of Montreal,0.10333333333333333,Positive
-383,1476269112464748552,2021-12-29 19:09:18+00:00,hour ridiculous feel sorry csrs csr bmo excuse properly staffed,Bank of Montreal,-0.22083333333333333,Negative
-384,1474410892594872325,2021-12-24 16:05:24+00:00,slashing workforce reducing service level announce canada largest dividend increase shareholder sustainable,Bank of Montreal,0.0,Neutral
-385,1474410306319183873,2021-12-24 16:03:04+00:00,laying employee since sustainable purchasing closing branch slashing workforce sustainable,Bank of Montreal,0.0,Neutral
-386,1476362976621957123,2021-12-30 01:22:17+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
-387,1476229219084644354,2021-12-29 16:30:47+00:00,rt hey stop funding climate destruction violence,Bank of Montreal,0.0,Neutral
-388,1476017387740831749,2021-12-29 02:29:02+00:00,rt flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right,Bank of Montreal,0.39285714285714285,Positive
-389,1476016747102695424,2021-12-29 02:26:30+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
-390,1475894873303572485,2021-12-28 18:22:13+00:00,rt take stroll gallery sparkle check exhibition like inua naadohbii draw water amp permanent collection smiling face hearteyes,Bank of Montreal,0.0,Neutral
-391,1475876840657072133,2021-12-28 17:10:33+00:00,take stroll gallery sparkle check exhibition like inua naadohbii draw water amp permanent collection smiling face hearteyes open holiday season including new year eve amp new year day raising hand see whats amp plan visit backhand index pointing right camera flash,Bank of Montreal,0.1396103896103896,Positive
-392,1475676988400541697,2021-12-28 03:56:25+00:00,attention amp bcs nov flood caused billion collision making money bag collision flag canada history th money bag climate collision globe showing america accord dont thinking face sign cancel amp cgl newspaper arrow,Bank of Montreal,0.0,Neutral
-393,1475531352623788041,2021-12-27 18:17:43+00:00,rt canada top fossilbanks fund climate chaos amp trample indigenous right distressing,Bank of Montreal,0.39285714285714285,Positive
-394,1475522706506452992,2021-12-27 17:43:21+00:00,canada top fossilbanks fund climate chaos amp trample indigenous right distressingly bank dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
-395,1475502807503486983,2021-12-27 16:24:17+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
-396,1475467978741325829,2021-12-27 14:05:53+00:00,rt stop funding cgl pipeline bc join u telling big bank,Bank of Montreal,0.0,Neutral
-397,1475161550826532864,2021-12-26 17:48:15+00:00,rt canada big bank live climate commitment detail plan thin,Bank of Montreal,-0.08787878787878789,Negative
-398,1475142342482927620,2021-12-26 16:31:55+00:00,canada big bank live climate commitment detail plan thin,Bank of Montreal,-0.08787878787878789,Negative
-399,1475135344140034053,2021-12-26 16:04:07+00:00,hey stop sign money flow stop sign fracked gas know youre behind threat wetsuwetenstrong sacred water end denial delay face climate reality defundcoastalgaslink,Bank of Montreal,-0.4,Negative
-400,1474522934047821833,2021-12-24 23:30:37+00:00,rt stop funding cgl pipeline bc join u telling big bank,Bank of Montreal,0.0,Neutral
-401,1474452642365513732,2021-12-24 18:51:18+00:00,hey stop funding climate destruction violence time defundcoastalgaslink coast coast around world wetsuwetenstrong fund renweable energy,Bank of Montreal,0.0,Neutral
-402,1474447708236693513,2021-12-24 18:31:42+00:00,rt hey stop funding climate destruction violence,Bank of Montreal,0.0,Neutral
-403,1474409976911302656,2021-12-24 16:01:46+00:00,hey stop funding climate destruction violence time defundcoastalgaslink coast coast around world wetsuwetenstrong,Bank of Montreal,0.0,Neutral
-404,1476471763731111942,2021-12-30 08:34:34+00:00,nd place medal countdown towards end year nice recognize year brought u nd viewed press release year focus setting digital exchange read arrow business investment exchange,DBS Bank,0.3,Positive
-405,1475440650589986823,2021-12-27 12:17:18+00:00,smeff shared belief central role play seeking solution challenge like climate change smes need transform become sustainable business hear db bank work joyce videogt,DBS Bank,0.0,Neutral
-406,1476221249562951684,2021-12-29 15:59:07+00:00,rt extensive use fertilizer high input cost unregulated cultivation method longplagued farming industr,DBS Bank,0.08,Positive
-407,1476167076163190788,2021-12-29 12:23:51+00:00,appreciate working towards improving life livelihood farmer sustainability responsiblebanking,DBS Bank,0.0,Neutral
-408,1476166671668695042,2021-12-29 12:22:15+00:00,good work sustainability livemorebankless responsiblebanking,DBS Bank,0.7,Positive
-409,1476166390486691848,2021-12-29 12:21:07+00:00,kudos helping farmer financing program sustainability livemorebankless,DBS Bank,0.0,Neutral
-410,1476165063576735744,2021-12-29 12:15:51+00:00,grateful supporter like indianfarmers sustainability cotton,DBS Bank,0.0,Neutral
-411,1476164812660826113,2021-12-29 12:14:51+00:00,congratulation contribution towards sustainability partnership good going livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.7,Positive
-412,1476164495311392770,2021-12-29 12:13:36+00:00,kudos effort towards conducting better business sustainability responsiblebanking dbsbankindia,DBS Bank,0.5,Positive
-413,1476220463214841858,2021-12-29 15:55:59+00:00,sustainable action benefit million thank inditex livemorebankless organic farming cotton finance,DBS Bank,0.1,Positive
-414,1476220263809253383,2021-12-29 15:55:12+00:00,big clap sustainable initiative inditex livemorebankless organic farming cotton finance,DBS Bank,0.0,Neutral
-415,1476218969891610638,2021-12-29 15:50:03+00:00,bank working save planet sustainable activity transitionfinance program help indian farmer good see livemorebankless,DBS Bank,0.7,Positive
-416,1476218893223878657,2021-12-29 15:49:45+00:00,db inditex partnership inspire organization adopt sustainable practice paved path already responsiblebank,DBS Bank,0.0,Neutral
-417,1476218544228421636,2021-12-29 15:48:22+00:00,good see bank going beyond banking helping organization work towards sustainable practice,DBS Bank,0.7,Positive
-418,1476217261471907841,2021-12-29 15:43:16+00:00,impressed see helping client using sustainable material organic farming cotton finance inditex transitionfinancing,DBS Bank,1.0,Positive
-419,1476215499025354757,2021-12-29 15:36:16+00:00,thank paving way sustainable future dbsbankindia livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
-420,1476213542265126914,2021-12-29 15:28:29+00:00,customized unique organic cotton procurement financing program great effort towards organic farming sustainable finance financing indianfarmers dbsbankindia,DBS Bank,0.5875,Positive
-421,1476212303330566151,2021-12-29 15:23:34+00:00,sustainable action benefit indianfarmers thank inditex livemorebankless organic farming cotton finance,DBS Bank,0.1,Positive
-422,1476211198915846147,2021-12-29 15:19:11+00:00,rt inclusive carbonconscious resourcescarce world inditex global clothing company set target,DBS Bank,0.0,Neutral
-423,1476202611850485760,2021-12-29 14:45:03+00:00,working towards sustainable future livemorebankless livemorewasteless cotton,DBS Bank,0.0,Neutral
-424,1476188356996255746,2021-12-29 13:48:25+00:00,grateful see bank working towards customized sustainable solution responsiblebanking purposefulactivities,DBS Bank,0.0,Neutral
-425,1476187397167583232,2021-12-29 13:44:36+00:00,creating impact scale sustainable financing responsiblebusiness businessforgood,DBS Bank,0.0,Neutral
-426,1476187132725137414,2021-12-29 13:43:33+00:00,kudos sustainable effort help india grow globally,DBS Bank,0.0,Neutral
-427,1476186925455216640,2021-12-29 13:42:43+00:00,kudos sustainable effort,DBS Bank,0.0,Neutral
-428,1476186434641924104,2021-12-29 13:40:46+00:00,appreciate seeing bank working towards customized sustainable solution responsiblebanking purposefulactivities,DBS Bank,0.0,Neutral
-429,1476186201841225729,2021-12-29 13:39:51+00:00,rt belief designing financing program allow business create impact scale via collaboration,DBS Bank,0.0,Neutral
-430,1476168403534573569,2021-12-29 12:29:07+00:00,applause working towards sustainable supply chain activity financing program indianfarmers cotton financing responsiblebanking,DBS Bank,0.0,Neutral
-431,1476167051592884224,2021-12-29 12:23:45+00:00,customized sustainable solution inditex indirectly helping indianfarmers amazing work responsiblebanking dbsbankindia,DBS Bank,0.6000000000000001,Positive
-432,1476166688496250882,2021-12-29 12:22:19+00:00,making world better place sustainable practice sustainability responsiblebanking dbsbankindia,DBS Bank,0.5,Positive
-433,1476166150530555905,2021-12-29 12:20:10+00:00,rt go beyond financing develop solution enterprise adopt purposeful business strat,DBS Bank,0.0,Neutral
-434,1476164557819154433,2021-12-29 12:13:51+00:00,thank sustainable effort sustainability responsiblebanking,DBS Bank,0.0,Neutral
-435,1476164079257468928,2021-12-29 12:11:56+00:00,customized sustainable solution one world leading clothing company,DBS Bank,0.0,Neutral
-436,1476220314732273665,2021-12-29 15:55:24+00:00,inditexs partnership helping indianfarmers livemorebankless organicfarming cotton finance inditex sustainability,DBS Bank,0.0,Neutral
-437,1476219806072201223,2021-12-29 15:53:23+00:00,great way moving towards sustainability helping save planet livemorebankless organic farming,DBS Bank,0.8,Positive
-438,1476219674618568708,2021-12-29 15:52:51+00:00,truly inspiring livemorebankless organic farming cotton finance inditex sustainability,DBS Bank,0.5,Positive
-439,1476219575129702404,2021-12-29 15:52:28+00:00,good see bank going beyond banking helping make change country sustainability livemorebankless,DBS Bank,0.7,Positive
-440,1476219335635255298,2021-12-29 15:51:31+00:00,come new original initiative bravo sustainability livemorebankless,DBS Bank,0.2556818181818182,Positive
-441,1476219124795654147,2021-12-29 15:50:40+00:00,truly inspiring work bank organicfarming cotton finance inditex sustainability,DBS Bank,0.5,Positive
-442,1476218916770762755,2021-12-29 15:49:51+00:00,great supporter indianfarmers sustainability cotton,DBS Bank,0.8,Positive
-443,1476218779918950401,2021-12-29 15:49:18+00:00,transition financing program benefitting indianfarmers good effort dbsbankindia livemorebankless sustainability,DBS Bank,0.7,Positive
-444,1476218707726651395,2021-12-29 15:49:01+00:00,bank innovating developing financing program global company directly benefitting indian farmer kudos sustainability,DBS Bank,0.05,Positive
-445,1476218564365324290,2021-12-29 15:48:27+00:00,bank whose work help farmer help planet become sustainable practice good job financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.7,Positive
-446,1476218464960274432,2021-12-29 15:48:03+00:00,waterintensive crop like cotton inditex excellent job collaborating towards sustainability organiccotton indianfarmers,DBS Bank,1.0,Positive
-447,1476218256969117699,2021-12-29 15:47:13+00:00,applause effort cotton financing sustainability,DBS Bank,0.0,Neutral
-448,1476215319022628864,2021-12-29 15:35:33+00:00,cheer sustainable initiative livemorebankless organic farming cotton finance inditex transitionfinancing sustainability,DBS Bank,0.0,Neutral
-449,1476215198763520000,2021-12-29 15:35:04+00:00,effort beyond banking show sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
-450,1476215062494781441,2021-12-29 15:34:32+00:00,thank sustainable effort sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
-451,1476214900414287879,2021-12-29 15:33:53+00:00,working towards better future u thankyou sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.25,Positive
-452,1476214573824823296,2021-12-29 15:32:35+00:00,great way moving towards sustainability dbsbankindia livemorebankless organic farming cotton finance inditex,DBS Bank,0.8,Positive
-453,1476213906599079940,2021-12-29 15:29:56+00:00,good effort towards fashion apparel industry helping adapt sustainability sustainability transitionfinance supplychain,DBS Bank,0.7,Positive
-454,1476212969570652162,2021-12-29 15:26:13+00:00,well done decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
-455,1476212684840259587,2021-12-29 15:25:05+00:00,commendable effort towards sustainability organiccotton cotton indianframers responsiblebanking,DBS Bank,0.0,Neutral
-456,1476212595082162176,2021-12-29 15:24:44+00:00,amazing effort decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.6000000000000001,Positive
-457,1476211570891890692,2021-12-29 15:20:39+00:00,good see responsiblebanking good going decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.7,Positive
-458,1476211415895531531,2021-12-29 15:20:02+00:00,great effort working towards transitionfinancing decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.8,Positive
-459,1476211167777357839,2021-12-29 15:19:03+00:00,amazing inspirational work decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.55,Positive
-460,1476211001099907075,2021-12-29 15:18:23+00:00,excellent job conducting targeted sustainability campaign dbsbankindia portraitsofpurpose,DBS Bank,1.0,Positive
-461,1476210602976579587,2021-12-29 15:16:49+00:00,excellent work working concrete purposeful activity decarbonization sustainability livemorebankless,DBS Bank,0.575,Positive
-462,1476210193545367559,2021-12-29 15:15:11+00:00,encouraging every one u sustainable sustainability livemorebankless,DBS Bank,0.0,Neutral
-463,1476210054659407873,2021-12-29 15:14:38+00:00,great job transitionfinancing indianfarmers decarbonization sustainability livemorebankless,DBS Bank,0.8,Positive
-464,1476207743971192840,2021-12-29 15:05:27+00:00,appreciate work helping indianfarmers transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.0,Neutral
-465,1476206367044079617,2021-12-29 14:59:59+00:00,hat effort towards sustainability,DBS Bank,0.0,Neutral
-466,1476206218884513792,2021-12-29 14:59:23+00:00,shoutout excellent support indianfarmers sustainability cotton,DBS Bank,1.0,Positive
-467,1476203179188441092,2021-12-29 14:47:19+00:00,respect sustainability cotton,DBS Bank,0.0,Neutral
-468,1476203023516921860,2021-12-29 14:46:41+00:00,show even bank work towards sustainability,DBS Bank,0.0,Neutral
-469,1476202827496050697,2021-12-29 14:45:55+00:00,much needed initiative indianfarmers sustainability cotton,DBS Bank,0.2,Positive
-470,1476202577603678210,2021-12-29 14:44:55+00:00,great initiative sustainability cotton indianfarmers,DBS Bank,0.8,Positive
-471,1476202416852799489,2021-12-29 14:44:17+00:00,glad see livemorewasteless sustainability,DBS Bank,0.5,Positive
-472,1476202306693582849,2021-12-29 14:43:51+00:00,here excellent support indianfarmers sustainability cotton,DBS Bank,1.0,Positive
-473,1476202193589981184,2021-12-29 14:43:24+00:00,amazing contribution making social impact dbsbankindia livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.3166666666666667,Positive
-474,1476200884598022150,2021-12-29 14:38:12+00:00,hoping fashion brand switch organic cotton farming well sustainability transitionfinancing,DBS Bank,0.0,Neutral
-475,1476200412109631490,2021-12-29 14:36:19+00:00,taking step forward towards sustainability,DBS Bank,0.0,Neutral
-476,1476199864794943491,2021-12-29 14:34:08+00:00,going beyond towards sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,0.0,Neutral
-477,1476199673333354496,2021-12-29 14:33:23+00:00,cheering providing help indianfarmers transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.0,Neutral
-478,1476199392163946499,2021-12-29 14:32:16+00:00,good see bank going beyond banking helping towards making change sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.7,Positive
-479,1476198565122752513,2021-12-29 14:28:59+00:00,hand good job sustainable livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.7,Positive
-480,1476198407647600640,2021-12-29 14:28:21+00:00,amazing job indianfarmers financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.6000000000000001,Positive
-481,1476198381076692995,2021-12-29 14:28:15+00:00,saving planet sustainability,DBS Bank,0.0,Neutral
-482,1476198368904810498,2021-12-29 14:28:12+00:00,banking purposeful activity good going sustainability livemorebankless,DBS Bank,0.7,Positive
-483,1476198221680504834,2021-12-29 14:27:37+00:00,working towards better future u sustainability indianfarmers,DBS Bank,0.25,Positive
-484,1476198190223224834,2021-12-29 14:27:29+00:00,good dbsbankindia livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.7,Positive
-485,1476197993384538113,2021-12-29 14:26:42+00:00,commendable work bank working towards sustainability clapping hand indiafarmers transitionfinancing livemorebankless dbsbankindia,DBS Bank,0.0,Neutral
-486,1476197989483905030,2021-12-29 14:26:41+00:00,world need great job sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.8,Positive
-487,1476197826832920576,2021-12-29 14:26:03+00:00,commendable effort towards sustainability sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.0,Neutral
-488,1476197764186787840,2021-12-29 14:25:48+00:00,effort helping supply chain inclusive carbonconscious clapping hand sustainability,DBS Bank,0.0,Neutral
-489,1476197686499966980,2021-12-29 14:25:29+00:00,applause good job sustainability initiative indianfarmers cotton financing,DBS Bank,0.7,Positive
-490,1476197579054407681,2021-12-29 14:25:03+00:00,sustainability lead better future good see institution working financing indianfarmers dbsbankindia,DBS Bank,0.39999999999999997,Positive
-491,1476197495147741184,2021-12-29 14:24:43+00:00,bank helping planet become sustainable practice great job financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.8,Positive
-492,1476197394018492416,2021-12-29 14:24:19+00:00,good effort dbsbankindia livemorebankless sustainability,DBS Bank,0.7,Positive
-493,1476197104653459456,2021-12-29 14:23:10+00:00,love work transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.5,Positive
-494,1476196857650966528,2021-12-29 14:22:11+00:00,great work sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,0.8,Positive
-495,1476196733436661761,2021-12-29 14:21:42+00:00,going beyond plain banking kudos effort towards sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,-0.21428571428571427,Negative
-496,1476190362745982979,2021-12-29 13:56:23+00:00,working towards better future sustainability livemorebankless livemorewasteless,DBS Bank,0.25,Positive
-497,1476189972927373314,2021-12-29 13:54:50+00:00,keep going support sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
-498,1476189843356983296,2021-12-29 13:54:19+00:00,sustainable initiative iconic sustainability livemorebankless livemorewasteless,DBS Bank,0.5,Positive
-499,1476189472584704005,2021-12-29 13:52:51+00:00,grateful working towards sustainability dbsbankindia livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
-500,1476189343320403979,2021-12-29 13:52:20+00:00,coming really unique financing program sustainability livemorebankless livemorewasteless,DBS Bank,0.375,Positive
-501,1476189164240400384,2021-12-29 13:51:37+00:00,responsible bank creating impact sustainable financing sustainability livemorebankless livemorewasteless,DBS Bank,0.2,Positive
-502,1476189114630168579,2021-12-29 13:51:25+00:00,youre right thing sustainability livemorebankless,DBS Bank,0.2857142857142857,Positive
-503,1476188932391927812,2021-12-29 13:50:42+00:00,empowering business purposedriven partnership coming unique innovative financing program sustainability livemorebankless livemorewasteless,DBS Bank,0.4375,Positive
-504,1476188884543229954,2021-12-29 13:50:30+00:00,great initiative sustainability livemorebankless livemorewasteless,DBS Bank,0.8,Positive
-505,1476188718218182658,2021-12-29 13:49:51+00:00,great see bank work greater good society sustainability livemorebankless livemorewasteless,DBS Bank,0.6666666666666666,Positive
-506,1476188397412646914,2021-12-29 13:48:34+00:00,bank coming innovative financing program kudos sustainability,DBS Bank,0.5,Positive
-507,1476187941240143872,2021-12-29 13:46:46+00:00,enabling enterprise create impact scale sustainable financing sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
-508,1476187792543682562,2021-12-29 13:46:10+00:00,making difference sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
-509,1476187096897363969,2021-12-29 13:43:24+00:00,great see working towards sustainability livemorewasteless,DBS Bank,0.8,Positive
-510,1476186766906302464,2021-12-29 13:42:06+00:00,grateful see bank work greater good sustainability livemorebankless,DBS Bank,0.6,Positive
-511,1476186605891117056,2021-12-29 13:41:27+00:00,sustainable initiative genuinely inspiring sustainability livemorebankless livemorewasteless,DBS Bank,0.5,Positive
-512,1476186531815571463,2021-12-29 13:41:10+00:00,great initiative sustainability livemorebankless,DBS Bank,0.8,Positive
-513,1476186133998407681,2021-12-29 13:39:35+00:00,purposeful bank like worthy praise effort towards sustainability,DBS Bank,0.3333333333333333,Positive
-514,1476169477267996672,2021-12-29 12:33:23+00:00,working towards inclusive carbonconscious effort resourcescarce world good job sustainability responsiblebanking dbsbankindia,DBS Bank,0.7,Positive
-515,1476169283524718593,2021-12-29 12:32:37+00:00,glad see coming financing program help indian farmer livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.5,Positive
-516,1476168970449276929,2021-12-29 12:31:23+00:00,thank unearthing different way save world sustainability responsiblebanking,DBS Bank,0.0,Neutral
-517,1476168642874118148,2021-12-29 12:30:05+00:00,project needed sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
-518,1476168556794417157,2021-12-29 12:29:44+00:00,ups support farmer sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
-519,1476168452406595586,2021-12-29 12:29:19+00:00,cheering innovative idea sustainability responsiblebanking,DBS Bank,0.5,Positive
-520,1476168407405895680,2021-12-29 12:29:08+00:00,proving responsible bank responsiblebanking dbsbankindia sustainability,DBS Bank,0.2,Positive
-521,1476168296235864069,2021-12-29 12:28:42+00:00,glad see livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.5,Positive
-522,1476168153268768770,2021-12-29 12:28:08+00:00,see effort appreciate inditex responsiblebanking dbsbankindia sustainability,DBS Bank,0.0,Neutral
-523,1476168082141769732,2021-12-29 12:27:51+00:00,step towards responsiblebanking sustainability,DBS Bank,0.0,Neutral
-524,1476168000478711808,2021-12-29 12:27:31+00:00,taking step financing decarbonization strategy corporation sustainability responsiblebanking,DBS Bank,0.0,Neutral
-525,1476167970111901700,2021-12-29 12:27:24+00:00,much needed initiative helping indianfarmers help u future sustainability cotton,DBS Bank,0.1,Positive
-526,1476167944254083072,2021-12-29 12:27:18+00:00,db inditex partnership paving way towards better business sustainability responsiblebanking,DBS Bank,0.5,Positive
-527,1476167803010879488,2021-12-29 12:26:44+00:00,support sustainability cotton,DBS Bank,0.0,Neutral
-528,1476167789119356928,2021-12-29 12:26:41+00:00,time think go green thank responsiblebanking dbsbankindia sustainability,DBS Bank,-0.2,Negative
-529,1476167763899011072,2021-12-29 12:26:35+00:00,bank partnering corporate company conduct sustainable business kudos sustainability responsiblebanking,DBS Bank,0.0,Neutral
-530,1476167676934299649,2021-12-29 12:26:14+00:00,garnered support effort beyond banking financing sustainability responsiblebanking,DBS Bank,0.0,Neutral
-531,1476167546214572035,2021-12-29 12:25:43+00:00,impressive initiative responsiblebanking dbsbankindia sustainability,DBS Bank,1.0,Positive
-532,1476167269935837184,2021-12-29 12:24:37+00:00,amazing financing program right step towards sustainability responsiblebanking dbsbankindia,DBS Bank,0.4428571428571429,Positive
-533,1476167206283005952,2021-12-29 12:24:22+00:00,setting standard rest u sustainability responsiblebanking,DBS Bank,0.0,Neutral
-534,1476167155326468096,2021-12-29 12:24:10+00:00,taking stride forward towards sustainability sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
-535,1476005296392876041,2021-12-29 01:41:00+00:00,sword deserves playing time hustling defence making positive impact fuck jimmy butler get every call always,Capital One,-0.08636363636363638,Negative
-536,1476356747728236548,2021-12-30 00:57:32+00:00,rt timeline making operation carbon neutral climatecrisis corpo,Capital One,0.0,Neutral
-537,1476105839899549700,2021-12-29 08:20:31+00:00,timeline making operation carbon neutral climatecrisis corporation must actonclimate many plan,Capital One,0.5,Positive
-538,1475852805063725060,2021-12-28 15:35:03+00:00,rt via leader approach purpose culture esg,Capital One,0.0,Neutral
-539,1475831128561000448,2021-12-28 14:08:55+00:00,via leader approach purpose culture esg,Capital One,0.0,Neutral
+1,1476231549595049987,2021-12-29 16:40:03+00:00,help cashpoint bethnal green road gave managed get last stuckcouldve branch closed going away wale tomorrowanybody else similar problem cashpoint amp new note,HSBC,-0.03272727272727274,Negative
+2,1475537284577562635,2021-12-27 18:41:17+00:00,tree least given investment industry damage destroy environment climatecrisis greenwashing,HSBC,-0.25,Negative
+3,1476412395031605252,2021-12-30 04:38:40+00:00,wait climatecrisis climateaction,HSBC,0.0,Neutral
+4,1476206584254582785,2021-12-29 15:00:50+00:00,announced successful test token digital wallet settlement two cbdcs cloud environment experiment consisted transaction cbdcs ebonds forex,HSBC,0.375,Positive
+5,1476077775664599050,2021-12-29 06:29:00+00:00,information fund backhand index pointing right eydk etkiyatırımıdanışmakurulu etkiyatırımı etkiyatırımıtürkiye impactinvestingadvisoryboard impinv impactinvestingturkey hsbcturkey,HSBC,0.2857142857142857,Positive
+6,1476597396486434817,2021-12-30 16:53:47+00:00,face tear joy face tear joy face tear joy face tear joy dont fool anyone green washing crap,HSBC,0.3666666666666667,Positive
+7,1476479420466548737,2021-12-30 09:05:00+00:00,zeropollution future need innovation need greenfinance expert worked devise lowcarbon riskreward investment assessment page,HSBC,0.0,Neutral
+8,1476337080846458886,2021-12-29 23:39:23+00:00,course need fit need there one stand eco mob worthless nothing giving government advice scam u better stop using phrase going start communist revolution dumbass,HSBC,0.033333333333333326,Positive
+9,1476328496163078145,2021-12-29 23:05:16+00:00,financed u billion fossil fuel since paris climate agreement signed dont fall greenwash read,HSBC,0.0,Neutral
+10,1476193797046509572,2021-12-29 14:10:02+00:00,one bright spot cop prioritization nature mean business amp investor part climate solution partnership amp list key barrier must tackle scale naturebasedsolutions,HSBC,0.12916666666666668,Positive
+11,1475919497047556099,2021-12-28 20:00:04+00:00,new program supplier set least three sustainability goal working towards degree celsius target get access financing,HSBC,-0.08181818181818182,Negative
+12,1475850471386591239,2021-12-28 15:25:47+00:00,dr chow put local insight key successful esg engagement lot india transition access healthcare inclusive growth assetmanagement asia,HSBC,0.25,Positive
+13,1475800271779414018,2021-12-28 12:06:18+00:00,published inaugural scorecard evaluating top eu amp u asset manager climate policy time examining coal commitment amp still laggard today,HSBC,0.5,Positive
+14,1476812316893143062,2021-12-31 07:07:48+00:00,home account uk co emission amp energy use demand highquality home increase need decrease resulting carbon emission greenhomes research look incentive homeowner take action,Lloyds Banking Group,0.1,Positive
+15,1476147483550040068,2021-12-29 11:06:00+00:00,choice value value strong performance esg indicator make business sense company begin integrating social amp sustainable principle operation might help,Lloyds Banking Group,0.2333333333333333,Positive
+16,1476137573735178247,2021-12-29 10:26:37+00:00,approach redevelopment residential property one major challenge decade im proud commissioning research greenhomes also offering incentive personal amp commercial homeowner,Lloyds Banking Group,0.215625,Positive
+17,1476235094440488962,2021-12-29 16:54:08+00:00,vital thinking esg limited ecofriendly good governance amp inclusive recruitment important interesting piece highlight business address element esg,Lloyds Banking Group,0.32571428571428573,Positive
+18,1476836357410414594,2021-12-31 08:43:20+00:00,fund manager need create engagement strategy clear target amp escalation process achieve ambition going netzero recycling symbol net zero investing quick win via fintech climate decarbonization,Barclays,0.30833333333333335,Positive
+19,1476625463099469825,2021-12-30 18:45:19+00:00,six week fa published strategy aim professional sustainable woman team amp six day announced first title sponsor went liquidation,Barclays,0.175,Positive
+20,1476920287031558152,2021-12-31 14:16:50+00:00,naturebased solution might missing element need invested today achieve netzero goal tomorrow seedling reaching netzero power nature via fintech climate,Barclays,-0.2,Negative
+21,1475790128995913729,2021-12-28 11:26:00+00:00,paid internship opportunity megaphone eagle csr programme could help gain paid internship csr department global organisation past qmul participant secured permanent role find right arrow,Barclays,0.011904761904761899,Positive
+22,1476488500187111424,2021-12-30 09:41:04+00:00,milly impact sub high voltage high voltage,Standard Chartered,0.16,Positive
+23,1475183807032696844,2021-12-26 19:16:41+00:00,bank commiting ecocide balochistan funding cpec china pakistan economic cooridor project hazardous ecosystem indeginous community,Standard Chartered,0.4,Positive
+24,1475800274837151751,2021-12-28 12:06:19+00:00,year uk hosted cop shone light city london coal exposure revealed huge backing highly polluting fossil fuel new policy failed fully halt,Standard Chartered,0.11927272727272728,Positive
+25,1475622524381798409,2021-12-28 00:20:00+00:00,government health city transportation energy backed powerful data engine planet bloomberg green focused solution center sponsored amp learn,Standard Chartered,-9.25185853854297e-18,Negative
+26,1476500837476220932,2021-12-30 10:30:06+00:00,naturebased solution mitigate climate change effect agricultural sector market imperfection persist,Standard Chartered,0.0,Neutral
+27,1476134109969883141,2021-12-29 10:12:51+00:00,many r still away getting safe water drink however supana village changed access safe drinking water facility blessed community welcomed joining inauguration ceremony amp enrolling membership card,Standard Chartered,0.5,Positive
+28,1476213953067991040,2021-12-29 15:30:07+00:00,backdrop enormous change uk banking environment able translate strategy delivery see,Santander,0.25,Positive
+29,1475815298410364928,2021-12-28 13:06:01+00:00,confetti ball together inspired action towards building confidence number numberconfidenceweek blue heart big thanks everyone made possible read impact report backhand index pointing right,Santander,0.09761904761904762,Positive
+30,1476144477714722816,2021-12-29 10:54:03+00:00,hate green mess everything,Santander,-0.39166666666666666,Negative
+31,1476117377473523713,2021-12-29 09:06:22+00:00,look nice hopefully mission winnow team name mean wont hideous green thing car also dual color idea wasnt bad execution shift sudden wouldnt mind burgundy back transition smoother,Santander,-0.1020833333333333,Negative
+32,1475929145968320515,2021-12-28 20:38:24+00:00,mgreenfluo red love,Santander,0.25,Positive
+33,1476815662873993220,2021-12-31 07:21:06+00:00,wow customer obviously important others asked question morning reply knew going massive impact today day many time going issue compensate,Nationwide Building Society,0.25,Positive
+34,1476813921826791438,2021-12-31 07:14:11+00:00,angry anyway angry people kid feed bill pay massive impact,Nationwide Building Society,-0.3333333333333333,Negative
+35,1475255211006562314,2021-12-27 00:00:25+00:00,chart demonstrates people around world choose invest sustainableinvestment product dont chart global investor study rise sustainable investor find chart esg,Schroders,0.0,Neutral
+36,1476961349133500416,2021-12-31 17:00:00+00:00,latest ecosystem report explores inclusion diverse founder must pursued intentionally order ensure equitable opportunity learn access report supported,JP Morgan Chase,0.5,Positive
+37,1476656960351080448,2021-12-30 20:50:28+00:00,risk mitigation dept scared raising hand mediumlight skin tone,JP Morgan Chase,0.0,Neutral
+38,1476600756278988800,2021-12-30 17:07:08+00:00,wondering great indian economy amp wedding season impact gold demand versus whether see precious metal trading conviction next year gold,JP Morgan Chase,0.43333333333333335,Positive
+39,1475576608303960066,2021-12-27 21:17:32+00:00,market love omicron expect omicron impact growth outlook significant way rather likely accelerate end pandemic via,JP Morgan Chase,0.2916666666666667,Positive
+40,1475503854594641922,2021-12-27 16:28:27+00:00,letting people get sick omicron also thinking long term effect people get infected ie post covid conditionlongcovid increase number dalys associated covid amp impact healthcareeconomy,JP Morgan Chase,-0.3821428571428572,Negative
+41,1475477246060105730,2021-12-27 14:42:43+00:00,public consistently supported additional mitigation prioritizing public health,JP Morgan Chase,0.08333333333333333,Positive
+42,1475472607273275398,2021-12-27 14:24:17+00:00,inaccurate amp inaccurate virus change risk mitigation strategy change amp prediction ending proven inaccurate,JP Morgan Chase,0.0,Neutral
+43,1475472293866450944,2021-12-27 14:23:02+00:00,dont know internet store info dont care scream said would vaccine way normal,JP Morgan Chase,0.15,Positive
+44,1475472063678885895,2021-12-27 14:22:07+00:00,update article amp see covid took yall advice jpmorgan didnt actuary didnt think would jpmorgan return normal insight,JP Morgan Chase,0.15,Positive
+45,1475462065854767104,2021-12-27 13:42:23+00:00,economy health saving life biden admin focus since day one wh gross mishandling pandemic criminal testsno early treatment mask mitigation rate skyrocket control firezients impeachbiden,JP Morgan Chase,-0.10000000000000002,Negative
+46,1475092455406063621,2021-12-26 13:13:41+00:00,environment real frugal avatar splurge de always need send home address real merch u use would ratio real virtual,JP Morgan Chase,0.20000000000000004,Positive
+47,1475092026492428291,2021-12-26 13:11:59+00:00,environment shift waste world metaverse avatar walk closet filled fast fashion human foot satisfied one pair metaverse save planet curving plastic polyester pollution,JP Morgan Chase,0.18,Positive
+48,1475044620266520577,2021-12-26 10:03:37+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,JP Morgan Chase,0.0,Neutral
+49,1475808391683575813,2021-12-28 12:38:34+00:00,know small business entrepreneur ready build legacy circular economy direct time build profitable lasting green business good world,JP Morgan Chase,0.09166666666666666,Positive
+50,1475759063778607104,2021-12-28 09:22:33+00:00,dyk le waste cycle back economy circulareconomy reduce amount waste ending dump right support circular economy entrepreneur hold key turn tragedy triumphgtgt,JP Morgan Chase,-0.022857142857142864,Negative
+51,1475603030594707456,2021-12-27 23:02:32+00:00,never knew major bank like chase contributes much co atmosphere warren urge crackdown wall street climate change read web tap,JP Morgan Chase,0.13125,Positive
+52,1475563128721231872,2021-12-27 20:23:59+00:00,problem amc hasnt gone back level market dropping others making new ath back break even dip there still amc bear green may took short position break pennant,JP Morgan Chase,-0.012727272727272731,Negative
+53,1475549901417328640,2021-12-27 19:31:25+00:00,think said none thing another leaving tell come desert got sick water front property sure love,JP Morgan Chase,0.09523809523809523,Positive
+54,1476772395985760260,2021-12-31 04:29:10+00:00,chase esg relevance sooner think,JP Morgan Chase,0.0,Neutral
+55,1476134656030425094,2021-12-29 10:15:01+00:00,jamie dimon said dedicated addressing climate sustainability around world yet made fee helping fossilfuel company green bond sale greenwashing climatechange fossilfuels capitalatrisk,JP Morgan Chase,-0.2,Negative
+56,1476069737557856258,2021-12-29 05:57:04+00:00,sustainability trend may rise fall esg investing stay insightful article tara smyth regional head middle east north africa amp turkey esg investing featured national news read,JP Morgan Chase,0.0,Neutral
+57,1476946255079215154,2021-12-31 16:00:02+00:00,last month esgi hosted roundtable discussing impact cop insight,JP Morgan Chase,0.0,Neutral
+58,1475496699044917248,2021-12-27 16:00:01+00:00,last month esgi hosted roundtable discussing impact cop insight,JP Morgan Chase,0.0,Neutral
+59,1475522982655107072,2021-12-27 17:44:27+00:00,jp morgan chase helping finance climate catastrophe year,JP Morgan Chase,0.0,Neutral
+60,1475300897148182530,2021-12-27 03:01:58+00:00,career path climate science rapidly widening including learned seeking expert california whiplash snowpack found kapnickhall,JP Morgan Chase,0.0,Neutral
+61,1476724058234531842,2021-12-31 01:17:06+00:00,tn market value mn user digital asset universe large ignore digital asset ecosystem much nfts valiirtech,Bank of America,0.10357142857142856,Positive
+62,1476472841939918848,2021-12-30 08:38:51+00:00,stop promoting greediest crook one worst climatecrisis disproportionately impact bipoc community,Bank of America,-1.0,Negative
+63,1475860631605579782,2021-12-28 16:06:09+00:00,teacher make significant impact role model child grant support expands effort improve educational outcome student color minnesota,Bank of America,0.3125,Positive
+64,1475611094756507653,2021-12-27 23:34:35+00:00,sorry one biggest funder climatecrisis like youre really sorry wait time,Bank of America,-0.5,Negative
+65,1475258128518332417,2021-12-27 00:12:01+00:00,friend accepting application student leader summer internship program must current high school junior senior apply,Bank of America,0.08,Positive
+66,1474486803545538561,2021-12-24 21:07:03+00:00,teacher make significant impact role model child grant support expands effort improve educational outcome student color minnesota,Bank of America,0.3125,Positive
+67,1476721218745032704,2021-12-31 01:05:49+00:00,always something way finish lunch salad grilled lemon pepper chicken brown rice steamed broccoli green tea still hold credit union sounding real nice right,Bank of America,0.09642857142857139,Positive
+68,1476715973734404098,2021-12-31 00:44:58+00:00,fix roof puerta real mission viejo ca atm water leak onto check try deposit top cut person service ridiculous,Bank of America,0.12222222222222222,Positive
+69,1476513580539432964,2021-12-30 11:20:44+00:00,happy new year eve advance wondering idea make money here picture idea art future global warming solar energy water well make lot money people dome house,Bank of America,0.2340909090909091,Positive
+70,1476111997418754058,2021-12-29 08:44:59+00:00,congrats friend receiving k neighborhood builder grant year grant support programming expansion building diverse tech ecosystem innovationliveshere inclusionliveshere,Bank of America,0.0,Neutral
+71,1475957318684602371,2021-12-28 22:30:21+00:00,damn thought draymond green whole time,Bank of America,0.0,Neutral
+72,1475931849813749763,2021-12-28 20:49:09+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Bank of America,0.05555555555555556,Positive
+73,1475652861115699200,2021-12-28 02:20:33+00:00,getting bit winter week captain america winter soldier miss feature screen green thursday december pm,Bank of America,-0.2,Negative
+74,1475242601368281089,2021-12-26 23:10:19+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Bank of America,0.05000000000000001,Positive
+75,1475095362394275846,2021-12-26 13:25:14+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Bank of America,0.05555555555555556,Positive
+76,1476282231840808960,2021-12-29 20:01:26+00:00,philanthropy news award million nativeamerican community grant include million nonprofit institution providing critical service read via,Bank of America,0.0,Neutral
+77,1475451512814018572,2021-12-27 13:00:27+00:00,forget nature deciduous tree deciduous tree speaking head managing director sounding balancing environmental transition net zero watch full dfnyc recap,Bank of America,0.175,Positive
+78,1475274197534339074,2021-12-27 01:15:52+00:00,career path building digital prison create money research pay play social impact investing human capital finance amp freedom v tyranny u,Bank of America,0.011111111111111112,Positive
+79,1474713081670471682,2021-12-25 12:06:12+00:00,likely complicit disillusionment citizenry nefarious reason may certainly embody value mental defect human nature invariable,Bank of America,0.028571428571428567,Positive
+80,1475865887173492743,2021-12-28 16:27:02+00:00,support hire hero usa empowers thousand veteran military spouse secure meaningful employment year donate end year gift matched double impact give,Wells Fargo,0.16,Positive
+81,1475847110222352386,2021-12-28 15:12:25+00:00,wait poor people basically shellfish money ecosystem get trickle em filter send right back chain,Wells Fargo,-0.038095238095238106,Negative
+82,1476215438216503309,2021-12-29 15:36:01+00:00,register launch presented hear economist ted abernathy ted discus regional growth amp share comparison peer metro register rclaunch growth development economy,Wells Fargo,0.0,Neutral
+83,1476904229486960665,2021-12-31 13:13:02+00:00,climate action take money bag big bank support fossil fuel put money bag local bankcredit union big bank drop get involved bug bank third act,Wells Fargo,0.02,Positive
+84,1476725507811127299,2021-12-31 01:22:51+00:00,leary howell water boy,Wells Fargo,0.0,Neutral
+85,1476673350965542921,2021-12-30 21:55:36+00:00,country climate emergency marshallfire nye fjbiden,Wells Fargo,0.0,Neutral
+86,1476516635599118339,2021-12-30 11:32:52+00:00,crip camp felt bullied bunch walker sat wheelchair room without food water prove point little sleep picking twitter war youll ignore like email run,Wells Fargo,-0.1875,Negative
+87,1476261049925967874,2021-12-29 18:37:16+00:00,divest well fargo fund climate change,Wells Fargo,0.0,Neutral
+88,1475988698927808513,2021-12-29 00:35:03+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
+89,1475931944370143233,2021-12-28 20:49:31+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Wells Fargo,0.05555555555555556,Positive
+90,1475909166459928592,2021-12-28 19:19:01+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Wells Fargo,0.05000000000000001,Positive
+91,1475480679408406541,2021-12-27 14:56:21+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
+92,1475302348629188610,2021-12-27 03:07:44+00:00,customer tired money used invest destruction plant join signingon letter bank ceo demand bank stop funding climate chaos,Wells Fargo,-0.4,Negative
+93,1475287374041018371,2021-12-27 02:08:14+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
+94,1475180084336250880,2021-12-26 19:01:54+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
+95,1475095430383947776,2021-12-26 13:25:31+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Wells Fargo,0.05555555555555556,Positive
+96,1474865622064549889,2021-12-25 22:12:20+00:00,bank amp want something funding corporation destroying climate here,Wells Fargo,-0.2,Negative
+97,1475044219999903745,2021-12-26 10:02:01+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Citigroup,0.0,Neutral
+98,1475043898334535686,2021-12-26 10:00:45+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Citigroup,0.0,Neutral
+99,1476823148209319937,2021-12-31 07:50:51+00:00,still pathology,Citigroup,0.0,Neutral
+100,1476598792380166146,2021-12-30 16:59:20+00:00,thanks amp foundation trained youth algeria digital employability soft technical amp entrepreneurship skill piloted training green sector like waste management building rehabilitation aquaculture amp solar energy,Citigroup,-0.016666666666666663,Negative
+101,1476214543990894600,2021-12-29 15:32:28+00:00,esg investing financial market climate transition new comment,Citigroup,0.06818181818181818,Positive
+102,1475981896001724419,2021-12-29 00:08:01+00:00,know amp among biggest funders prohibited fossil fuel project police car light world would rather use money fight climate change fund go towards climate positive project watmos,Citigroup,0.31363636363636366,Positive
+103,1475934975421816837,2021-12-28 21:01:34+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+104,1475934898619834369,2021-12-28 21:01:16+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+105,1475934847222829064,2021-12-28 21:01:03+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+106,1475934778536955905,2021-12-28 21:00:47+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+107,1475934613407248386,2021-12-28 21:00:08+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+108,1475934521820434434,2021-12-28 20:59:46+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+109,1475934499993231361,2021-12-28 20:59:40+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+110,1475934377146204166,2021-12-28 20:59:11+00:00,looking bank socially amp environmentally responsible investing billion dollar renewable energy project around world,Citigroup,0.11666666666666667,Positive
+111,1475931890339041283,2021-12-28 20:49:18+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Citigroup,0.05555555555555556,Positive
+112,1475928493481512960,2021-12-28 20:35:48+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+113,1475928452125630467,2021-12-28 20:35:39+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+114,1475926173435805702,2021-12-28 20:26:35+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+115,1475925742068371462,2021-12-28 20:24:52+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+116,1475925676033286144,2021-12-28 20:24:37+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+117,1475925641757396997,2021-12-28 20:24:29+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+118,1475925571804839939,2021-12-28 20:24:12+00:00,want bank lead way funding renewable energy project around world,Citigroup,0.0,Neutral
+119,1475922045514960903,2021-12-28 20:10:11+00:00,something good world today completely divest fossil fuel funnel money renewable energy project,Citigroup,0.39999999999999997,Positive
+120,1475680508382261250,2021-12-28 04:10:24+00:00,nyc huge climate pollution footprint bigger country wall street bank headquartered nyc much much larger polluter get control stopthemoneypipeline cc,Citigroup,0.13333333333333336,Positive
+121,1475502748426723332,2021-12-27 16:24:03+00:00,inspired much currently deploying robust modular collection model amp forming social inclusive partnership drive impact across underserved community especially woman amp youth incentivizing waste recycling advancing sustainability,Citigroup,-0.04166666666666667,Negative
+122,1475481669855547404,2021-12-27 15:00:17+00:00,usadf grantee promotes environmental sustainability also empowers unemployed woman amp youth nigeria grant purchase bailers recycling program increased revenue contributing reduction pollution,Citigroup,0.0,Neutral
+123,1475451471646838785,2021-12-27 13:00:18+00:00,private bank david bailin see healthyish economy sick government situation hope form corporate action climate social issue livingbeyondborders podcast listen,Citigroup,-0.1161904761904762,Negative
+124,1475095391641157638,2021-12-26 13:25:21+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,Citigroup,0.05555555555555556,Positive
+125,1475089040173150212,2021-12-26 13:00:07+00:00,cancer drug natural inspired nature rely heavily ingredient nature produce medicine treatment variety different disease harlin singh livingbeyondborders podcast listen,Citigroup,-0.03333333333333333,Negative
+126,1474897759513813001,2021-12-26 00:20:02+00:00,bizav face grave risk without sustainability effort,Citigroup,0.0,Neutral
+127,1474780937661657098,2021-12-25 16:35:50+00:00,demand join moderator donald j gonzales estrada hinojosa amp co inc panelist chris jumper jennifer chang gardner smith leader forum panel,Citigroup,0.0,Neutral
+128,1474442556863832073,2021-12-24 18:11:14+00:00,please include climate target clear commitment end support company project engaged expansion fossil fuel industry please part keep global warming c save earth,Citigroup,0.05000000000000001,Positive
+129,1476776943039123461,2021-12-31 04:47:15+00:00,team visited asansol branch collect credit card astonished know branch xerox meachine sure going green dont support digital copy sad customer decade,HDFC Bank,-0.05,Negative
+130,1476760551409606659,2021-12-31 03:42:06+00:00,still dont undrstnd corporate r exploring new city like suratgujarat h predictable climate fr setting iteskpos te city offer fantastic infra amp low cost amp english speaking human resource,HDFC Bank,0.048051948051948054,Positive
+131,1476569608479862787,2021-12-30 15:03:22+00:00,smile medicine wonderful sister bihar taught biggest learning year bow lady hdfcbank sustainabledevelopment csr,HDFC Bank,0.65,Positive
+132,1476424462597722112,2021-12-30 05:26:37+00:00,lodge complaint month back csr said resolve day till time update side also tried contact costumer care selecting account option saying takniki kharabi ki wajah se hum abi help nhi kr,HDFC Bank,-0.15,Negative
+133,1476958471740280833,2021-12-31 16:48:34+00:00,golf link called sustainable city amp community defined sustainable development goal gnida ensure good healthclean water sanitationjusticepeace life herepeople use ground water drink supply drinking water,HDFC Bank,0.7,Positive
+134,1476947382335987717,2021-12-31 16:04:30+00:00,plz visit golf link greaternoida amp see condition roadsewardrinking water amp think life people view un sdg dont resolve complaint raised time vl implement sdg greater noida,HDFC Bank,0.1,Positive
+135,1475432003977711617,2021-12-27 11:42:56+00:00,dharuhera branchcustomers cannot go branch water logged gutter water pathetic condition jagdishan please change branch location make accessible public conviently,HDFC Bank,-0.20833333333333334,Negative
+136,1475398132263313409,2021-12-27 09:28:20+00:00,india become poor investing money share stock buying motor medical life insurance indian invest corpus hospital education necessary infrastructure india citizen get free health education drinking water toilet,HDFC Bank,-0.006666666666666666,Negative
+137,1475152944689524738,2021-12-26 17:14:03+00:00,think wharton mba would put energy socialimpact real estate windfall following financial crisis make sense gambling kid future next big short would,Goldman Sachs,0.028571428571428574,Positive
+138,1475524851783798788,2021-12-27 17:51:53+00:00,im consumer california climate change time part solution time fully divest fossil fuel invest clean energy economy planet counting,Goldman Sachs,0.3666666666666667,Positive
+139,1475121221234831367,2021-12-26 15:08:00+00:00,community sent climate love green heart company plan reduce carbon footprint fossilfuel client fifth amp slash emission key customer group aiming make business climate neutral,Goldman Sachs,0.09999999999999999,Positive
+140,1474841216671965189,2021-12-25 20:35:21+00:00,racist promotes one race another promote business based merit gender racial leadership money green matter made,Goldman Sachs,-0.2,Negative
+141,1474510727029436420,2021-12-24 22:42:07+00:00,corporate partner recognized inaugural green growth list honoring world leading corporation going green seedling see full list,Goldman Sachs,-0.012500000000000011,Negative
+142,1476919290943180800,2021-12-31 14:12:53+00:00,study prof cost climateaction rise longer delay climateactionnow,Goldman Sachs,0.0,Neutral
+143,1476629661048180770,2021-12-30 19:02:00+00:00,katie koch share diversity form lead differentiated return using thinking develop etf gsfp amp gtek identify winner climate transition spot tech company reshaping world,Goldman Sachs,0.0,Neutral
+144,1476093627583639552,2021-12-29 07:31:59+00:00,vaccine quercetinsaveslives covidtreatment sarscov covid omicron,Goldman Sachs,0.0,Neutral
+145,1475824564336836608,2021-12-28 13:42:50+00:00,goldman sachs help keep merry holiday cc philanthropy companyculture givingback thankyougoldmansachs attitudeofgratitude,Goldman Sachs,0.0,Neutral
+146,1476752077195989018,2021-12-31 03:08:26+00:00,yeah good luck wont long come customer imagine told grocery store youre allowed buy food dont like environmental impact,Royal Bank of Canada,0.32499999999999996,Positive
+147,1476611314701283334,2021-12-30 17:49:06+00:00,issue reputation risk argument canadian bank operate oligopolistic environment play rule make difficult business individual particular risk category banking get financing etc,Royal Bank of Canada,-0.11111111111111112,Negative
+148,1476347193191665666,2021-12-30 00:19:34+00:00,financial risk mitigation includes political opinion,Royal Bank of Canada,0.0,Neutral
+149,1476339027682811906,2021-12-29 23:47:07+00:00,called risk mitigation whole revenue based fundraising mention organization paid many settlement libel blame wanting business,Royal Bank of Canada,0.35,Positive
+150,1476326953309421574,2021-12-29 22:59:09+00:00,bank still gang disassociate calculating pr impact anything crime family perception another laughing bank,Royal Bank of Canada,0.0,Neutral
+151,1476299211784130561,2021-12-29 21:08:55+00:00,unrelated concern service disaster covid resource make anything possible amp little electronic delivery perfect environment financial product,Royal Bank of Canada,0.203125,Positive
+152,1476297165656014858,2021-12-29 21:00:47+00:00,average briton expected live nine month le result pandemic according,Royal Bank of Canada,-0.03787878787878788,Negative
+153,1476260280120352772,2021-12-29 18:34:13+00:00,ha ha grifter get stymied like speak blocking pipeline donation environmental protection large rare ecosystem still trying create news gather donation,Royal Bank of Canada,0.2571428571428571,Positive
+154,1476746580275433473,2021-12-31 02:46:36+00:00,listened telephone call suspected politics nothing financials even loan officer said ready give green light financials,Royal Bank of Canada,0.13333333333333333,Positive
+155,1476666355503939601,2021-12-30 21:27:48+00:00,like bigot good know good know support hit problem conservative send word liberalsprogressives thanks green light maybe could write letter kenny asking start kind thing ab,Royal Bank of Canada,0.39999999999999997,Positive
+156,1476306976799969281,2021-12-29 21:39:46+00:00,american green back,Royal Bank of Canada,-0.06666666666666667,Negative
+157,1476266523970846721,2021-12-29 18:59:01+00:00,sure sky actually green,Royal Bank of Canada,0.15,Positive
+158,1476258385234251782,2021-12-29 18:26:41+00:00,thank due diligence taking firm stand lowest low canada always knew grifting isnt reputable sustainable business model anyway lol,Royal Bank of Canada,0.195,Positive
+159,1476921247883689985,2021-12-31 14:20:40+00:00,also turn water amp power ban hospital prevent buying food line hate left wont cross,Royal Bank of Canada,-0.26666666666666666,Negative
+160,1476755309616058374,2021-12-31 03:21:17+00:00,talking chicom social score style esg priority another thread conservative person penis think referring ezra original tweet ie conservative loan company money either,Royal Bank of Canada,0.20416666666666666,Positive
+161,1476754199182462991,2021-12-31 03:16:52+00:00,denied mortgage financial reason politics part esg socialcreditscore system bank put place going consider moving account different bank,Royal Bank of Canada,0.0,Neutral
+162,1476754082538864641,2021-12-31 03:16:24+00:00,ok let eat happens left leaning peoplecompanies eventually fairly soon left choice either shift esg priority left go business unless,Royal Bank of Canada,0.24,Positive
+163,1476751374859714561,2021-12-31 03:05:39+00:00,guess crazy climate denier look selling,Royal Bank of Canada,-0.6,Negative
+164,1476751010517291011,2021-12-31 03:04:12+00:00,discrimination based disregard environment societal impact sustainable governance yup im alone billion dollar discriminated company didnt esg st together form lost investment,Royal Bank of Canada,0.0,Neutral
+165,1476748266385641472,2021-12-31 02:53:18+00:00,thats corporate back office exists say hold buddy company really conflict rbc esg goal lending money,Royal Bank of Canada,0.06666666666666667,Positive
+166,1476746950624129028,2021-12-31 02:48:04+00:00,likely esg priority like rbc rnn ltd conflict priority business company bring value society environment etc cant say second rebel committed community building environmental sustainability,Royal Bank of Canada,0.0,Neutral
+167,1476734385361543174,2021-12-31 01:58:08+00:00,swear life true nature nazi murder imperfect people murder greed nazi thief primarily lady destruction excellent book,Royal Bank of Canada,0.5833333333333334,Positive
+168,1476616593861840896,2021-12-30 18:10:04+00:00,take note get lawyer defeated shell predicts avalanche climate case roger cox expects bank financial regulator targeted next climateaction law legal,Royal Bank of Canada,0.06666666666666667,Positive
+169,1476614489818771468,2021-12-30 18:01:43+00:00,rd canadian city park report focusing park help create equitable resilient city recover covid address another crisis climate change,Royal Bank of Canada,0.0,Neutral
+170,1476607131344261123,2021-12-30 17:32:28+00:00,oh seriously one committed racist attack ezra told hear video heard guy said nature business main source revenue donation medium anybody wa high profile lw rw,Royal Bank of Canada,-0.002222222222222218,Negative
+171,1476408576876888067,2021-12-30 04:23:29+00:00,could anything wrbc wanting part trudeau convict minister climate change offering,Royal Bank of Canada,0.0,Neutral
+172,1476380949646491652,2021-12-30 02:33:42+00:00,listen recording nowhere say bc rw politics said bc nature business amp medium course ezra spun guy say said bc conservative theatre amp grifting,Royal Bank of Canada,0.0,Neutral
+173,1476375126962843651,2021-12-30 02:10:34+00:00,im sure u government investigate someone claim discrimination right political climate woke dnd left always love using race card get wayidentity politics freeaking toxic,Royal Bank of Canada,0.2571428571428571,Positive
+174,1476332844494508037,2021-12-29 23:22:33+00:00,begin divesting product perpetuate human caused climate change,Royal Bank of Canada,0.0,Neutral
+175,1476321952633552898,2021-12-29 22:39:16+00:00,dont thinking face climate champion wont state position cgl amp sitec shes cc shed persuade fellow councillor divest million cdn frm nxt municipal ballot box ballot newspaper arrow,Royal Bank of Canada,0.0,Neutral
+176,1476320682040446977,2021-12-29 22:34:13+00:00,allowed manage risk nature one business go beyond balance sheet risk may result litigation crime loss reputation relevant lender,Royal Bank of Canada,0.4,Positive
+177,1476289540621062144,2021-12-29 20:30:29+00:00,nature business mean fear loosing clientele associated doubt validity actual recorded phone call,Royal Bank of Canada,-0.15625,Negative
+178,1476270203847720966,2021-12-29 19:13:39+00:00,called esg esg,Royal Bank of Canada,0.0,Neutral
+179,1476242425244966912,2021-12-29 17:23:16+00:00,ask diversity equity amp inclusion department diversity opinion allowed political bias shouldnt good esg score,Royal Bank of Canada,0.35,Positive
+180,1476227976102617092,2021-12-29 16:25:51+00:00,called esg score,Royal Bank of Canada,0.0,Neutral
+181,1475882391529009164,2021-12-28 17:32:37+00:00,climate change killing u,Royal Bank of Canada,0.0,Neutral
+182,1475599824351236096,2021-12-27 22:49:48+00:00,biggest bank funding climate destruction canada join demanding drop fossil fuel fossilbanksnothanks quitrbc,Royal Bank of Canada,0.0,Neutral
+183,1475555850395734016,2021-12-27 19:55:03+00:00,canada biggest bank banking climate chaos dumping billion fossil fuel company including coal indigenous right violating tar sand pipeline like line tell time take climate chaos seriously,Royal Bank of Canada,-0.023809523809523808,Negative
+184,1474612385121910785,2021-12-25 05:26:04+00:00,play outsized role funding climate chaos hold accountable demand better behaviour,Royal Bank of Canada,0.5,Positive
+185,1474567213940047873,2021-12-25 02:26:34+00:00,ti season wrote carol climate action musical score im home holiday dropped summerland branch amp sang w sister part week action defundcoastalgaslink solidarity w musical note tune wish merry christmas musical note,Royal Bank of Canada,0.04,Positive
+186,1474447636191195146,2021-12-24 18:31:25+00:00,stop flow money stop flow fracked gas know buck behind threat sacred water wetsuwetenstrong end denial delay face shared climate reality defundcoastalgaslink,Royal Bank of Canada,-0.4,Negative
+187,1475937468968955905,2021-12-28 21:11:28+00:00,moment rene farrell never forget two heart latest ep baggy green queen fezzy chatted gamechanging hattrick helped u win back ash listen scooppodcast,Commonwealth Bank,0.275,Positive
+188,1475607104169787393,2021-12-27 23:18:43+00:00,week episode baggy green queen former swing bowler rene farrell chat matchwinning spell ash test included thrilling hattrick listen scooppodcast,Commonwealth Bank,0.016666666666666663,Positive
+189,1476686464402472962,2021-12-30 22:47:43+00:00,love ya green heart green heart green heart green heart green heart green heart green heart green heart green heart green heart make heart green every time disappointment happy new year,Toronto-Dominion Bank,-0.09090909090909088,Negative
+190,1476609262365384708,2021-12-30 17:40:56+00:00,tdbank care community predatory bank raking overdraftfees like price gouger water drought kept fams even bank reversing charge bc covid violence poor,Toronto-Dominion Bank,-0.4,Negative
+191,1476738526930776067,2021-12-31 02:14:35+00:00,reminds u connecting lived experience upmost impact life young people special thank helping u create type connection athlete youth local ottawa community,Toronto-Dominion Bank,0.1523809523809524,Positive
+192,1476373675834322950,2021-12-30 02:04:48+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+193,1476373629604667393,2021-12-30 02:04:37+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+194,1476373295561912320,2021-12-30 02:03:18+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+195,1476372974483693569,2021-12-30 02:02:01+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+196,1476372892699209728,2021-12-30 02:01:41+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+197,1476372854354685954,2021-12-30 02:01:32+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+198,1476372819474894857,2021-12-30 02:01:24+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+199,1476330281208590348,2021-12-29 23:12:22+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+200,1476330256051146756,2021-12-29 23:12:16+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+201,1476330224765878272,2021-12-29 23:12:09+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+202,1476329805100498946,2021-12-29 23:10:29+00:00,called help desk dec aprx hour asked short amc csr clueless clue talking transfer option department running business charity house amcnotleaving,Toronto-Dominion Bank,0.0,Neutral
+203,1476286294246535174,2021-12-29 20:17:35+00:00,feeling comfy green couch experience today boy guy make difficult remain customer,Toronto-Dominion Bank,-0.35,Negative
+204,1475164510801432576,2021-12-26 18:00:01+00:00,youth summit mother earth included challenge planned youth youth gave participant chance spend time nature check submission project made possible amp,Toronto-Dominion Bank,0.0,Neutral
+205,1476406153244336130,2021-12-30 04:13:51+00:00,waiting virtue signaling company talk million mask ruining environment amp opposition guess applies straw bag amp cutlery,Morgan Stanley,0.0,Neutral
+206,1476353427286503426,2021-12-30 00:44:21+00:00,take acre power home imagine impact small city never work,Morgan Stanley,-0.25,Negative
+207,1475719574133919744,2021-12-28 06:45:38+00:00,factoring impact tax investment decision help keep hardearned money future hard earned money,Morgan Stanley,-0.14583333333333334,Negative
+208,1475473432842317827,2021-12-27 14:27:34+00:00,promoted morgan stanley know investment lay never environment power money jp morgan attempted corner market including antiquity belong people,Morgan Stanley,0.0,Neutral
+209,1475046905117921284,2021-12-26 10:12:41+00:00,frodo tech frdx financial blockchain ecosystem provide customer financial service globally without limitation race region find information please visit frodo tech website backhand index pointing backhand index pointing backhand index pointing,Morgan Stanley,0.0,Neutral
+210,1474492741090381824,2021-12-24 21:30:38+00:00,bad human relationship would correlated impaired coverage data point reduces survival rate produce imbalanced environment,Morgan Stanley,-0.3499999999999999,Negative
+211,1476931942071164936,2021-12-31 15:03:09+00:00,best esg theme indian market praj industry ethanol plant india glycol ethanol producer mtar tech hydrogen box bloom orient green power wind farm operator suzlon energy wind turbine generator oem,Morgan Stanley,0.4,Positive
+212,1476926350913159170,2021-12-31 14:40:56+00:00,let talk corrosive metal solar panel plan recover keep toxin water supply longer usable,Morgan Stanley,0.0,Neutral
+213,1476703164892160007,2021-12-30 23:54:04+00:00,green energy honesty pretty much myth geothermal nuclear genuinely best bet many people irrationally freaked nuclear energy,Morgan Stanley,0.35,Positive
+214,1476672771556098051,2021-12-30 21:53:18+00:00,arent showing data little actually produce compared amount green area field use,Morgan Stanley,-0.12916666666666668,Negative
+215,1476442801202155520,2021-12-30 06:39:29+00:00,going address issue landfill containing toxic solar panel expire bidens green new deal obviously isnt soo important applies face rolling eye follow money,Morgan Stanley,0.08409090909090909,Positive
+216,1476399163654946823,2021-12-30 03:46:05+00:00,mite renewables ie sanchez midstream since one always pushing best bitcoin aka facebook transaction,Morgan Stanley,1.0,Positive
+217,1476365768208101376,2021-12-30 01:33:23+00:00,anyone research failure germany trying go green,Morgan Stanley,-0.25833333333333336,Negative
+218,1476344032519409665,2021-12-30 00:07:01+00:00,met ad covid seemed cause shortage labor panel amp material feel process still taken long hope time go thing happen quickly others amp people go green,Morgan Stanley,0.027777777777777773,Positive
+219,1476107062564175873,2021-12-29 08:25:23+00:00,free guy program change world might save u climate change would enrich livesbut wordmatrix fight itbut word also realizing imbalance would threaten matrix real shit,Morgan Stanley,0.04999999999999999,Positive
+220,1476088323382730754,2021-12-29 07:10:55+00:00,yup thats message time regain place trinitythe word god reason climate change need access greater information space god milky way milky way yoshi happened time purpose red heart,Morgan Stanley,0.25,Positive
+221,1475957495046696960,2021-12-28 22:31:03+00:00,like saying actually embodies baby jesus valuable word bookand came term word didnt become flesh like water sweat droplet fire fire make sense,Morgan Stanley,0.0,Neutral
+222,1475561587637379081,2021-12-27 20:17:51+00:00,old saying fight fed becomes ultraaccommodative problem andrew slimmon say next year battle human behavior optimistic fed throw little cold water return,Morgan Stanley,-0.1375,Negative
+223,1475539302134296576,2021-12-27 18:49:18+00:00,rolling floor laughing clown face fuck still think ppl believe climate change cow manure,Morgan Stanley,-0.26666666666666666,Negative
+224,1475532130033844239,2021-12-27 18:20:48+00:00,china owns supply chain called renewable energy vast reserve metal used make solar panel battery amp wind turbine also refine metal use coal power u never able compete china,Morgan Stanley,-0.125,Negative
+225,1475524886307086339,2021-12-27 17:52:01+00:00,im consumer california climate change time part solution time fully divest fossil fuel invest clean energy economy planet counting,Morgan Stanley,0.3666666666666667,Positive
+226,1475308123963510789,2021-12-27 03:30:41+00:00,esg biggest money grab history artificial industry cause catastrophic consequence,Morgan Stanley,-0.6,Negative
+227,1475290769384620037,2021-12-27 02:21:43+00:00,guy didnt collaborate apparently developed simultaneously somehow got connected today movie think collective subconscious information space milky way may climate change zeitgeist year old free guy smiling face sunglass milky way,Morgan Stanley,0.15000000000000002,Positive
+228,1475167793280655360,2021-12-26 18:13:03+00:00,arguing renewables solar panel wind turbine amp battery made metal neither renewed recycled nuclearrenewables inadequate airplane cargo ship military us,Morgan Stanley,-0.1,Negative
+229,1474960979716886529,2021-12-26 04:31:15+00:00,reading different thread solar drawback v others nobody renewables france going build plant new nuclear reactor design also pursuing renewables hedge case ever time uranium difficult obtain,Morgan Stanley,-0.12121212121212122,Negative
+230,1474946321278771200,2021-12-26 03:33:00+00:00,france get nuclear renewables target year youre arguing renewables energy generation may picked poor example,Morgan Stanley,-0.4,Negative
+231,1474922026687029251,2021-12-26 01:56:28+00:00,mean god information space become flesh even wordbut word cannot fleshthey different data pointsmakes sense milk milk glass milk water water sweat droplet right ok button seedling seedling seedling two heart two heart two heart thumb smiling face heart sunrise mountain,Morgan Stanley,0.11830357142857142,Positive
+232,1474689312562106369,2021-12-25 10:31:45+00:00,dont know started address youbut must climate change leader big organizationand may humble tell write tweet wonder making much sense littleness coming zany face ok button seedling smiling face heart sunrise mountain christmas tree,Morgan Stanley,0.125,Positive
+233,1474460035614973952,2021-12-24 19:20:41+00:00,seen shift charge card platinum gold green flexibility break large purchase monthly payment credit card offer apr bonus period sign allows,Morgan Stanley,0.007142857142857131,Positive
+234,1476734727453167624,2021-12-31 01:59:30+00:00,wind turbine destroy nature kill wildlife renewable,Morgan Stanley,-0.2,Negative
+235,1476690611251998721,2021-12-30 23:04:11+00:00,yea close close like love hate word let u hateful thing appeases u lovebut hate reasonable right tell u human natureoriginal sinand yet littleness child god,Morgan Stanley,-0.1023809523809524,Negative
+236,1476678385086525452,2021-12-30 22:15:37+00:00,know word prepares matrix free guy le likely growits scheme human natureif human nature free guy like jesus wouldnt triedits nlp game program matrix ok button seedling sunrise mountain red heart smiling face sunglass,Morgan Stanley,0.1125,Positive
+237,1476629591024275462,2021-12-30 19:01:43+00:00,subsidy solar wind waste destroy nature renewable,Morgan Stanley,-0.2,Negative
+238,1475104636327669769,2021-12-26 14:02:06+00:00,many found refuge nature pandemic imagine young person feel unsafe unwelcome great outdoors due disability took big step forward change need help maintaining,Morgan Stanley,0.255,Positive
+239,1476284246675308550,2021-12-29 20:09:27+00:00,epicfail here idea testing site update nonproduction environment,US Bancorp,0.0,Neutral
+240,1476635063408373773,2021-12-30 19:23:28+00:00,green back,US Bancorp,-0.1,Negative
+241,1475931978671136768,2021-12-28 20:49:39+00:00,im consumer california climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,US Bancorp,0.05555555555555556,Positive
+242,1475095469529444355,2021-12-26 13:25:40+00:00,im consumer louisiana climate crisis green economy solution please stop lending big polluter go allin renewable energy clean technology planetsaving project,US Bancorp,0.05555555555555556,Positive
+243,1474527434586214400,2021-12-24 23:48:30+00:00,getting fossil fuel book would key easing climate anxiety climatecrisis bad christmas spirit,Westpac,-0.3499999999999999,Negative
+244,1476553830418501635,2021-12-30 14:00:40+00:00,make little brighter someone need sparkle thanks generous match gift united way chance reach even people need give midnight dec double impact,Scotiabank,0.00416666666666667,Positive
+245,1475549705887174659,2021-12-27 19:30:38+00:00,celebrating newest champion coach administrator created safe fun environment athlete autism spectrum learn love game clapping hand ourgameisback,Scotiabank,0.225,Positive
+246,1474829302265008132,2021-12-25 19:48:01+00:00,market go climate control movement blocked die,Charles Schwab,0.0,Neutral
+247,1475894592797134862,2021-12-28 18:21:06+00:00,arriving soon look forward safely gathering friend supporter annual hart heart luncheon celebrate impact literacy program appreciate supporting effort learn,PNC Financial Services,0.375,Positive
+248,1475511543286484995,2021-12-27 16:59:00+00:00,impact influence latin musician rock pop beyond monumental hear fan memorable concert experience artist like story powered,PNC Financial Services,0.5,Positive
+249,1475120914362732547,2021-12-26 15:06:47+00:00,strip mask dont care dont bomb time im pasting place includes commassigns really irks there still confirmation step symbol cause ambiguity argument doesnt hold water,PNC Financial Services,0.2,Positive
+250,1475574996307263489,2021-12-27 21:11:08+00:00,check auckland food manufacturer loft food worked u achieve toitū carbonzero certification backhand index pointing carbonzero climateaction carbonemissions,Australia and New Zealand Banking Group,0.0,Neutral
+251,1476083328759435267,2021-12-29 06:51:04+00:00,dude covered ice pack right foot bucket iced water drive right,Australia and New Zealand Banking Group,0.2857142857142857,Positive
+252,1476605755243450383,2021-12-30 17:27:00+00:00,next people region need job oppressed long held back need break stigma yes studied effect fracking yeah hurt environment,National Australia Bank,-0.016666666666666666,Negative
+253,1476575985986248709,2021-12-30 15:28:43+00:00,clearly u havent studied effect ramming cgl pipeline thru sensitive wetland ecosystem fracking lng environment global emission dont care fn employment ie yr ignorance nonfn show,National Australia Bank,0.06666666666666667,Positive
+254,1475566327318204416,2021-12-27 20:36:41+00:00,tlookup auspol qldpol climatecrisis fundourfuturenotgas nonewcoal stopecocide crime humanity,National Australia Bank,0.0,Neutral
+255,1476962687028318208,2021-12-31 17:05:19+00:00,amp pushed bcers esp fn without due consideration impact ecosystem future reconciliation sustainability etc cgl lock u fossilfuels amp hold u back fr transitioning renewables meeting climate goal,National Australia Bank,-0.041666666666666664,Negative
+256,1476760091336404993,2021-12-31 03:40:17+00:00,fn shouldnt u respect yr hereditary elder whose duty incl stewarding yr ancestral land ensure sustainability future gen seems assimilation goal early bc govts distract fn fr resource theft worked ur ok w contd abuse amp injustice v fn,National Australia Bank,0.19999999999999998,Positive
+257,1476313874919936005,2021-12-29 22:07:11+00:00,climatecrisis dontlookup auspol qldpol demand climateaction sdg fundourfuturenotgas nonewcoal,National Australia Bank,0.0,Neutral
+258,1476290877228126209,2021-12-29 20:35:47+00:00,doomsday glacier antarctica could collapse soon new research rolling stone dontlookup auspol qldpol climatecrisis fundourfuturenotgas nonewcoal stopecocide tellthetruth postdoom,National Australia Bank,0.13636363636363635,Positive
+259,1476283155300503557,2021-12-29 20:05:06+00:00,dontlookup auspol qldpol climatecrisis fundourfuturenotgas stopecocide stop stealing child future,National Australia Bank,0.0,Neutral
+260,1475224963544227846,2021-12-26 22:00:14+00:00,people showing solidarity wetsuweten land water protector stop massive fracked gas pipeline canada project bankrolled last year,National Australia Bank,0.0,Neutral
+261,1476124296695234560,2021-12-29 09:33:52+00:00,bank new york mellon verge agreeing provide ten million funding climatewrecking carmichael coal mine tell fund world largest new coal mine,The Bank of New York Mellon,0.0909090909090909,Positive
+262,1476216705223299072,2021-12-29 15:41:03+00:00,hoping within esg space sdg greatly help build sustainable effort,The Bank of New York Mellon,0.8,Positive
+263,1475919150392487944,2021-12-28 19:58:41+00:00,kevin lynch former clerk vice chair penned attached cdnpoli climatechange cleanenergy,Bank of Montreal,0.0,Neutral
+264,1476307078260170757,2021-12-29 21:40:10+00:00,csr hour wait timehow long u think customer gonna stay high time improvement made competition real,Bank of Montreal,0.10333333333333333,Positive
+265,1476269112464748552,2021-12-29 19:09:18+00:00,hour ridiculous feel sorry csrs csr bmo excuse properly staffed,Bank of Montreal,-0.22083333333333333,Negative
+266,1476362976621957123,2021-12-30 01:22:17+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
+267,1476016747102695424,2021-12-29 02:26:30+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
+268,1475876840657072133,2021-12-28 17:10:33+00:00,take stroll gallery sparkle check exhibition like inua naadohbii draw water amp permanent collection smiling face hearteyes open holiday season including new year eve amp new year day raising hand see whats amp plan visit backhand index pointing right camera flash,Bank of Montreal,0.1396103896103896,Positive
+269,1475676988400541697,2021-12-28 03:56:25+00:00,attention amp bcs nov flood caused billion collision making money bag collision flag canada history th money bag climate collision globe showing america accord dont thinking face sign cancel amp cgl newspaper arrow,Bank of Montreal,0.0,Neutral
+270,1475522706506452992,2021-12-27 17:43:21+00:00,canada top fossilbanks fund climate chaos amp trample indigenous right distressingly bank dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
+271,1475502807503486983,2021-12-27 16:24:17+00:00,flood fire heatwaves canada top fossilbanks fund climate chaos trample indigenous right dumped billion fossil fuel since tell keepitintheground gtgt,Bank of Montreal,0.39285714285714285,Positive
+272,1475142342482927620,2021-12-26 16:31:55+00:00,canada big bank live climate commitment detail plan thin,Bank of Montreal,-0.08787878787878789,Negative
+273,1475135344140034053,2021-12-26 16:04:07+00:00,hey stop sign money flow stop sign fracked gas know youre behind threat wetsuwetenstrong sacred water end denial delay face climate reality defundcoastalgaslink,Bank of Montreal,-0.4,Negative
+274,1474452642365513732,2021-12-24 18:51:18+00:00,hey stop funding climate destruction violence time defundcoastalgaslink coast coast around world wetsuwetenstrong fund renweable energy,Bank of Montreal,0.0,Neutral
+275,1476811332951236609,2021-12-31 07:03:54+00:00,october join hedera gc hbar db also launched blockchainbacked digital asset ecosystem last year anchored db digital exchange db offer corporate client amp accredited investor integrated suite solution across digital asset value chain,DBS Bank,0.0,Neutral
+276,1476471763731111942,2021-12-30 08:34:34+00:00,nd place medal countdown towards end year nice recognize year brought u nd viewed press release year focus setting digital exchange read arrow business investment exchange,DBS Bank,0.3,Positive
+277,1475440650589986823,2021-12-27 12:17:18+00:00,smeff shared belief central role play seeking solution challenge like climate change smes need transform become sustainable business hear db bank work joyce videogt,DBS Bank,0.0,Neutral
+278,1476188984577462273,2021-12-29 13:50:54+00:00,developing financing program positively impact business move towardssustainability livemorebankless livemorewasteless,DBS Bank,0.22727272727272727,Positive
+279,1476188489108508675,2021-12-29 13:48:56+00:00,good job innovating developing financing program positively impact business responsiblebanking businessforgood,DBS Bank,0.4636363636363636,Positive
+280,1476188214180286466,2021-12-29 13:47:51+00:00,great job purposeful business working conscious product positively impact people,DBS Bank,0.37575757575757573,Positive
+281,1476167076163190788,2021-12-29 12:23:51+00:00,appreciate working towards improving life livelihood farmer sustainability responsiblebanking,DBS Bank,0.0,Neutral
+282,1476166671668695042,2021-12-29 12:22:15+00:00,good work sustainability livemorebankless responsiblebanking,DBS Bank,0.7,Positive
+283,1476166390486691848,2021-12-29 12:21:07+00:00,kudos helping farmer financing program sustainability livemorebankless,DBS Bank,0.0,Neutral
+284,1476165063576735744,2021-12-29 12:15:51+00:00,grateful supporter like indianfarmers sustainability cotton,DBS Bank,0.0,Neutral
+285,1476164812660826113,2021-12-29 12:14:51+00:00,congratulation contribution towards sustainability partnership good going livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.7,Positive
+286,1476164495311392770,2021-12-29 12:13:36+00:00,kudos effort towards conducting better business sustainability responsiblebanking dbsbankindia,DBS Bank,0.5,Positive
+287,1476220463214841858,2021-12-29 15:55:59+00:00,sustainable action benefit million thank inditex livemorebankless organic farming cotton finance,DBS Bank,0.1,Positive
+288,1476220263809253383,2021-12-29 15:55:12+00:00,big clap sustainable initiative inditex livemorebankless organic farming cotton finance,DBS Bank,0.0,Neutral
+289,1476218969891610638,2021-12-29 15:50:03+00:00,bank working save planet sustainable activity transitionfinance program help indian farmer good see livemorebankless,DBS Bank,0.7,Positive
+290,1476218893223878657,2021-12-29 15:49:45+00:00,db inditex partnership inspire organization adopt sustainable practice paved path already responsiblebank,DBS Bank,0.0,Neutral
+291,1476218544228421636,2021-12-29 15:48:22+00:00,good see bank going beyond banking helping organization work towards sustainable practice,DBS Bank,0.7,Positive
+292,1476217261471907841,2021-12-29 15:43:16+00:00,impressed see helping client using sustainable material organic farming cotton finance inditex transitionfinancing,DBS Bank,1.0,Positive
+293,1476215499025354757,2021-12-29 15:36:16+00:00,thank paving way sustainable future dbsbankindia livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
+294,1476213542265126914,2021-12-29 15:28:29+00:00,customized unique organic cotton procurement financing program great effort towards organic farming sustainable finance financing indianfarmers dbsbankindia,DBS Bank,0.5875,Positive
+295,1476212303330566151,2021-12-29 15:23:34+00:00,sustainable action benefit indianfarmers thank inditex livemorebankless organic farming cotton finance,DBS Bank,0.1,Positive
+296,1476202611850485760,2021-12-29 14:45:03+00:00,working towards sustainable future livemorebankless livemorewasteless cotton,DBS Bank,0.0,Neutral
+297,1476188356996255746,2021-12-29 13:48:25+00:00,grateful see bank working towards customized sustainable solution responsiblebanking purposefulactivities,DBS Bank,0.0,Neutral
+298,1476187397167583232,2021-12-29 13:44:36+00:00,creating impact scale sustainable financing responsiblebusiness businessforgood,DBS Bank,0.0,Neutral
+299,1476187132725137414,2021-12-29 13:43:33+00:00,kudos sustainable effort help india grow globally,DBS Bank,0.0,Neutral
+300,1476186925455216640,2021-12-29 13:42:43+00:00,kudos sustainable effort,DBS Bank,0.0,Neutral
+301,1476186434641924104,2021-12-29 13:40:46+00:00,appreciate seeing bank working towards customized sustainable solution responsiblebanking purposefulactivities,DBS Bank,0.0,Neutral
+302,1476168403534573569,2021-12-29 12:29:07+00:00,applause working towards sustainable supply chain activity financing program indianfarmers cotton financing responsiblebanking,DBS Bank,0.0,Neutral
+303,1476167051592884224,2021-12-29 12:23:45+00:00,customized sustainable solution inditex indirectly helping indianfarmers amazing work responsiblebanking dbsbankindia,DBS Bank,0.6000000000000001,Positive
+304,1476166688496250882,2021-12-29 12:22:19+00:00,making world better place sustainable practice sustainability responsiblebanking dbsbankindia,DBS Bank,0.5,Positive
+305,1476164557819154433,2021-12-29 12:13:51+00:00,thank sustainable effort sustainability responsiblebanking,DBS Bank,0.0,Neutral
+306,1476164079257468928,2021-12-29 12:11:56+00:00,customized sustainable solution one world leading clothing company,DBS Bank,0.0,Neutral
+307,1476220314732273665,2021-12-29 15:55:24+00:00,inditexs partnership helping indianfarmers livemorebankless organicfarming cotton finance inditex sustainability,DBS Bank,0.0,Neutral
+308,1476219806072201223,2021-12-29 15:53:23+00:00,great way moving towards sustainability helping save planet livemorebankless organic farming,DBS Bank,0.8,Positive
+309,1476219674618568708,2021-12-29 15:52:51+00:00,truly inspiring livemorebankless organic farming cotton finance inditex sustainability,DBS Bank,0.5,Positive
+310,1476219575129702404,2021-12-29 15:52:28+00:00,good see bank going beyond banking helping make change country sustainability livemorebankless,DBS Bank,0.7,Positive
+311,1476219335635255298,2021-12-29 15:51:31+00:00,come new original initiative bravo sustainability livemorebankless,DBS Bank,0.2556818181818182,Positive
+312,1476219124795654147,2021-12-29 15:50:40+00:00,truly inspiring work bank organicfarming cotton finance inditex sustainability,DBS Bank,0.5,Positive
+313,1476218916770762755,2021-12-29 15:49:51+00:00,great supporter indianfarmers sustainability cotton,DBS Bank,0.8,Positive
+314,1476218779918950401,2021-12-29 15:49:18+00:00,transition financing program benefitting indianfarmers good effort dbsbankindia livemorebankless sustainability,DBS Bank,0.7,Positive
+315,1476218707726651395,2021-12-29 15:49:01+00:00,bank innovating developing financing program global company directly benefitting indian farmer kudos sustainability,DBS Bank,0.05,Positive
+316,1476218564365324290,2021-12-29 15:48:27+00:00,bank whose work help farmer help planet become sustainable practice good job financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.7,Positive
+317,1476218464960274432,2021-12-29 15:48:03+00:00,waterintensive crop like cotton inditex excellent job collaborating towards sustainability organiccotton indianfarmers,DBS Bank,1.0,Positive
+318,1476218256969117699,2021-12-29 15:47:13+00:00,applause effort cotton financing sustainability,DBS Bank,0.0,Neutral
+319,1476215319022628864,2021-12-29 15:35:33+00:00,cheer sustainable initiative livemorebankless organic farming cotton finance inditex transitionfinancing sustainability,DBS Bank,0.0,Neutral
+320,1476215198763520000,2021-12-29 15:35:04+00:00,effort beyond banking show sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
+321,1476215062494781441,2021-12-29 15:34:32+00:00,thank sustainable effort sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
+322,1476214900414287879,2021-12-29 15:33:53+00:00,working towards better future u thankyou sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.25,Positive
+323,1476214573824823296,2021-12-29 15:32:35+00:00,great way moving towards sustainability dbsbankindia livemorebankless organic farming cotton finance inditex,DBS Bank,0.8,Positive
+324,1476213906599079940,2021-12-29 15:29:56+00:00,good effort towards fashion apparel industry helping adapt sustainability sustainability transitionfinance supplychain,DBS Bank,0.7,Positive
+325,1476212969570652162,2021-12-29 15:26:13+00:00,well done decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.0,Neutral
+326,1476212684840259587,2021-12-29 15:25:05+00:00,commendable effort towards sustainability organiccotton cotton indianframers responsiblebanking,DBS Bank,0.0,Neutral
+327,1476212595082162176,2021-12-29 15:24:44+00:00,amazing effort decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.6000000000000001,Positive
+328,1476211570891890692,2021-12-29 15:20:39+00:00,good see responsiblebanking good going decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.7,Positive
+329,1476211415895531531,2021-12-29 15:20:02+00:00,great effort working towards transitionfinancing decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.8,Positive
+330,1476211167777357839,2021-12-29 15:19:03+00:00,amazing inspirational work decarbonization sustainability livemorebankless organic farming cotton finance inditex transitionfinancing,DBS Bank,0.55,Positive
+331,1476211001099907075,2021-12-29 15:18:23+00:00,excellent job conducting targeted sustainability campaign dbsbankindia portraitsofpurpose,DBS Bank,1.0,Positive
+332,1476210602976579587,2021-12-29 15:16:49+00:00,excellent work working concrete purposeful activity decarbonization sustainability livemorebankless,DBS Bank,0.575,Positive
+333,1476210193545367559,2021-12-29 15:15:11+00:00,encouraging every one u sustainable sustainability livemorebankless,DBS Bank,0.0,Neutral
+334,1476210054659407873,2021-12-29 15:14:38+00:00,great job transitionfinancing indianfarmers decarbonization sustainability livemorebankless,DBS Bank,0.8,Positive
+335,1476207743971192840,2021-12-29 15:05:27+00:00,appreciate work helping indianfarmers transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.0,Neutral
+336,1476206367044079617,2021-12-29 14:59:59+00:00,hat effort towards sustainability,DBS Bank,0.0,Neutral
+337,1476206218884513792,2021-12-29 14:59:23+00:00,shoutout excellent support indianfarmers sustainability cotton,DBS Bank,1.0,Positive
+338,1476203179188441092,2021-12-29 14:47:19+00:00,respect sustainability cotton,DBS Bank,0.0,Neutral
+339,1476203023516921860,2021-12-29 14:46:41+00:00,show even bank work towards sustainability,DBS Bank,0.0,Neutral
+340,1476202827496050697,2021-12-29 14:45:55+00:00,much needed initiative indianfarmers sustainability cotton,DBS Bank,0.2,Positive
+341,1476202577603678210,2021-12-29 14:44:55+00:00,great initiative sustainability cotton indianfarmers,DBS Bank,0.8,Positive
+342,1476202416852799489,2021-12-29 14:44:17+00:00,glad see livemorewasteless sustainability,DBS Bank,0.5,Positive
+343,1476202306693582849,2021-12-29 14:43:51+00:00,here excellent support indianfarmers sustainability cotton,DBS Bank,1.0,Positive
+344,1476202193589981184,2021-12-29 14:43:24+00:00,amazing contribution making social impact dbsbankindia livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.3166666666666667,Positive
+345,1476200884598022150,2021-12-29 14:38:12+00:00,hoping fashion brand switch organic cotton farming well sustainability transitionfinancing,DBS Bank,0.0,Neutral
+346,1476200412109631490,2021-12-29 14:36:19+00:00,taking step forward towards sustainability,DBS Bank,0.0,Neutral
+347,1476199864794943491,2021-12-29 14:34:08+00:00,going beyond towards sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,0.0,Neutral
+348,1476199673333354496,2021-12-29 14:33:23+00:00,cheering providing help indianfarmers transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.0,Neutral
+349,1476199392163946499,2021-12-29 14:32:16+00:00,good see bank going beyond banking helping towards making change sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.7,Positive
+350,1476198565122752513,2021-12-29 14:28:59+00:00,hand good job sustainable livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.7,Positive
+351,1476198407647600640,2021-12-29 14:28:21+00:00,amazing job indianfarmers financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.6000000000000001,Positive
+352,1476198381076692995,2021-12-29 14:28:15+00:00,saving planet sustainability,DBS Bank,0.0,Neutral
+353,1476198368904810498,2021-12-29 14:28:12+00:00,banking purposeful activity good going sustainability livemorebankless,DBS Bank,0.7,Positive
+354,1476198221680504834,2021-12-29 14:27:37+00:00,working towards better future u sustainability indianfarmers,DBS Bank,0.25,Positive
+355,1476198190223224834,2021-12-29 14:27:29+00:00,good dbsbankindia livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.7,Positive
+356,1476197993384538113,2021-12-29 14:26:42+00:00,commendable work bank working towards sustainability clapping hand indiafarmers transitionfinancing livemorebankless dbsbankindia,DBS Bank,0.0,Neutral
+357,1476197989483905030,2021-12-29 14:26:41+00:00,world need great job sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.8,Positive
+358,1476197826832920576,2021-12-29 14:26:03+00:00,commendable effort towards sustainability sustainability livemorebankless livemorewasteless cotton indianfarmers,DBS Bank,0.0,Neutral
+359,1476197764186787840,2021-12-29 14:25:48+00:00,effort helping supply chain inclusive carbonconscious clapping hand sustainability,DBS Bank,0.0,Neutral
+360,1476197686499966980,2021-12-29 14:25:29+00:00,applause good job sustainability initiative indianfarmers cotton financing,DBS Bank,0.7,Positive
+361,1476197579054407681,2021-12-29 14:25:03+00:00,sustainability lead better future good see institution working financing indianfarmers dbsbankindia,DBS Bank,0.39999999999999997,Positive
+362,1476197495147741184,2021-12-29 14:24:43+00:00,bank helping planet become sustainable practice great job financing dbsbankindia livemorebankless sustainability cotton,DBS Bank,0.8,Positive
+363,1476197394018492416,2021-12-29 14:24:19+00:00,good effort dbsbankindia livemorebankless sustainability,DBS Bank,0.7,Positive
+364,1476197104653459456,2021-12-29 14:23:10+00:00,love work transitionfinancing program dbsbankindia livemorebankless sustainability,DBS Bank,0.5,Positive
+365,1476196857650966528,2021-12-29 14:22:11+00:00,great work sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,0.8,Positive
+366,1476196733436661761,2021-12-29 14:21:42+00:00,going beyond plain banking kudos effort towards sustainability transitionfinancing dbsbankindia livemorebankless indianfarmers,DBS Bank,-0.21428571428571427,Negative
+367,1476190362745982979,2021-12-29 13:56:23+00:00,working towards better future sustainability livemorebankless livemorewasteless,DBS Bank,0.25,Positive
+368,1476189972927373314,2021-12-29 13:54:50+00:00,keep going support sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
+369,1476189843356983296,2021-12-29 13:54:19+00:00,sustainable initiative iconic sustainability livemorebankless livemorewasteless,DBS Bank,0.5,Positive
+370,1476189472584704005,2021-12-29 13:52:51+00:00,grateful working towards sustainability dbsbankindia livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
+371,1476189343320403979,2021-12-29 13:52:20+00:00,coming really unique financing program sustainability livemorebankless livemorewasteless,DBS Bank,0.375,Positive
+372,1476189164240400384,2021-12-29 13:51:37+00:00,responsible bank creating impact sustainable financing sustainability livemorebankless livemorewasteless,DBS Bank,0.2,Positive
+373,1476189114630168579,2021-12-29 13:51:25+00:00,youre right thing sustainability livemorebankless,DBS Bank,0.2857142857142857,Positive
+374,1476188932391927812,2021-12-29 13:50:42+00:00,empowering business purposedriven partnership coming unique innovative financing program sustainability livemorebankless livemorewasteless,DBS Bank,0.4375,Positive
+375,1476188884543229954,2021-12-29 13:50:30+00:00,great initiative sustainability livemorebankless livemorewasteless,DBS Bank,0.8,Positive
+376,1476188718218182658,2021-12-29 13:49:51+00:00,great see bank work greater good society sustainability livemorebankless livemorewasteless,DBS Bank,0.6666666666666666,Positive
+377,1476188397412646914,2021-12-29 13:48:34+00:00,bank coming innovative financing program kudos sustainability,DBS Bank,0.5,Positive
+378,1476187941240143872,2021-12-29 13:46:46+00:00,enabling enterprise create impact scale sustainable financing sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
+379,1476187792543682562,2021-12-29 13:46:10+00:00,making difference sustainability livemorebankless livemorewasteless,DBS Bank,0.0,Neutral
+380,1476187096897363969,2021-12-29 13:43:24+00:00,great see working towards sustainability livemorewasteless,DBS Bank,0.8,Positive
+381,1476186766906302464,2021-12-29 13:42:06+00:00,grateful see bank work greater good sustainability livemorebankless,DBS Bank,0.6,Positive
+382,1476186605891117056,2021-12-29 13:41:27+00:00,sustainable initiative genuinely inspiring sustainability livemorebankless livemorewasteless,DBS Bank,0.5,Positive
+383,1476186531815571463,2021-12-29 13:41:10+00:00,great initiative sustainability livemorebankless,DBS Bank,0.8,Positive
+384,1476186133998407681,2021-12-29 13:39:35+00:00,purposeful bank like worthy praise effort towards sustainability,DBS Bank,0.3333333333333333,Positive
+385,1476169477267996672,2021-12-29 12:33:23+00:00,working towards inclusive carbonconscious effort resourcescarce world good job sustainability responsiblebanking dbsbankindia,DBS Bank,0.7,Positive
+386,1476169283524718593,2021-12-29 12:32:37+00:00,glad see coming financing program help indian farmer livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.5,Positive
+387,1476168970449276929,2021-12-29 12:31:23+00:00,thank unearthing different way save world sustainability responsiblebanking,DBS Bank,0.0,Neutral
+388,1476168642874118148,2021-12-29 12:30:05+00:00,project needed sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
+389,1476168556794417157,2021-12-29 12:29:44+00:00,ups support farmer sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
+390,1476168452406595586,2021-12-29 12:29:19+00:00,cheering innovative idea sustainability responsiblebanking,DBS Bank,0.5,Positive
+391,1476168407405895680,2021-12-29 12:29:08+00:00,proving responsible bank responsiblebanking dbsbankindia sustainability,DBS Bank,0.2,Positive
+392,1476168296235864069,2021-12-29 12:28:42+00:00,glad see livemorebankless livemorewasteless sustainability cotton,DBS Bank,0.5,Positive
+393,1476168153268768770,2021-12-29 12:28:08+00:00,see effort appreciate inditex responsiblebanking dbsbankindia sustainability,DBS Bank,0.0,Neutral
+394,1476168082141769732,2021-12-29 12:27:51+00:00,step towards responsiblebanking sustainability,DBS Bank,0.0,Neutral
+395,1476168000478711808,2021-12-29 12:27:31+00:00,taking step financing decarbonization strategy corporation sustainability responsiblebanking,DBS Bank,0.0,Neutral
+396,1476167970111901700,2021-12-29 12:27:24+00:00,much needed initiative helping indianfarmers help u future sustainability cotton,DBS Bank,0.1,Positive
+397,1476167944254083072,2021-12-29 12:27:18+00:00,db inditex partnership paving way towards better business sustainability responsiblebanking,DBS Bank,0.5,Positive
+398,1476167803010879488,2021-12-29 12:26:44+00:00,support sustainability cotton,DBS Bank,0.0,Neutral
+399,1476167789119356928,2021-12-29 12:26:41+00:00,time think go green thank responsiblebanking dbsbankindia sustainability,DBS Bank,-0.2,Negative
+400,1476167763899011072,2021-12-29 12:26:35+00:00,bank partnering corporate company conduct sustainable business kudos sustainability responsiblebanking,DBS Bank,0.0,Neutral
+401,1476167676934299649,2021-12-29 12:26:14+00:00,garnered support effort beyond banking financing sustainability responsiblebanking,DBS Bank,0.0,Neutral
+402,1476167546214572035,2021-12-29 12:25:43+00:00,impressive initiative responsiblebanking dbsbankindia sustainability,DBS Bank,1.0,Positive
+403,1476167269935837184,2021-12-29 12:24:37+00:00,amazing financing program right step towards sustainability responsiblebanking dbsbankindia,DBS Bank,0.4428571428571429,Positive
+404,1476167206283005952,2021-12-29 12:24:22+00:00,setting standard rest u sustainability responsiblebanking,DBS Bank,0.0,Neutral
+405,1476167155326468096,2021-12-29 12:24:10+00:00,taking stride forward towards sustainability sustainability responsiblebanking dbsbankindia,DBS Bank,0.0,Neutral
+406,1476005296392876041,2021-12-29 01:41:00+00:00,sword deserves playing time hustling defence making positive impact fuck jimmy butler get every call always,Capital One,-0.08636363636363638,Negative
+407,1476105839899549700,2021-12-29 08:20:31+00:00,timeline making operation carbon neutral climatecrisis corporation must actonclimate many plan,Capital One,0.5,Positive
+408,1475831128561000448,2021-12-28 14:08:55+00:00,via leader approach purpose culture esg,Capital One,0.0,Neutral

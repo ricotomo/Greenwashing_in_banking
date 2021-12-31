@@ -56,7 +56,12 @@ def get_data(client, query_client, FI, date=None, reset=False):
     data = pd.DataFrame(columns=['id', 'text', 'created_at', 'company'])
     pd.set_option("display.max_rows", None, "display.max_columns", None) 
     query_client = query_client.replace("'" ,'"') 
-    print(type(query_client))
+    if query_client.find("(") != 0:
+            # print(" entered finder")
+            # print(x.find("("))
+            # print(x)
+            query_client = "(" + query_client
+    # print(type(query_client))
     print("query is : ")
 
     print(query_client)

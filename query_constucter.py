@@ -35,7 +35,7 @@ def build_query(verbose):
 
 def split_query(query, verbose):
     access_lvl="elevated"
-    other_rules = "-'credit score' lang:en -is:retweet"
+    other_rules = ") -'credit score' -RT lang:en -is:retweet"
     if access_lvl == "academic":
         rule_len = (1024 - len(other_rules))
     else:
@@ -45,7 +45,7 @@ def split_query(query, verbose):
     chunks = re.split('(OR)', query)  # Splitting from 'OR'
     if verbose:
         print(chunks)
-    curr_q=""
+    curr_q="("
     for index, chunk in enumerate(chunks):
         if verbose:
             print(curr_q)
@@ -68,11 +68,18 @@ def split_query(query, verbose):
             sized_queries.append(curr_q + other_rules)
             #makes sure we dont start with an OR
             if chunk == "OR":
-                curr_q=""
+                curr_q="("
             else:
                 curr_q=chunk
-    
+    #correct queries where opening quote is missing
     for x in sized_queries:
-        x.replace("'" ,'"') 
+        print("entered corrections")
+        x.replace("'" ,'"')
+        if x.find("(") != 0:
+            print(" entered finder")
+            print(x.find("("))
+            print(x)
+            x = "(" + x 
+            print(x)
         
     return (sized_queries)

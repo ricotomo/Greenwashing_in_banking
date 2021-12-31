@@ -60,8 +60,10 @@ if load_or_query != "load":
     df.replace({'\'': '"'}, regex=True, inplace=True)
     df.replace({'""': '"'}, regex=True, inplace=True)
     pd.set_option('display.max_colwidth', None)
-    print(df.head(10))
+    #print(df.head(10))
     df.to_csv("queries.csv")
+
+
     #print(queries)
 
 most_recent_date = None
