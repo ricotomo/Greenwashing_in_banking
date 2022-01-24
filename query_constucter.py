@@ -35,7 +35,7 @@ def build_query(verbose):
 
 def split_query(query, verbose):
     access_lvl="elevated"
-    other_rules = ") -'credit score' -RT lang:en -is:retweet"
+    other_rules = ") -'credit score' -'credit rating' -'covid' -'omnicron' -RT lang:en -is:retweet"
     if access_lvl == "academic":
         rule_len = (1024 - len(other_rules))
     else:

@@ -18,6 +18,8 @@ import query_constucter
 import twitter_client
 import tweet_cleaner
 import sentiment_analyzer
+import vader_sentiment
+import backtesting
 
 from wordcloud import WordCloud, STOPWORDS , ImageColorGenerator
 from PIL import Image
@@ -28,24 +30,17 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 
-#print results?
-verbose=False
-    
+#set to true to show print statements to help with debugging
+verbose=True    
 
-
-# #Get data
+#Get data
 client = twitter_client.connect_client(verbose)
 
 #if we want to erase the csv data and start from scratch set to true
 reset=True
 load_or_query="query"
 
-# # Searching for Tweets from the last 7 days 
-# #client.search_recent_tweets
 
-
-##fix the double quote single quote issue through utf encoding?
-#json.dumps(animals) https://stackoverflow.com/questions/42183479/i-want-to-replace-single-quotes-with-double-quotes-in-a-list/42183595
 #Build query from company accounts and ESG keywords
 if load_or_query != "load":
     queries_by_FI=query_constucter.build_query(verbose)
@@ -77,15 +72,16 @@ else:
             tweets_df = pd.read_csv("result.csv", encoding='utf-8', index_col=0) 
             tweets_df['created_at'] = pd.to_datetime(tweets_df['created_at'])
             most_recent_date = tweets_df['created_at'].max()
-
+            print("getting data from: ")
+            print(most_recent_date)
         for query in queries:
-            data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset)
+            data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset, verbose)
             tweets_df = tweets_df.append(data)
             #print(tweets_df)
     except:
         tweets_df = pd.DataFrame(columns=['id', 'created_at', 'text', 'company'])
         for query in queries:
-            data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset)
+            data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset, verbose)
             tweets_df = tweets_df.append(data)
             #print(tweets_df)
 
@@ -143,9 +139,29 @@ tweets_df['textblob_sentiment'] = tweets_df['text'].map(lambda x: sentiment_anal
 tweets_df.to_csv("sentiment_textblob.csv")
 
 #Number of Tweets (Total, Positive, Negative, Neutral)
+print("Using Textblob sentiment analysis tweets are classified as:")
 print('positive number: ', tweets_df['textblob_sentiment'].value_counts()["Positive"])
 print('negative number: ', tweets_df['textblob_sentiment'].value_counts()["Negative"])
 print('neutral number: ', tweets_df['textblob_sentiment'].value_counts()["Neutral"])
+
+#perform backtesting 
+backtesting.backtest("textblob")
+
+#sentiment analysis with BERT
+
+#sentiment analysis with VADER
+tweets_df['vader_polarity'] = np.nan
+tweets_df['vader_sentiment'] = np.nan
+tweets_df['vader_polarity'] = tweets_df['text'].map(lambda x: vader_sentiment.getPolarity(x))
+tweets_df['vader_sentiment'] = tweets_df['text'].map(lambda x: vader_sentiment.getSentiment(x))
+tweets_df.to_csv("sentiment_vader.csv")
+
+print("Using Vader sentiment analysis tweets are classified as:")
+print('positive number: ', tweets_df['vader_sentiment'].value_counts()["Positive"])
+print('negative number: ', tweets_df['vader_sentiment'].value_counts()["Negative"])
+print('neutral number: ', tweets_df['vader_sentiment'].value_counts()["Neutral"])
+
+backtesting.backtest("vader")
 
 #inform user code is done executing
 print("The code has finished executing ")

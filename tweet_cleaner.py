@@ -14,7 +14,7 @@ from textblob import TextBlob
 pd.set_option('display.max_colwidth', 100)
 
 def remove_usernames(text):
-    print(text)
+    #print(text)
     try:
         str(text)
         text = re.sub('@[\w]+','',text)
