@@ -34,7 +34,7 @@ def build_query(verbose):
 ## work in progress change this so it uses info including company name
 
 def split_query(query, verbose):
-    access_lvl="elevated"
+    access_lvl="academic"
     other_rules = ") -'credit score' -'credit rating' -'covid' -'omnicron' -RT lang:en -is:retweet"
     if access_lvl == "academic":
         rule_len = (1024 - len(other_rules))

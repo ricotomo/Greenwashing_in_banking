@@ -78,7 +78,7 @@ def get_data(client, query_client, FI, date=None, reset=False, verbose=False):
     if (date != None and reset==False):
         start=date
     
-    for tweet in tweepy.Paginator(client.search_all_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], start_time=start, end_time=end, max_results=500).flatten(limit=10000):
+    for tweet in tweepy.Paginator(client.search_all_tweets, query=query_client, tweet_fields=['text', 'created_at', 'id'], start_time=start, end_time=end, max_results=500).flatten(limit=20000):
     #The below line is for elevated API acces rather than academic (search recent tweets vs search all)
         data1 = [{'id':tweet.id, 'text':tweet.text.replace('\n', ' '), 'created_at':tweet.created_at, 'company':str(FI)}]
         returned_tweet = pd.DataFrame.from_dict(data1, orient='columns')
