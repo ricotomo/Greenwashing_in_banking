@@ -31,22 +31,23 @@ from sklearn.feature_extraction.text import CountVectorizer
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 
 #set to true to show print statements to help with debugging
-verbose=True    
+verbose=False    
 
 #Get data
 client = twitter_client.connect_client(verbose)
 
 #if we want to erase the csv data and start from scratch set to true
-reset=True
-load_or_query="query"
+reset=False
+load_or_query="load"
 
 
-#Build query from company accounts and ESG keywords
+#Build query from company accounts and ESG keywords for getting tweets @ company
+rules=") -'credit score' -'credit rating' -'covid' -'omnicron' -RT lang:en -is:retweet"
 if load_or_query != "load":
     queries_by_FI=query_constucter.build_query(verbose)
     queries=[]
     for index, query in enumerate(queries_by_FI):
-        for query2 in (query_constucter.split_query(query[1], verbose)):
+        for query2 in (query_constucter.split_query(query[1], rules, verbose)):
                 queries.append([query[0], query2])
     #fix error were the double quote is being saved as a single quote. Twitter API only recognizes double qoutes
     for query in queries:
@@ -84,6 +85,8 @@ else:
             data=twitter_client.get_data(client, query[1], query[0], most_recent_date, reset, verbose)
             tweets_df = tweets_df.append(data)
             #print(tweets_df)
+
+#######################DATA CLEANING#######################################
 
 #get rid of duplicate tweets, get rid of NaNs, and reset index of dataframe
 tweets_df = tweets_df.drop_duplicates('id', keep='last')
@@ -131,6 +134,10 @@ tweets_df['text'] = tweets_df['text'].map(lambda x: TreebankWordDetokenizer().de
 
 #print(tweets_df.head(5))
 
+
+#######################SENTIMENT ANALYSIS#######################################
+
+
 #sentiment analysis with textblob
 tweets_df['textblob_polarity'] = np.nan
 tweets_df['textblob_sentiment'] = np.nan
@@ -162,6 +169,30 @@ print('negative number: ', tweets_df['vader_sentiment'].value_counts()["Negative
 print('neutral number: ', tweets_df['vader_sentiment'].value_counts()["Neutral"])
 
 backtesting.backtest("vader")
+
+
+#######################GREENWASHING SCORE#######################################
+
+#######################QUERY BUILDER#######################################
+
+
+#Build query from company accounts and ESG keywords for getting tweets from company
+rules=""
+if load_or_query != "load":
+    queries_from_FI=query_constucter.build_query_from(verbose)
+    queries=[]
+    for index, query in enumerate(queries_by_FI):
+        for query2 in (query_constucter.split_query(query[1], rules, verbose)):
+                queries.append([query[0], query2])
+    #fix error were the double quote is being saved as a single quote. Twitter API only recognizes double qoutes
+    for query in queries:
+        query[1] = query[1].replace("'" ,'"') 
+    df = pd.DataFrame(queries)
+    df.replace({'\'': '"'}, regex=True, inplace=True)
+    df.replace({'""': '"'}, regex=True, inplace=True)
+    pd.set_option('display.max_colwidth', None)
+    #print(df.head(10))
+    df.to_csv("queries.csv")
 
 #inform user code is done executing
 print("The code has finished executing ")

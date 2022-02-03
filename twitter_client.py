@@ -92,3 +92,7 @@ def get_data(client, query_client, FI, date=None, reset=False, verbose=False):
         print("twitter client complete data is")
         print(data)
     return data
+
+def getCountFromUser(client, date=None, reset=False, verbose=False):
+
+    return None
