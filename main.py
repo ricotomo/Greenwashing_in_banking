@@ -177,22 +177,22 @@ backtesting.backtest("vader")
 
 
 #Build query from company accounts and ESG keywords for getting tweets from company
-rules=""
-if load_or_query != "load":
-    queries_from_FI=query_constucter.build_query_from(verbose)
-    queries=[]
-    for index, query in enumerate(queries_by_FI):
-        for query2 in (query_constucter.split_query(query[1], rules, verbose)):
-                queries.append([query[0], query2])
-    #fix error were the double quote is being saved as a single quote. Twitter API only recognizes double qoutes
-    for query in queries:
-        query[1] = query[1].replace("'" ,'"') 
-    df = pd.DataFrame(queries)
-    df.replace({'\'': '"'}, regex=True, inplace=True)
-    df.replace({'""': '"'}, regex=True, inplace=True)
-    pd.set_option('display.max_colwidth', None)
-    #print(df.head(10))
-    df.to_csv("queries.csv")
+# rules=""
+# if load_or_query != "load":
+#     queries_from_FI=query_constucter.build_query_from(verbose)
+#     queries=[]
+#     for index, query in enumerate(queries_by_FI):
+#         for query2 in (query_constucter.split_query(query[1], rules, verbose)):
+#                 queries.append([query[0], query2])
+#     #fix error were the double quote is being saved as a single quote. Twitter API only recognizes double qoutes
+#     for query in queries:
+#         query[1] = query[1].replace("'" ,'"') 
+#     df = pd.DataFrame(queries)
+#     df.replace({'\'': '"'}, regex=True, inplace=True)
+#     df.replace({'""': '"'}, regex=True, inplace=True)
+#     pd.set_option('display.max_colwidth', None)
+#     #print(df.head(10))
+#     df.to_csv("queries.csv")
 
-#inform user code is done executing
-print("The code has finished executing ")
+# #inform user code is done executing
+# print("The code has finished executing ")
