@@ -9,6 +9,7 @@ import twitter_client
 import tweet_cleaner
 import sentiment_analyzer
 import vader_sentiment
+import google_sentiment
 
 
 def backtest(method):
@@ -35,7 +36,7 @@ def backtest(method):
     #remove stopwords
     bt_analysis_df['text'] = bt_analysis_df['text'].map(lambda x: tweet_cleaner.remove_stopwords(x))
     # #stemming
-    # tweets_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.stemming(x))
+    # bt_analysis_df['text'] = tweets_df['text'].map(lambda x: tweet_cleaner.stemming(x))
     #lemmantization
     bt_analysis_df['text'] = bt_analysis_df['text'].map(lambda x: tweet_cleaner.lemmatizer(x))
     #untokenize after processing so we can calculate sentiment
@@ -57,7 +58,13 @@ def backtest(method):
                 bt_result_df = bt_result_df.append(returned_tweet, ignore_index=True)
             bt_result_df.to_csv("vader_backtesting.csv")
             print("The vader sentiment analysis has an accuracy of: ")
-    
+    elif method == "google":
+            for index, x in bt_analysis_df.iterrows():
+                data = [{'id':x['id'], 'text':x['text'], 'predicted':x['sentiment_class'], 'actual': google_sentiment.getSentiment(x['text'])}]
+                returned_tweet = pd.DataFrame.from_dict(data, orient='columns')
+                bt_result_df = bt_result_df.append(returned_tweet, ignore_index=True)
+            bt_result_df.to_csv("google_backtesting.csv")        
+            print("The Google Cloud sentiment analysis has an accuracy of: ")
     #subsetDataFrame = bt_result_df[bt_result_df['predicted'] == bt_result_df['actual']]
     equality_counter=0
     for index, row in bt_result_df.iterrows():

@@ -10,7 +10,7 @@ import re
 import emoji
 import demoji
 from textblob import TextBlob
-
+import iso8601
 pd.set_option('display.max_colwidth', 100)
 
 def remove_usernames(text):
@@ -67,3 +67,20 @@ def byte_to_string(text):
 def spell_correct(text):
     text = TextBlob(text).correct()
     return text
+
+def to_year(text):
+    year = iso8601.parse_date(text).year
+    return year
+
+def standardize_names(text):
+    dict={"Westpac": "Westpac Banking Corp", "Wells Fargo": "Wells Fargo & Co", "Standard Chartered":"Standard Chartered PLC","Schroders":"Schroders PLC",
+    "National Australia Bank":"National Australia Bank Ltd","Lloyds Banking Group":"Lloyds Banking Group PLC","JP Morgan Chase":"JPMorgan Chase & Co","HSBC":"HSBC Holdings PLC",
+        "HDFC Bank":"HDFC Bank Ltd","Goldman Sachs":"Goldman Sachs Group Inc","DBS Bank":"DBS Group Holdings LTD","Commonwealth Bank":"Commonwealth Bank of Australia",
+        "Close Brothers":"Close Brothers Group PLC","Citigroup":"Citigroup Inc","Charles Schwab":"Charles Schwab Corp","Capital One":"Capital One Financial Corp",
+        "Barclays":"Barclays PLC", "Scotiabank":"Bank of Nova Scotia", "Bank of America":"Bank of America Corp", "Santander":"Banco Santander SA "
+        , "Australia and New Zealand Banking Group":"Australia and New Zealand Banking Group Ltd", "The Bank of New York Mellon":"Bank of New York Mellon Corp"}
+    if text in dict:
+        name = dict[text]
+    else:
+        name = text
+    return name

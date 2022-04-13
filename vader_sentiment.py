@@ -6,16 +6,16 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
 
 def getPolarity(text):
-   return sid.polarity_scores(text)
+   return sid.polarity_scores(text)['compound']
 
 def getAnalysis(score):
-  if score <= -0.05:
+  if score <= -0.5:
     return 'Negative'
-  elif score >= 0.05:
+  elif score >= 0.5:
     return 'Positive'
   else:
     return 'Neutral'
 
 def getSentiment(tweet):
-    compound = getPolarity(tweet)['compound']
+    compound = getPolarity(tweet)
     return getAnalysis(compound)
